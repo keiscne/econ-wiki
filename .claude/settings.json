@@ -5,5 +5,19 @@
       "Bash(pdftotext -f 1 -l 5 \"AI 기술 확산이 고용에 미치는 영향.pdf\" -)",
       "Bash(git push *)"
     ]
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"/e/econ-wiki\" 2>/dev/null || cd \"e:/econ-wiki\" 2>/dev/null || exit 0; git rev-parse --is-inside-work-tree >/dev/null 2>&1 || exit 0; CHANGES=\"$(git status --porcelain -- sources wiki datasets index.md log.md CLAUDE.md 2>/dev/null)\"; if [ -z \"$CHANGES\" ]; then exit 0; fi; for p in sources wiki datasets index.md log.md CLAUDE.md; do [ -e \"$p\" ] && git add \"$p\"; done; git commit -m \"Auto-sync wiki updates ($(date -u +'%Y-%m-%d %H:%M UTC'))\" >/dev/null 2>&1; git push origin main >/dev/null 2>&1; exit 0",
+            "timeout": 30,
+            "statusMessage": "Syncing wiki changes to GitHub..."
+          }
+        ]
+      }
+    ]
   }
 }
