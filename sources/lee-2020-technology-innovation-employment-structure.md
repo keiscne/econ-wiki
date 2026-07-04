@@ -99,6 +99,7 @@ datasets_used: []
 - 델파이 조사는 전문가 주관적 판단에 의존하며, 2019-2020년 비교가 코로나19만의 순수한 효과인지 다른 요인(산업구조 변화 등)과 분리되지 않음
 
 ## Related Work
+- [[lee-2021-technology-change-employment-effects]] — 동일 제1저자(이시균)가 본 연구의 총고용 효과 분석(3장)을 요약·갱신하고 숙련백분위·1인자영업자·초단시간노동 분석을 추가한 후속 기획특집(2021, 한국고용정보원 『고용이슈』 가을호)
 - 원문에 인용된 Acemoglu and Restrepo(2019), Autor and Salomons(2018)의 이론적 틀은 [[acemoglu-2019-automation-and-new-tasks-how]]에서 상세 검토됨
 - [[kiet-2025-ai-occupational-employment-effect]] — 동일하게 고용보험 유사 행정DB(사업장 패널)를 활용한 후속 AI 노출도 연구; 본 연구는 TFP·ICT자본을 기술혁신 대리변수로 사용한 반면 kiet-2025는 Felten AIOE 직업노출지수를 사용
 - [[han-2023-ai-and-labor-market-change]] — Webb(2020) 특허기반 노출지수로 로봇·소프트웨어의 실제 고용·임금 효과를 추정한 병행 국내 연구

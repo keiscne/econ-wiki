@@ -58,7 +58,10 @@
 - [숙련 네트워크 분석으로 본 AI 시대의 핵심 숙련](wiki/reference/labor_economics/chang-2026-skill-network-ai-era.md) — 구인공고 6,558개 숙련 키워드로 확산도·페이지랭크 중심성·전이가능성 3지표 개발, 관리및지원·고객및클라이언트지원 숙련군이 최상위이며 AI/ML 숙련이 IT를 넘어 금융·제조업으로 전이 확산 (Tier 1)
 - [인공지능(AI) 발전의 고용효과](wiki/reference/labor_economics/chang-2024-ai-development-employment-effects.md) — AI노출도(9.8% 자동화·15.9% 증강 잠재력)와 AI도입률(구인공고+고용보험DB, 4.0%)을 구분 분석, 도입기업이 관리·전문·사무직 채용도 더 많고 IV추정 생산성효과 12.7%**, AI노출 높은 기업일수록 성과지향 연공제 등 내부노동시장 강화 확인 (Tier 1)
 - [인공지능(AI)의 고용과 임금 효과](wiki/reference/labor_economics/cheon-2022-ai-employment-wage-effects.md) — Felten 방식 AIOE를 고용보험DB(지역×직업 셀)에 연계, AI는 고용증가에 유의(+3.3%p/SD)하나 임금상승률엔 비유의, 임금수준 프리미엄은 고학력·고임금층에서 더 뚜렷 (Tier 1)
-- [기술혁신이 고용구조 변화에 미치는 효과](wiki/reference/labor_economics/lee-2020-technology-innovation-employment-structure.md) — ICT자본·TFP를 기술혁신 대리변수로 노동생산성·총고용·일자리양극화·소득불평등을 산업패널로 종합분석, 총고용은 순증가하나 고숙련편향 기술변화 확인, 코로나19 전후 델파이 조사로 자동화 고위험군 비중 20.9%→29.5% 증가 규명 (Tier 1)
+- [기술혁신이 고용구조 변화에 미치는 효과](wiki/reference/labor_economics/lee-2020-technology-innovation-employment-structure.md) — ICT자본·TFP를 기술혁신 대리변수로 노동생산성·총고용·일자리양극화·소득불평등을 산업패널로 종합분석, 총고용은 순증가하나 고숙련편향 기술변화 확인, 코로나19 전후 델파이 조사로 자동화 고위험군 비중 20.9%→29.5% 증가 규명
+- [인공지능 시대의 숙련](wiki/reference/labor_economics/chang-2025-ai-era-skills.md) — 한국노동연구원 연구보고서(238p). 한국숙련사전 6,558개 숙련 AI노출도(GPT-4 델파이)와 IT숙련 네트워크 중심 전환(빅데이터→보안), KNOW 자료 기반 숙련·직업 '임계적 양극화'와 인지숙련 임금프리미엄, Gould-Fernandez 브로커리지·Burt 구조적공백의 임금효과, AI 직업숙련-대학교육역량 정합성(중심성 가중)을 5개 장에 걸쳐 종합분석
+- [AI와 노동의 공존 - 생산성 향상과 불평등 개선 가능성을 중심으로](wiki/reference/labor_economics/noh-2025-ai-labor-coexistence.md) — 한국노동연구원 연구보고서(318p). 고용보험DB 삼중차분(DDD)으로 AI노출 직종의 고용유지·유의한 임금상승과 숙련·연령·기업규모별 불평등 비심화를 실증(2장), 기업-근로자 병렬설문의 활용격차(3장), 사무관리직 500명 설문의 접근성·과정·결과 3차원 불평등과 저소득층 집중 실직불안(4장), 개발자 인터뷰의 인간중심AI 실현조건(5장), 금융업·연구직·IT서비스업·콜센터 산업사례(6~9장) 종합
+- [기술변화가 고용에 미치는 영향 분석](wiki/reference/labor_economics/lee-2021-technology-change-employment-effects.md) — 한국고용정보원 『고용이슈』 2021년 가을호(16p). 이시균(2020) 선행보고서의 총고용 요인분해(Acemoglu-Restrepo/Autor-Salomons)를 갱신하고, 지역고용조사 숙련백분위·학력별 고용변동과 1인자영업자·초단시간노동 증가 추이를 신규 분석해 저숙련·플랫폼노동 확산을 실증 (Tier 1)
 
 ## indexes
 저자·주제 목차.
