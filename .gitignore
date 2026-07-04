@@ -1,0 +1,13 @@
+# 원문 PDF는 저작권 문제로 저장소에 포함하지 않음 (papers/local, papers/web)
+# 다른 컴퓨터에서는 별도 방법(클라우드 드라이브 등)으로 동기화 필요
+papers/local/*
+papers/web/*
+!papers/local/.gitkeep
+!papers/web/.gitkeep
+
+# Obsidian 로컬 UI 상태 (기기별로 달라 동기화 불필요)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Claude Code 로컬 전용 설정 (기기별 허용목록, 공유 대상 아님)
+.claude/settings.local.json
