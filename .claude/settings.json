@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(python3 -c ' *)",
-      "Bash(pdftotext -f 1 -l 5 \"AI 기술 확산이 고용에 미치는 영향.pdf\" -)"
+      "Bash(pdftotext -f 1 -l 5 \"AI 기술 확산이 고용에 미치는 영향.pdf\" -)",
+      "Bash(git push *)"
     ]
   }
 }
