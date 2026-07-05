@@ -38,6 +38,8 @@
 - [Information Technology and the U.S. Productivity Revival: What Do the Industry Data Say?](wiki/reference/applied_econometrics/stiroh-2002-information-technology-and-the-us.md) — 미국 57~61개 산업패널(1977/1987-2000)로 1995년 이후 생산성 부흥이 광범위하며 IT집약 산업일수록 가속도가 큼을 이중차분·Domar분해로 실증, 1980년대 급등기와 대조해 IT연계가 1990년대 후반 특유함을 입증 (Tier 1)
 - [생성형 AI의 생산성 분석](wiki/reference/applied_econometrics/min-2025-productivity-gains-generative-ai.md) — 분업×AI활용 2×2 온라인 실험(N=553)으로 AI가 분업을 소멸시키거나 분업의 부정적효과를 상쇄하는 두 생산성 향상 경로를 모두 실증, 두 경로의 증분 크기가 유사함을 발견 (Tier 1)
 - [기업대출과 생산적 금융](wiki/reference/applied_econometrics/shin-2026-corporate-loans-productive-finance.md) — 외감기업 3,521개(2015-2024) Hsieh-Klenow/Gopinath 방식 자원배분 비효율성 추정, 기업대출 급증이 저생산성 건설·부동산업·부동산자산에 집중되며 팬데믹 이후 비효율성이 지속 악화됨을 규명 (Tier 1)
+- [노동소득분배율 측정 및 결정요인에 관한 연구](wiki/reference/applied_econometrics/kim-2013-labor-income-share-measurement-determinants.md) — Gollin(2002) 자영업소득 조정방식을 한국 자료(1970-2010)에 적용, 독점적경쟁·Nash교섭 이론모형과 OLS·2SLS로 마크업률의 노동소득분배율에 대한 견고한 음(-)의 효과를 실증 (Tier 1)
+- [노동소득분배 결정요인 분석과 정책적 시사점](wiki/reference/applied_econometrics/baek-2022-labor-income-share-determinants-policy.md) — 회귀나무로 선진국·신흥국 노동소득분배율 결정요인 이질성 분석, 국가-산업패널(IFR·KLEMS)과 한국 기업활동조사 패널 양쪽에서 로봇/4차산업기술 도입이 노동소득분배율은 낮추고 노동생산성은 높임을 실증 (Tier 1)
 
 ### korean_economy
 - [2024 인공지능산업 실태조사 보고서](wiki/reference/korean_economy/spri-2024-ai-industry-survey.md) — 국가승인통계(제127016호), 2,517개 AI 기업 전수조사로 2023년 AI 산업 매출 5.6조 원·종사자 51,211명·AI 도입률 6.4% 집계 (Tier 1)
@@ -70,6 +72,8 @@
 - [인공지능 시대의 숙련](wiki/reference/labor_economics/chang-2025-ai-era-skills.md) — 한국노동연구원 연구보고서(238p). 한국숙련사전 6,558개 숙련 AI노출도(GPT-4 델파이)와 IT숙련 네트워크 중심 전환(빅데이터→보안), KNOW 자료 기반 숙련·직업 '임계적 양극화'와 인지숙련 임금프리미엄, Gould-Fernandez 브로커리지·Burt 구조적공백의 임금효과, AI 직업숙련-대학교육역량 정합성(중심성 가중)을 5개 장에 걸쳐 종합분석
 - [AI와 노동의 공존 - 생산성 향상과 불평등 개선 가능성을 중심으로](wiki/reference/labor_economics/noh-2025-ai-labor-coexistence.md) — 한국노동연구원 연구보고서(318p). 고용보험DB 삼중차분(DDD)으로 AI노출 직종의 고용유지·유의한 임금상승과 숙련·연령·기업규모별 불평등 비심화를 실증(2장), 기업-근로자 병렬설문의 활용격차(3장), 사무관리직 500명 설문의 접근성·과정·결과 3차원 불평등과 저소득층 집중 실직불안(4장), 개발자 인터뷰의 인간중심AI 실현조건(5장), 금융업·연구직·IT서비스업·콜센터 산업사례(6~9장) 종합
 - [기술변화가 고용에 미치는 영향 분석](wiki/reference/labor_economics/lee-2021-technology-change-employment-effects.md) — 한국고용정보원 『고용이슈』 2021년 가을호(16p). 이시균(2020) 선행보고서의 총고용 요인분해(Acemoglu-Restrepo/Autor-Salomons)를 갱신하고, 지역고용조사 숙련백분위·학력별 고용변동과 1인자영업자·초단시간노동 증가 추이를 신규 분석해 저숙련·플랫폼노동 확산을 실증 (Tier 1)
+- [노동소득분배율의 측정: 한국에 적합한 대안의 모색](wiki/reference/labor_economics/joo-2014-measuring-labor-income-share-korea.md) — 자영업소득을 나머지 부문과 동일 비율로 분할하는 보정방식을 제안, 한국 노동소득분배율이 외환위기 후 하락 추세로 전환되고 선진국보다 낮은 수준임을 재산정 (Tier 1)
+- [노동소득분배율과 경제적 불평등](wiki/reference/labor_economics/lee-2014-labor-income-share-economic-inequality.md) — 한국노동연구원 연구보고서(8개장). 노동소득분배율 1996년 79.8%→2012년 68.1% 하락의 98.8%가 산업내 분배변화에서 기인함을 규명하고 거시 성장효과·임금계층별 분배·기업단위 결정요인·가계소득 연계·소득주도성장론까지 종합 (Tier 1)
 
 ## indexes
 저자·주제 목차.
