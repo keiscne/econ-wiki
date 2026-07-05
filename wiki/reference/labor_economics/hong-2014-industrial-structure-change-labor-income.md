@@ -33,6 +33,7 @@ tags: [labor_income_share, industrial_structure, shift_share_decomposition, kore
 
 ## Related Papers
 
+- [[kang-2013-income-distribution-industrial-structure-labor-share]] — 본 이슈분석의 원 연구(홍민기 2013, 강신욱 외 보고서 3장).
 - [[kim-2013-labor-income-share-measurement-determinants]] — 기업의 시장지배력이 노동소득 분배율에 미치는 영향을 실증분석.
 - [[jeon-2015-industry-labor-income-share-measurement]] — 동일한 산업구조/산업내 분해 접근을 자영업소득 보정방식을 개선해 재수행.
 - [[joo-2014-measuring-labor-income-share-korea]] — 유사한 시기 외환위기 이후 노동소득분배율 하락을 경제 전체 수준에서 재확인.
