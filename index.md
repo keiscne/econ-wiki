@@ -21,7 +21,7 @@
 (없음)
 
 ### international_economics
-(없음)
+- [국제 산업구조 변화에 따른 경제적 효과 분석 및 혁신성장 지표 연구](wiki/reference/international_economics/jeong-2024-international-industry-structure-change.md) — ADB 국제산업연관표에서 반도체 산업을 분리해 HEM·GEM 방식으로 국가별 반도체 생산중단 시나리오의 GDP 파급효과 정량화, 중국 반도체 추출 시 한국이 감소분의 18.5%(HEM)를 흡수 (Tier 1)
 
 ### applied_econometrics
 - [Tasks, Automation, and the Rise in U.S. Wage Inequality](wiki/reference/applied_econometrics/acemoglu-2022-tasks-automation-and-the-rise.md) — 과업변위(task displacement) 측정치로 1980~2016년 미국 임금구조 변화의 50~70%를 설명하고 일반균형 효과까지 정량화 (Tier 1)
@@ -43,9 +43,11 @@
 - [2024 인공지능산업 실태조사 보고서](wiki/reference/korean_economy/spri-2024-ai-industry-survey.md) — 국가승인통계(제127016호), 2,517개 AI 기업 전수조사로 2023년 AI 산업 매출 5.6조 원·종사자 51,211명·AI 도입률 6.4% 집계 (Tier 1)
 - [주요 산업별 인공지능(AI) 도입 현황 및 시사점](wiki/reference/korean_economy/kim-2021-ai-adoption-status-major-industries.md) — KISDI가 5대 산업 368개 기업을 면대면 조사, AI 도입률 14.7%(EU 약 42% 대비 저조)·도입기업 87.0% 긍정적 성과 보고 (Tier 1)
 - [국내 기업의 인공지능 활용과 정책과제](wiki/reference/korean_economy/kiet-2024-ai-adoption-firms-policy.md) — 기업활동조사(2017-2022) TWFE로 AI 생산성 효과 비유의, 560개 기업 실태조사로 도입 장애요인(기술인력 부족 41.6%, 자금부족 37.3%) 및 4축 정책 프레임워크 제시 (Tier 1)
+- [국내 기업의 인공지능(AI) 도입 및 특징: 사업보고서(2010년~2024년)를 활용한 분석](wiki/reference/korean_economy/seo-2025-ai-adoption-characteristics-business-reports.md) — DART 사업보고서 38,522건 텍스트마이닝으로 AI 도입률이 2010년 13.5%→2024년 53.7%로 상승(AI기업이 비AI기업 수 역전)함을 실증, 두 그룹 간 사업내용 언어적 차이도 규명 (Tier 1)
 
 ### national_accounts
 - [한국 은행산업의 부가가치와 생산성](wiki/reference/national_accounts/kim-2015-value-added-productivity-korean-banking.md) — 분배측면 부가가치로 은행산업 총요소생산성(KH 지표)을 1991~2013년 최초 추정, 2013년 생산성이 1991년 수준(1.70)에 정체되고 부실채권 비용처리가 변동의 핵심 요인임을 규명 (Tier 1)
+- [2024년 산업별 생산성 계정 구축 및 성장기여 분석 (1981-2023)](wiki/reference/national_accounts/jeong-2024-industry-productivity-accounts-growth.md) — 70개 산업·19개 자산(지식기반 무형자산 포함) KISDI 생산성 계정 구축, 총부가가치 증가율이 2000년대 5.14%→2020년대 2.42%로 하락하고 제조업 TFP 악화가 핵심 원인임을 규명 (Tier 1)
 
 ### labor_economics
 - [Skills, Tasks and Technologies: Implications for Employment and Earnings](wiki/reference/labor_economics/acemoglu-2011-skills-tasks-and-technologies-implications.md) — 정통모형의 한계를 지적하고 비교우위에 따라 저·중·고숙련 노동이 연속체 과업에 내생적으로 배분되는 3-숙련 리카도 모형을 제시, 자동화·오프쇼어링·기술방향성을 통합 분석 (Tier 1)
