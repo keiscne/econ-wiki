@@ -15,6 +15,7 @@
 - [Scenarios for the Transition to AGI](wiki/reference/macroeconomics/korinek-2024-scenarios-for-the-transition-to.md) — 과업 복잡도를 컴퓨팅 자원으로 표현하는 컴퓨트 중심 자동화 모형으로, 과업 복잡도 분포가 무한/유한인지에 따라 임금이 영구성장하거나 완전자동화 이전에 붕괴하는 극단적으로 다른 AGI 이행 경로를 도출 (Tier 1)
 - [AI 도입은 생산성을 높이는가? 초기 3년의 효과 분석](wiki/reference/macroeconomics/bok-2026-ai-adoption-productivity-effects.md) — 한국은행 가계조사로 AI 활용이 업무시간을 3.8% 줄이지만 시간절감-생산증가 상관계수가 0으로 나타나는 'AI 생산성 단절' 현상을 제시 (Tier 1)
 - [AI의 빠른 확산과 생산성 효과: 가계조사를 바탕으로](wiki/reference/macroeconomics/bok-2025-rapid-ai-diffusion-productivity-effects.md) — 국내 최초 대표표본 가계조사(N=5,512)로 AI 업무활용률 51.8%(미국 2배·인터넷대비 8배속)·잠재적 생산성효과 1.0%를 측정, 물리적AI 노출(11%→27%)과 AI기금 지불의사(5년 38조원)까지 분석 (Tier 1)
+- [The Solow productivity paradox: what do computers do to productivity?](wiki/reference/macroeconomics/triplett-1999-the-solow-productivity-paradox-what.md) — 컴퓨터 생산성 역설의 7개 후보 설명(자본비중 과소·가격지수 과속하락·서비스업 측정오류·미계량 편익·확산지연·실제 저생산성·산술-로그 혼동)을 종합 평가한 개념적 리뷰 (Tier 1)
 
 ### microeconomics
 (없음)
@@ -32,6 +33,9 @@
 - [산업별 인공지능 도입의 노동시장 영향과 정책과제](wiki/reference/applied_econometrics/kiet-2024-ai-labor-market-industry.md) — 기업활동조사 다기간 DID(비유의)와 직종별사업체노동력조사 Webb 노출지수 회귀를 결합, AI 총고용 -0.43%이나 대졸·박사급 구인은 유의하게 증가 (Tier 1)
 - [인공지능의 고용 효과 분석: 직종별 차별적 영향을 중심으로](wiki/reference/applied_econometrics/kiet-2025-ai-occupational-employment-effect.md) — Felten AIOE를 19개 능력변수로 확장해 고용보험 사업장 패널(2010-2019)에 적용, 평균 고용효과 -2.36%이나 AIOE 최저분위 -31.1%/최고분위 +22.1%로 뚜렷한 선형 이질성, 35개 직종별 차별효과 최초 규명 (Tier 1)
 - [AI 도입의 결정요인 및 성과 분석 - 사업체패널조사 자료를 이용하여](wiki/reference/applied_econometrics/lee-2025-ai-adoption-determinants-performance.md) — 사업체패널조사(WPS)에 CRE 패널프로빗+Callaway-Sant'Anna 다시점DID 적용, AI 도입은 경영성과보다 직접고용(+16.4%***)에 더 뚜렷하나 도입 3년 후 효과 소멸, 유통물류서비스는 유일하게 고용감소 확인 (Tier 1)
+- [The modern Solow paradox. In search for explanations](wiki/reference/applied_econometrics/capello-2022-the-modern-solow-paradox.md) — EU 260개 NUTS2 지역(2013-2017) 회귀분석, 지역 총량 수준 자동화·디지털화 생산성 역설을 재확인하되 제조업·정보통신업 등 부문 단위에서는 역설이 사라짐을 밝히고 재배치효과·품질효과로 원인 규명 (Tier 1)
+- [Computing Productivity: Firm-Level Evidence](wiki/reference/applied_econometrics/brynjolfsson-2003-computing-productivity-firm-level-evidence.md) — 미국 대기업 527개 패널(1987-1994)로 컴퓨터화의 생산성 기여가 1년 단기차분에서는 자본비용 수준이나 7년 장기차분에서는 최대 5배로 커짐을 실증, 조직자본 가설로 해석 (Tier 1)
+- [Information Technology and the U.S. Productivity Revival: What Do the Industry Data Say?](wiki/reference/applied_econometrics/stiroh-2002-information-technology-and-the-us.md) — 미국 57~61개 산업패널(1977/1987-2000)로 1995년 이후 생산성 부흥이 광범위하며 IT집약 산업일수록 가속도가 큼을 이중차분·Domar분해로 실증, 1980년대 급등기와 대조해 IT연계가 1990년대 후반 특유함을 입증 (Tier 1)
 
 ### korean_economy
 - [2024 인공지능산업 실태조사 보고서](wiki/reference/korean_economy/spri-2024-ai-industry-survey.md) — 국가승인통계(제127016호), 2,517개 AI 기업 전수조사로 2023년 AI 산업 매출 5.6조 원·종사자 51,211명·AI 도입률 6.4% 집계 (Tier 1)
