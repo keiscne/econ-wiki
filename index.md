@@ -36,6 +36,8 @@
 - [The modern Solow paradox. In search for explanations](wiki/reference/applied_econometrics/capello-2022-the-modern-solow-paradox.md) — EU 260개 NUTS2 지역(2013-2017) 회귀분석, 지역 총량 수준 자동화·디지털화 생산성 역설을 재확인하되 제조업·정보통신업 등 부문 단위에서는 역설이 사라짐을 밝히고 재배치효과·품질효과로 원인 규명 (Tier 1)
 - [Computing Productivity: Firm-Level Evidence](wiki/reference/applied_econometrics/brynjolfsson-2003-computing-productivity-firm-level-evidence.md) — 미국 대기업 527개 패널(1987-1994)로 컴퓨터화의 생산성 기여가 1년 단기차분에서는 자본비용 수준이나 7년 장기차분에서는 최대 5배로 커짐을 실증, 조직자본 가설로 해석 (Tier 1)
 - [Information Technology and the U.S. Productivity Revival: What Do the Industry Data Say?](wiki/reference/applied_econometrics/stiroh-2002-information-technology-and-the-us.md) — 미국 57~61개 산업패널(1977/1987-2000)로 1995년 이후 생산성 부흥이 광범위하며 IT집약 산업일수록 가속도가 큼을 이중차분·Domar분해로 실증, 1980년대 급등기와 대조해 IT연계가 1990년대 후반 특유함을 입증 (Tier 1)
+- [생성형 AI의 생산성 분석](wiki/reference/applied_econometrics/min-2025-productivity-gains-generative-ai.md) — 분업×AI활용 2×2 온라인 실험(N=553)으로 AI가 분업을 소멸시키거나 분업의 부정적효과를 상쇄하는 두 생산성 향상 경로를 모두 실증, 두 경로의 증분 크기가 유사함을 발견 (Tier 1)
+- [기업대출과 생산적 금융](wiki/reference/applied_econometrics/shin-2026-corporate-loans-productive-finance.md) — 외감기업 3,521개(2015-2024) Hsieh-Klenow/Gopinath 방식 자원배분 비효율성 추정, 기업대출 급증이 저생산성 건설·부동산업·부동산자산에 집중되며 팬데믹 이후 비효율성이 지속 악화됨을 규명 (Tier 1)
 
 ### korean_economy
 - [2024 인공지능산업 실태조사 보고서](wiki/reference/korean_economy/spri-2024-ai-industry-survey.md) — 국가승인통계(제127016호), 2,517개 AI 기업 전수조사로 2023년 AI 산업 매출 5.6조 원·종사자 51,211명·AI 도입률 6.4% 집계 (Tier 1)
@@ -43,7 +45,7 @@
 - [국내 기업의 인공지능 활용과 정책과제](wiki/reference/korean_economy/kiet-2024-ai-adoption-firms-policy.md) — 기업활동조사(2017-2022) TWFE로 AI 생산성 효과 비유의, 560개 기업 실태조사로 도입 장애요인(기술인력 부족 41.6%, 자금부족 37.3%) 및 4축 정책 프레임워크 제시 (Tier 1)
 
 ### national_accounts
-(없음)
+- [한국 은행산업의 부가가치와 생산성](wiki/reference/national_accounts/kim-2015-value-added-productivity-korean-banking.md) — 분배측면 부가가치로 은행산업 총요소생산성(KH 지표)을 1991~2013년 최초 추정, 2013년 생산성이 1991년 수준(1.70)에 정체되고 부실채권 비용처리가 변동의 핵심 요인임을 규명 (Tier 1)
 
 ### labor_economics
 - [Skills, Tasks and Technologies: Implications for Employment and Earnings](wiki/reference/labor_economics/acemoglu-2011-skills-tasks-and-technologies-implications.md) — 정통모형의 한계를 지적하고 비교우위에 따라 저·중·고숙련 노동이 연속체 과업에 내생적으로 배분되는 3-숙련 리카도 모형을 제시, 자동화·오프쇼어링·기술방향성을 통합 분석 (Tier 1)
