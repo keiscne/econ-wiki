@@ -40,6 +40,7 @@
 - [기업대출과 생산적 금융](wiki/reference/applied_econometrics/shin-2026-corporate-loans-productive-finance.md) — 외감기업 3,521개(2015-2024) Hsieh-Klenow/Gopinath 방식 자원배분 비효율성 추정, 기업대출 급증이 저생산성 건설·부동산업·부동산자산에 집중되며 팬데믹 이후 비효율성이 지속 악화됨을 규명 (Tier 1)
 - [노동소득분배율 측정 및 결정요인에 관한 연구](wiki/reference/applied_econometrics/kim-2013-labor-income-share-measurement-determinants.md) — Gollin(2002) 자영업소득 조정방식을 한국 자료(1970-2010)에 적용, 독점적경쟁·Nash교섭 이론모형과 OLS·2SLS로 마크업률의 노동소득분배율에 대한 견고한 음(-)의 효과를 실증 (Tier 1)
 - [노동소득분배 결정요인 분석과 정책적 시사점](wiki/reference/applied_econometrics/baek-2022-labor-income-share-determinants-policy.md) — 회귀나무로 선진국·신흥국 노동소득분배율 결정요인 이질성 분석, 국가-산업패널(IFR·KLEMS)과 한국 기업활동조사 패널 양쪽에서 로봇/4차산업기술 도입이 노동소득분배율은 낮추고 노동생산성은 높임을 실증 (Tier 1)
+- [산업별 노동소득분배율의 결정요인](wiki/reference/applied_econometrics/jeon-2018-industrial-labor-income-share-determinants.md) — 산업별 OSPUE 배분 측정법을 GVA 분모로 재적용해 1993-2015년 22개 산업 노동소득분배율 산출, 고정효과 패널회귀로 자본집약도·연구개발집중도·수출의존도·비정규직비율 상승이 하락의 핵심 요인임을 실증 (Tier 1)
 
 ### korean_economy
 - [2024 인공지능산업 실태조사 보고서](wiki/reference/korean_economy/spri-2024-ai-industry-survey.md) — 국가승인통계(제127016호), 2,517개 AI 기업 전수조사로 2023년 AI 산업 매출 5.6조 원·종사자 51,211명·AI 도입률 6.4% 집계 (Tier 1)
@@ -74,6 +75,8 @@
 - [기술변화가 고용에 미치는 영향 분석](wiki/reference/labor_economics/lee-2021-technology-change-employment-effects.md) — 한국고용정보원 『고용이슈』 2021년 가을호(16p). 이시균(2020) 선행보고서의 총고용 요인분해(Acemoglu-Restrepo/Autor-Salomons)를 갱신하고, 지역고용조사 숙련백분위·학력별 고용변동과 1인자영업자·초단시간노동 증가 추이를 신규 분석해 저숙련·플랫폼노동 확산을 실증 (Tier 1)
 - [노동소득분배율의 측정: 한국에 적합한 대안의 모색](wiki/reference/labor_economics/joo-2014-measuring-labor-income-share-korea.md) — 자영업소득을 나머지 부문과 동일 비율로 분할하는 보정방식을 제안, 한국 노동소득분배율이 외환위기 후 하락 추세로 전환되고 선진국보다 낮은 수준임을 재산정 (Tier 1)
 - [노동소득분배율과 경제적 불평등](wiki/reference/labor_economics/lee-2014-labor-income-share-economic-inequality.md) — 한국노동연구원 연구보고서(8개장). 노동소득분배율 1996년 79.8%→2012년 68.1% 하락의 98.8%가 산업내 분배변화에서 기인함을 규명하고 거시 성장효과·임금계층별 분배·기업단위 결정요인·가계소득 연계·소득주도성장론까지 종합 (Tier 1)
+- [산업구조 변화와 노동소득 분배율](wiki/reference/labor_economics/hong-2014-industrial-structure-change-labor-income.md) — 노동소득분배율 변화를 산업구조·산업내 고용구조·산업내 분배율 3요인으로 분해, 외환위기 이전 산업내 분배율 상승이 만들던 상쇄효과가 이후 사라지며 급락했음을 규명 (Tier 1)
+- [산업별 노동소득분배율의 측정: 한국에 적합한 대안의 모색](wiki/reference/labor_economics/jeon-2015-industry-labor-income-share-measurement.md) — 경제전체 OSPUE를 산업 간 임금격차 반영해 배분하는 새 방법으로 1993-2013년 19-22개 산업 노동소득분배율 측정, 제조업·서비스업 하락 모두 산업내 분배율변화가 주도함을 실증 (Tier 1)
 
 ## indexes
 저자·주제 목차.
