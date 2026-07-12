@@ -19,6 +19,8 @@
 - [It's Baaack: Japan's Slump and the Return of the Liquidity Trap](wiki/reference/macroeconomics/krugman-1998-its-baaack-japans-slump-and.md) — 유동성함정을 현금선불제약 기간간 모형으로 재구성해 그 본질이 중앙은행의 역(逆)신뢰성 문제임을 규명하고, 1990년대 일본의 유동성함정 진입을 실증적으로 진단하며 장기 관리인플레이션 정책을 제안 (Tier 1)
 - [The Macroeconomics of the Great Depression: A Comparative Approach](wiki/reference/macroeconomics/bernanke-1995-the-macroeconomics-of-the-great.md) — 대공황 연구를 26개국 비교분석으로 확장해 금본위제 이탈국이 잔류국보다 유의하게 빠르게 회복했음을 실증하고, 부채-디플레이션·명목임금 경직성 두 총공급 전달경로를 검증 (Tier 1)
 - [Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo Approach](wiki/reference/macroeconomics/eggertsson-2010-debt-deleveraging-and-the-liquidity.md) — 차입자-저축자 2주체 모형에 외생적 부채한도 축소(민스키 모멘트)를 도입해 피셔형 부채-디플레이션·유동성함정·절약의 역설·확장적 재정정책 근거가 모두 자연스럽게 도출됨을 증명, 노동의 역설·유연성의 역설이라는 반직관적 결과도 도출 (Tier 1)
+- [Public Debt and Low Interest Rates](wiki/reference/macroeconomics/blanchard-2019-public-debt-and-low-interest.md) — 안전이자율이 성장률보다 낮은 상황(r<g)이 미국 역사의 규범이었음을 실증하고, 세대중첩모형으로 부채의 재정·후생 비용이 통상 가정보다 작을 수 있음을 이론·시뮬레이션으로 제시한 2019년 AEA 회장 강연 (Tier 1)
+- [Real Wage Rigidities and the New Keynesian Model](wiki/reference/macroeconomics/blanchard-2007-real-wage-rigidities-and-the.md) — 표준 뉴케인지언 모형의 "신의 일치"가 실질적 불완전성의 부재에서 비롯됨을 규명하고, 실질임금 경직성을 도입해 진짜 정책 트레이드오프와 인플레이션 관성을 동시에 설명 (Tier 1)
 
 ### microeconomics
 (없음)
