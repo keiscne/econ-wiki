@@ -17,6 +17,7 @@
 - [AI의 빠른 확산과 생산성 효과: 가계조사를 바탕으로](wiki/reference/macroeconomics/bok-2025-rapid-ai-diffusion-productivity-effects.md) — 국내 최초 대표표본 가계조사(N=5,512)로 AI 업무활용률 51.8%(미국 2배·인터넷대비 8배속)·잠재적 생산성효과 1.0%를 측정, 물리적AI 노출(11%→27%)과 AI기금 지불의사(5년 38조원)까지 분석 (Tier 1)
 - [The Solow productivity paradox: what do computers do to productivity?](wiki/reference/macroeconomics/triplett-1999-the-solow-productivity-paradox-what.md) — 컴퓨터 생산성 역설의 7개 후보 설명(자본비중 과소·가격지수 과속하락·서비스업 측정오류·미계량 편익·확산지연·실제 저생산성·산술-로그 혼동)을 종합 평가한 개념적 리뷰 (Tier 1)
 - [It's Baaack: Japan's Slump and the Return of the Liquidity Trap](wiki/reference/macroeconomics/krugman-1998-its-baaack-japans-slump-and.md) — 유동성함정을 현금선불제약 기간간 모형으로 재구성해 그 본질이 중앙은행의 역(逆)신뢰성 문제임을 규명하고, 1990년대 일본의 유동성함정 진입을 실증적으로 진단하며 장기 관리인플레이션 정책을 제안 (Tier 1)
+- [The Macroeconomics of the Great Depression: A Comparative Approach](wiki/reference/macroeconomics/bernanke-1995-the-macroeconomics-of-the-great.md) — 대공황 연구를 26개국 비교분석으로 확장해 금본위제 이탈국이 잔류국보다 유의하게 빠르게 회복했음을 실증하고, 부채-디플레이션·명목임금 경직성 두 총공급 전달경로를 검증 (Tier 1)
 
 ### microeconomics
 (없음)

@@ -37,4 +37,4 @@ tags: [liquidity-trap, monetary-policy, credibility, japan, deflation, ricardian
 
 ## Related Papers
 
-이 위키 내에는 아직 본 논문과 직접 연결되는 다른 문서가 없다.
+- [[bernanke-1995-the-macroeconomics-of-the-great]] — 본 논문의 재정중개·통화총량 논의(각주 8)가 "본원통화 증가에도 광의통화·은행신용이 늘지 않는 현상"의 대표 문헌으로 직접 인용하는 논문.
