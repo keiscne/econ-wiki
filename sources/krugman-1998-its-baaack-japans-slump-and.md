@@ -61,6 +61,7 @@ datasets_used: []
 ## Related Work
 
 - [[bernanke-1995-the-macroeconomics-of-the-great]] — 본 논문 각주 8("Bernanke and Cooper and Corbae, among others...")이 광의통화 위축을 통화승수 붕괴(금융중개 붕괴)로 해석하는 견해의 대표 문헌으로 직접 인용("Bernanke (1994)", 본 논문의 NBER Working Paper 4814 버전).
+- [[eggertsson-2010-debt-deleveraging-and-the-liquidity]] — 본 논문의 캐시리스/현금선불 물가수준 결정 방식을 "Krugman(1998)을 따라" 그대로 채택해 차입자-저축자 2주체 부채모형으로 확장한 후속 연구, 참고문헌에서 본 논문을 명시적으로 인용.
 
 ## Glossary
 

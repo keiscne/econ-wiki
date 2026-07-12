@@ -38,3 +38,4 @@ tags: [liquidity-trap, monetary-policy, credibility, japan, deflation, ricardian
 ## Related Papers
 
 - [[bernanke-1995-the-macroeconomics-of-the-great]] — 본 논문의 재정중개·통화총량 논의(각주 8)가 "본원통화 증가에도 광의통화·은행신용이 늘지 않는 현상"의 대표 문헌으로 직접 인용하는 논문.
+- [[eggertsson-2010-debt-deleveraging-and-the-liquidity]] — 본 논문의 물가수준 결정 논리(유동성함정에서 현재 물가가 미래 물가보다 낮아야 함)를 차입자-저축자 2주체 모형으로 확장해 계승하는 후속 연구.
