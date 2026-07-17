@@ -53,6 +53,7 @@
 - [제조업의 경영성과에 영향을 미치는 요인 분석: 산업별 노동소득분배율을 중심으로](wiki/reference/applied_econometrics/jeon-2019-manufacturing-performance-labor-income-share.md) — 산업별 보정 노동소득분배율이 제조업 매출액증가율·매출액영업이익률에 미치는 영향을 FE·RE·System GMM으로 분석, 대기업이 중소기업보다 더 크게 반응하고 수출기업은 성장성·내수기업은 수익성에서 더 크게 반응 (Tier 1)
 - [최저임금제도가 노동소득분배율에 미치는 영향 분석](wiki/reference/applied_econometrics/hwang-2019-minimum-wage-labor-income-share.md) — 16개 광역자치단체 노동소득분배율 직접 측정(2000-2016), Kaitz지수(최저임금 영향력) 상승이 노동소득분배율을 유의하게 낮추며 비수도권에서만 유의함을 규명, 지역별 차등 최저임금제도 필요성 시사 (Tier 1)
 - [자본과 노동 간 대체탄력성의 추정: 노동소득분배에 대한 함의를 중심으로](wiki/reference/applied_econometrics/jeong-2015-elasticity-substitution-capital-labor-korea.md) — Asia KLEMS 산업패널(1980-2012)과 새 자영업 소득 보정법으로 대체탄력성 0.15~0.28(유의하게 1보다 작음)을 추정, 노동소득분배율 하락이 요소가격이 아닌 자본 편향적 기술진보(연 5.5%)에 기인함을 분해 실증 (Tier 1)
+- [CES 생산함수를 가정한 노동-자본 대체탄력성 추정: 국내 중소기업을 중심으로](wiki/reference/applied_econometrics/nam-2019-elasticity-substitution-labor-capital-smes.md) — NICE 평가정보 중소기업 재무패널(2011-2016)로 CES 대체탄력성 0.275를 추정, 소기업·업력이 짧은 기업·연구개발비 비중이 낮은 기업일수록 자본의 노동 대체 가능성이 높음을 실증(정보통신업 최저 0.158, 운수및창고업 최고 0.765) (Tier 1)
 
 ### korean_economy
 - [2024 인공지능산업 실태조사 보고서](wiki/reference/korean_economy/spri-2024-ai-industry-survey.md) — 국가승인통계(제127016호), 2,517개 AI 기업 전수조사로 2023년 AI 산업 매출 5.6조 원·종사자 51,211명·AI 도입률 6.4% 집계 (Tier 1)
