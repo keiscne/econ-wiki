@@ -3,7 +3,22 @@
     "allow": [
       "Bash(python3 -c ' *)",
       "Bash(pdftotext -f 1 -l 5 \"AI 기술 확산이 고용에 미치는 영향.pdf\" -)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(mv \"원하청기업의 노동소득분배율 결정요인.pdf\" \"moon-2018-prime-subcontractor-labor-income-share.pdf\")",
+      "Bash(mv \"제조업의 경영성과에 영향을 미치는 요인 분석_노동소득분배율.pdf\" \"jeon-2019-manufacturing-performance-labor-income-share.pdf\")",
+      "Bash(mv \"최저임금제도가 노동소득분배율에 미치는 영향 분석.pdf\" \"hwang-2019-minimum-wage-labor-income-share.pdf\")",
+      "Bash(mv \"소득분배 악화의 산업구조적 원인_노동소득분배율.pdf\" \"hong-2013-income-distribution-industrial-structure-labor-share.pdf\")",
+      "Bash(pdftotext -enc UTF-8 -layout 'papers/local/한국 제조업에서의 노동소득분배율 변동요인 분석.pdf' /c/Users/PBG/AppData/Local/Temp/claude/e--econ-wiki/b39f0187-666a-403c-a22b-d5e9c000fa77/scratchpad/hong-2013-manufacturing-labor-share-determinants.txt)",
+      "Bash(pdftotext -enc UTF-8 -layout 'papers/local/한국경제의 노동생산성과 임금, 그리고 노동소득분배율.pdf' /c/Users/PBG/AppData/Local/Temp/claude/e--econ-wiki/b39f0187-666a-403c-a22b-d5e9c000fa77/scratchpad/productivity-wage-labor-share.txt)",
+      "Bash(pdftotext -enc UTF-8 -layout 'papers/local/한국의 기능적 소득분배_노동생산성, 임금, 노동소득분배율.pdf' /c/Users/PBG/AppData/Local/Temp/claude/e--econ-wiki/b39f0187-666a-403c-a22b-d5e9c000fa77/scratchpad/functional-distribution-korea.txt)",
+      "Bash(pdftotext -enc UTF-8 -layout 'papers/local/한국의 노동소득분배율 변동이 총수요에 미치는 영향.pdf' /c/Users/PBG/AppData/Local/Temp/claude/e--econ-wiki/b39f0187-666a-403c-a22b-d5e9c000fa77/scratchpad/hong-2014-labor-share-aggregate-demand.txt)",
+      "Bash(mv \"한국 제조업에서의 노동소득분배율 변동요인 분석.pdf\" \"hong-2013-manufacturing-labor-share-determinants.pdf\")",
+      "Bash(mv \"한국의 노동소득분배율 변동이 총수요에 미치는 영향.pdf\" \"hong-2014-labor-share-aggregate-demand.pdf\")",
+      "Bash(mv \"한국경제의 노동생산성과 임금, 그리고 노동소득분배율.pdf\" \"lee-2019-productivity-wage-labor-income-share.pdf\")",
+      "Bash(mv \"한국의 기능적 소득분배_노동생산성, 임금, 노동소득분배율.pdf\" \"kim-2023-functional-income-distribution-korea.pdf\")",
+      "Bash(pdfinfo \"papers/local/한국의 산업별 생산의 대체탄력성 추정.pdf\")",
+      "Bash(mkdir -p \"/c/Users/PBG/AppData/Local/Temp/claude/e--econ-wiki/f9c16a4d-3e7f-44f3-9dd0-b3d2ec2d57b0/scratchpad\")",
+      "Bash(pdftotext -enc UTF-8 -layout \"papers/local/한국의 산업별 생산의 대체탄력성 추정.pdf\" \"/c/Users/PBG/AppData/Local/Temp/claude/e--econ-wiki/f9c16a4d-3e7f-44f3-9dd0-b3d2ec2d57b0/scratchpad/sub-elasticity.txt\")"
     ]
   },
   "hooks": {
@@ -12,7 +27,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "cd \"/e/econ-wiki\" 2>/dev/null || cd \"e:/econ-wiki\" 2>/dev/null || exit 0; git rev-parse --is-inside-work-tree >/dev/null 2>&1 || exit 0; CHANGES=\"$(git status --porcelain -- sources wiki datasets index.md log.md CLAUDE.md 2>/dev/null)\"; if [ -z \"$CHANGES\" ]; then exit 0; fi; for p in sources wiki datasets index.md log.md CLAUDE.md; do [ -e \"$p\" ] && git add \"$p\"; done; git commit -m \"Auto-sync wiki updates ($(date -u +'%Y-%m-%d %H:%M UTC'))\" >/dev/null 2>&1; git push origin main >/dev/null 2>&1; exit 0",
+            "command": "git rev-parse --is-inside-work-tree >/dev/null 2>&1 || cd \"/d/econ-wiki\" 2>/dev/null || cd \"d:/econ-wiki\" 2>/dev/null || cd \"/e/econ-wiki\" 2>/dev/null || cd \"e:/econ-wiki\" 2>/dev/null || exit 0; git rev-parse --is-inside-work-tree >/dev/null 2>&1 || exit 0; CHANGES=\"$(git status --porcelain -- sources wiki datasets index.md log.md CLAUDE.md 2>/dev/null)\"; if [ -z \"$CHANGES\" ]; then exit 0; fi; for p in sources wiki datasets index.md log.md CLAUDE.md; do [ -e \"$p\" ] && git add \"$p\"; done; git commit -m \"Auto-sync wiki updates ($(date -u +'%Y-%m-%d %H:%M UTC'))\" >/dev/null 2>&1; git push origin main >/dev/null 2>&1; exit 0",
             "timeout": 30,
             "statusMessage": "Syncing wiki changes to GitHub..."
           }
