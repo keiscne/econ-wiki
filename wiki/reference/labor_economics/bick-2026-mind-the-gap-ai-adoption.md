@@ -42,3 +42,5 @@ tags: [AI-adoption, generative-AI, productivity, Oaxaca-Blinder, management-prac
 - [[hampole-2025-artificial-intelligence-and-the-labor]] — 기업×과업 단위 AI 노출을 LLM 임베딩으로 측정해 고용 순효과가 미미함을 보인 연구로, 본 논문의 산업단위 고용 무관련성 결과와 정합적.
 - [[../macroeconomics/acemoglu-2024-the-simple-macroeconomics-of-ai]] — Hulten 정리로 AI의 10년 거시 생산성효과를 0.55–1.8%로 추정한 이론적 상한 계산과, 본 논문의 실측 생산성 연관성 추정치(미국-유럽 격차 기준 약 3–4%p 누적)를 비교할 수 있는 준거점.
 - [[../macroeconomics/bok-2026-ai-adoption-productivity-effects]] — 본 논문의 산업별 AI 도입률-생산성 연계 분석 방법론을 원용해 한국 가계조사 자료로 동일한 상관관계를 검증(부호가 구간별로 반전되는 약한 상관관계만 확인).
+- [[fan-2026-aggregate-gains-from-ai]] — Anthropic Economic Index 실사용 데이터로 국가별 AI 채택 수준·편중도를 측정한 병행 연구. 본 논문의 서베이 기반 자기보고 채택률 측정과 마찬가지로 이론적 노출 대신 실제 사용을 관측한다는 방법론적 방향성을 공유.
+- [[handa-2025-which-economic-tasks-are]] — Anthropic Economic Index 최초 보고서로, 실제 Claude.ai 사용 데이터를 O*NET 과업에 매핑하는 방법론의 원전. 본 논문의 서베이 기반 실채택률 측정과 상호보완적.

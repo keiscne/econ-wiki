@@ -21,6 +21,7 @@
 - [Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo Approach](wiki/reference/macroeconomics/eggertsson-2010-debt-deleveraging-and-the-liquidity.md) — 차입자-저축자 2주체 모형에 외생적 부채한도 축소(민스키 모멘트)를 도입해 피셔형 부채-디플레이션·유동성함정·절약의 역설·확장적 재정정책 근거가 모두 자연스럽게 도출됨을 증명, 노동의 역설·유연성의 역설이라는 반직관적 결과도 도출 (Tier 1)
 - [Public Debt and Low Interest Rates](wiki/reference/macroeconomics/blanchard-2019-public-debt-and-low-interest.md) — 안전이자율이 성장률보다 낮은 상황(r<g)이 미국 역사의 규범이었음을 실증하고, 세대중첩모형으로 부채의 재정·후생 비용이 통상 가정보다 작을 수 있음을 이론·시뮬레이션으로 제시한 2019년 AEA 회장 강연 (Tier 1)
 - [Real Wage Rigidities and the New Keynesian Model](wiki/reference/macroeconomics/blanchard-2007-real-wage-rigidities-and-the.md) — 표준 뉴케인지언 모형의 "신의 일치"가 실질적 불완전성의 부재에서 비롯됨을 규명하고, 실질임금 경직성을 도입해 진짜 정책 트레이드오프와 인플레이션 관성을 동시에 설명 (Tier 1)
+- [AI의 거시경제 영향 분석](wiki/reference/macroeconomics/nam-2026-ai-macroeconomic-impact-analysis.md) — KECO 537개 직업 6,824개 단위과업의 5대 지표 기반 AI 자동화 가능성과 기업활동조사 패널IV 생산성효과(1인당매출 +20%)를 결합, 과업기반 Hulten 정리로 향후 10년 TFP 성장기여를 1.5~3.5%로 추정 (Tier 1)
 
 ### microeconomics
 (없음)
@@ -93,6 +94,8 @@
 - [소득분배 악화의 산업구조적 원인과 대응방안](wiki/reference/labor_economics/kang-2013-income-distribution-industrial-structure-labor-share.md) — 한국보건사회연구원 연구보고서. 산업구조 변화가 노동소득분배율(3장, 3요인 분해)과 가구주 노동소득 불평등(4장, MLD·Fields 분해) 양쪽에 미친 영향을 분석, 외환위기 이전 산업 요인이 교육수준 다음으로 중요한 불평등 심화요인이었음을 규명 (Tier 1)
 - [한국경제의 노동생산성과 임금, 그리고 노동소득분배율](wiki/reference/labor_economics/lee-2019-productivity-wage-labor-income-share.md) — 박정수(2019)의 물가지수 해석 반박, 국민계정 기반 명목·순노동생산성과 임금 비교로 2000년 이후에도 노동생산성-임금 괴리와 보정노동소득분배율 하락이 실재함을 재확인 (Tier 1)
 - [한국의 기능적 소득분배: 노동생산성, 임금, 노동소득분배율](wiki/reference/labor_economics/kim-2023-functional-income-distribution-korea.md) — 준법인·주거서비스 처리 오류를 바로잡아 1975-2021년 재추정, 노동생산성-임금 증가율이 1987·1997·2010년 경계로 우열이 반전되며 전체적으로 균형을 이루었고 노동소득분배율은 최상위 소득집중도만 잘 설명함을 규명 (Tier 1)
+- [Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations](wiki/reference/labor_economics/handa-2025-which-economic-tasks-are.md) — Anthropic Economic Index 최초 보고서. Clio로 Claude.ai 대화를 O*NET 과업에 매핑, 직업의 36%가 과업의 25% 이상에서 AI를 사용하며 사용의 57%는 증강·43%는 자동화 패턴임을 실증 (Tier 1)
+- [Aggregate Gains from AI and Their Distribution: Global Evidence from Usage Data](wiki/reference/labor_economics/fan-2026-aggregate-gains-from-ai.md) — Anthropic Economic Index 5개 웨이브로 노동비용등가(연 2.7조달러·GDP 3.4%)와 AI집중지수를 구축, 거의 모든 국가에서 AI이득이 고임금 직업에 편중(개도국일수록 극단적)되나 편중도가 점차 완화되고 있음을 규명 (Tier 1)
 
 ## indexes
 저자·주제 목차.

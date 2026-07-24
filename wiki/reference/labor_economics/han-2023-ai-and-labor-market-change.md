@@ -37,3 +37,4 @@ Webb(2020)의 특허기반 AI 노출지수를 한국표준직업분류로 변환
 - [[han-2025-ai-diffusion-youth-employment-decline]] (wiki/labor_economics/han-2025-ai-diffusion-youth-employment-decline.md) — 같은 한국은행 조사국 고용분석팀 계열의 후속 연구로, 본 연구의 특허기반 Webb(2020) 노출지수 대신 Felten et al.(2021) AIOE를 사용해 연공편향적 청년고용 효과를 직접 식별.
 - [[bok-2025-rapid-ai-diffusion-productivity-effects]] (wiki/macroeconomics/bok-2025-rapid-ai-diffusion-productivity-effects.md) — 본 연구를 직접 인용하는 같은 한국은행 조사국 계열의 후속 연구.
 - [[kiet-2025-ai-occupational-employment-effect]] (wiki/applied_econometrics/kiet-2025-ai-occupational-employment-effect.md) — 본 연구와 마찬가지로 국내 고용보험 자료에 직업별 AI노출지수를 결합하나, Webb 특허기반 지수 대신 Felten AIOE를 19개 능력변수로 확장해 직종별 차별적 고용효과를 사업장 고정효과 모형으로 직접 추정.
+- [[../macroeconomics/nam-2026-ai-macroeconomic-impact-analysis]] — 본 연구의 임금탄력성 기반 지니계수 시뮬레이션(0.20→0.18 하락)을 자신의 직종간 임금불평등 지니계수 결과(임금충격만 고려 시 0.1704→0.1550)와 정성적으로 비교.

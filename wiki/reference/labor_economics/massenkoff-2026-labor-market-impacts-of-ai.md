@@ -40,3 +40,5 @@ O*NET 과업 목록, Anthropic Economic Index의 Claude 사용 데이터(2025년
 - [[acemoglu-2022-artificial-intelligence-and-jobs-evidence]] — 채용공고 데이터를 이용한 AI-고용 연구의 비교 대상으로 본문에 직접 인용.
 - [[hampole-2025-artificial-intelligence-and-the-labor]] — 평균노출과 노출 집중도를 구분하는 모형이 본 보고서의 처치 정의 논의에서 참고됨.
 - [[bick-2026-mind-the-gap-ai-adoption]] — 미국·유럽 7개국 근로자 서베이로 실제 AI 채택률(이론적 노출이 아닌 자기보고 사용)을 측정하는 점에서 본 보고서의 "관측노출" 접근과 같은 방향이며, 두 연구 모두 AI-고용 관계에서 뚜렷한 효과를 발견하지 못한다는 결론을 공유.
+- [[fan-2026-aggregate-gains-from-ai]] — 동일한 Anthropic Economic Index 실사용 데이터를 국가×직업 단위로 확장해 노동비용등가·AI집중지수를 구축한 병행 연구. 이론적 잠재력과 실제 사용 간 괴리가 핵심 발견이라는 점에서 본 보고서와 문제의식을 공유.
+- [[handa-2025-which-economic-tasks-are]] — Anthropic Economic Index 최초 보고서(R1)로, 본 보고서가 사용하는 Clio 기반 O*NET 과업매핑 프레임워크의 원전.

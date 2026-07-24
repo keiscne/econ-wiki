@@ -44,3 +44,4 @@ tags: [가계조사, AI활용률, 생산성, 물리적AI, 평준화효과, AI기
 - [[han-2023-ai-and-labor-market-change]] (wiki/labor_economics/han-2023-ai-and-labor-market-change.md) — 본 연구가 직접 인용하는 같은 한국은행 조사국 계열의 선행연구.
 - [[bok-2026-ai-adoption-productivity-effects]] (wiki/macroeconomics/bok-2026-ai-adoption-productivity-effects.md) — 같은 저자팀(서동현·오삼일)이 "초기 3년" 시점으로 작성한 후속편.
 - [[han-2025-ai-diffusion-youth-employment-decline]] (wiki/labor_economics/han-2025-ai-diffusion-youth-employment-decline.md) — 본 연구의 가계조사 데이터를 보조지표로 재분석에 활용한 후속 연구.
+- [[nam-2026-ai-macroeconomic-impact-analysis]] (wiki/macroeconomics/nam-2026-ai-macroeconomic-impact-analysis.md) — 본 연구를 AI 생산성 효과의 선행연구로 비교 인용하며, KDI의 과업기반 거시 TFP 시뮬레이션(10년 1.5~3.5%)에 결합.
