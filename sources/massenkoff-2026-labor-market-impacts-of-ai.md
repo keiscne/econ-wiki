@@ -66,6 +66,7 @@ datasets_used: []
 - [[eloundou-2023-gpts-are-gpts-an-early]] — 본 보고서의 관측노출 측정치가 토대로 삼는 이론적 노출 등급(β)의 원 출처. 본 보고서는 이 측정치를 실제 Claude 사용 데이터와 결합해 확장함 (p.4-5).
 - [[acemoglu-2022-artificial-intelligence-and-jobs-evidence]] — 채용공고 데이터를 이용한 AI 노출-고용 연구의 비교 대상으로 본문에 인용됨 (p.10).
 - [[hampole-2025-artificial-intelligence-and-the-labor]] — 평균노출과 노출 집중도(concentration)를 구분하는 모형이 본 보고서의 처치 정의 논의에서 직접 인용·참고됨 (p.10, 각주 2).
+- [[appel-2026-economic-primitives]] — 동일한 Anthropic Economic Index 데이터를 이용해 본 보고서의 "관측노출"과는 별개로 5개 경제원시지표(과업복잡성·숙련·자율성·성공률)를 도입한 병행 시리즈 보고서(V4).
 
 ## Glossary
 

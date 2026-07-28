@@ -38,4 +38,8 @@ Claude.ai Free·Pro 대화(엔터프라이즈·API 제외), 2024.12~2025.1 수�
 - [[eloundou-2023-gpts-are-gpts-an-early]] — 언어모형 기반 과업수준 노출 추정의 선행연구, 본 연구가 방법론을 계승하되 실측 채택률이 예측치보다 낮음을 대조.
 - [[massenkoff-2026-labor-market-impacts-of-ai]] — Anthropic Economic Index 후속 웨이브와 Eloundou β 등급을 결합해 "관측노출" 지수로 발전시킨 후속 연구.
 - [[fan-2026-aggregate-gains-from-ai]] — Anthropic Economic Index를 국가×직업 단위로 확장해 노동비용등가·AI집중지수를 구축한 후속 IMF 연구.
+- [[appel-2025-uneven-geographic-and-enterprise-ai]] — 본 보고서(R1/V1)를 계승해 지리적 분해와 1P API 기업 데이터를 추가한 Anthropic Economic Index 3번째 판(V3).
+- [[appel-2026-economic-primitives]] — 경제원시지표(과업복잡성·숙련·자율성·성공률 등)를 신규 도입한 4번째 판(V4).
+- [[massenkoff-2026-learning-curves]] — 모델선택·사용자 tenure에 따른 학습곡선을 분석한 5번째 판(V5).
+- [[massenkoff-2026-cadences]] — 시간단위 표집·산출물 분류·설문(Economic Index Survey)을 추가한 6번째 판(V6).
 - [[bick-2026-mind-the-gap-ai-adoption]] — 서베이 기반 실제 AI 채택률 측정 연구로, 본 연구의 대화기반 실사용 관측과 상호보완적 방법론.

@@ -40,3 +40,4 @@ Revelio Labs의 이력서·채용공고 데이터(2014-2023)에서 LLM(Llama 3.1
 - [[../applied_econometrics/humlum-2019-robot-adoption-and-labor-market]] — 직종간 재배치(노동공급 반응)가 직접대체로 인한 임금손실을 완화한다는 발견을, 본 논문이 다루는 AI 대신 산업로봇과 덴마크 노동시장에서 구조모형으로 확인한 연구.
 - [[massenkoff-2026-labor-market-impacts-of-ai]] — 평균노출과 노출 집중도를 구분하는 본 논문의 모형이 처치 정의 논의에서 직접 인용·참고된 후속 연구.
 - [[bick-2026-mind-the-gap-ai-adoption]] — 산업단위 AI 도입률과 고용변화 사이에 뚜렷한 관계가 없다는 발견을 미국·유럽 양쪽에서 보여, 본 논문이 제시한 "직접대체-재배치-기업성장효과의 상쇄" 메커니즘과 정합적인 집계 수준 증거를 제공.
+- [[appel-2026-economic-primitives]] — 과업 제거 시 순탈숙련 효과를 분석하며 본 논문(및 Autor and Thompson 2025)을 "과업 커버리지뿐 아니라 어느 과업이 커버되는지가 중요하다"는 통찰의 선행연구로 직접 인용.

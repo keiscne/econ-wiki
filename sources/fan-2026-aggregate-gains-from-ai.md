@@ -59,6 +59,7 @@ Anthropic Economic Index(AEI) 5개 웨이브(2025년 1월~2026년 2월, 웨이�
 - [[eloundou-2023-gpts-are-gpts-an-early]] — LLM이 과업완료시간을 50% 이상 단축할 수 있는 과업 비중을 추정한 노출지수 선행연구로 본 연구가 비교·확장하는 대상.
 - [[massenkoff-2026-labor-market-impacts-of-ai]] — 동일한 Anthropic Economic Index 실사용 데이터를 이용해 이론적 노출등급(Eloundou β)과 결합한 "observed exposure" 지수를 구축한 병행 연구. 두 연구 모두 이론적 잠재력과 실제 사용 간 괴리를 핵심 발견으로 제시.
 - [[bick-2026-mind-the-gap-ai-adoption]] — 미국·유럽 근로자 서베이 기반 실제 AI 채택률 측정 연구로, 본 연구의 "실사용 관측" 접근과 같은 방향성을 공유.
+- [[appel-2026-economic-primitives]] — 본 연구가 이용하는 Anthropic Economic Index 웨이브 중 하나(V4)로, 경제원시지표(과업복잡성·숙련·자율성·성공률)를 도입한 병행 시리즈 보고서.
 
 ## Glossary
 - **노동비용등가(Labor Cost Equivalent, LCE)**: AI가 절감한 시간을 해당 직업의 자국 임금으로 환산한 화폐가치. GDP 영향의 직접적 추정치가 아니라 "현재 AI 사용이 함의하는 생산성 이득의 지표적(indicative) 측정치"로 해석해야 함(2.3절).

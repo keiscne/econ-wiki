@@ -41,3 +41,4 @@ IMF Working Paper. Anthropic Economic Index(AEI) 5개 웨이브(2025.1~2026.2, �
 - [[massenkoff-2026-labor-market-impacts-of-ai]] — 동일한 Anthropic Economic Index 실사용 데이터로 이론적 노출등급(Eloundou β)과 결합한 "observed exposure" 지수를 구축한 병행 연구. 두 연구 모두 이론적 잠재력과 실제 사용 간 괴리를 핵심 발견으로 제시.
 - [[bick-2026-mind-the-gap-ai-adoption]] — 미국·유럽 근로자 서베이 기반 실제 AI 채택률 측정 연구로 본 연구의 "실사용 관측" 접근과 방향성을 공유.
 - [[handa-2025-which-economic-tasks-are]] — Anthropic Economic Index 최초 보고서(R1)로, 본 연구가 확장한 O*NET 과업매핑·Clio 분류 방법론의 원전.
+- [[appel-2026-economic-primitives]] — 본 연구가 이용하는 Anthropic Economic Index 웨이브 중 하나(V4)로, 국가간 지리적 데이터 외에 경제원시지표(과업복잡성·숙련·자율성·성공률)를 도입한 병행 시리즈 보고서.

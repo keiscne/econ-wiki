@@ -96,6 +96,10 @@
 - [한국의 기능적 소득분배: 노동생산성, 임금, 노동소득분배율](wiki/reference/labor_economics/kim-2023-functional-income-distribution-korea.md) — 준법인·주거서비스 처리 오류를 바로잡아 1975-2021년 재추정, 노동생산성-임금 증가율이 1987·1997·2010년 경계로 우열이 반전되며 전체적으로 균형을 이루었고 노동소득분배율은 최상위 소득집중도만 잘 설명함을 규명 (Tier 1)
 - [Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations](wiki/reference/labor_economics/handa-2025-which-economic-tasks-are.md) — Anthropic Economic Index 최초 보고서. Clio로 Claude.ai 대화를 O*NET 과업에 매핑, 직업의 36%가 과업의 25% 이상에서 AI를 사용하며 사용의 57%는 증강·43%는 자동화 패턴임을 실증 (Tier 1)
 - [Aggregate Gains from AI and Their Distribution: Global Evidence from Usage Data](wiki/reference/labor_economics/fan-2026-aggregate-gains-from-ai.md) — Anthropic Economic Index 5개 웨이브로 노동비용등가(연 2.7조달러·GDP 3.4%)와 AI집중지수를 구축, 거의 모든 국가에서 AI이득이 고임금 직업에 편중(개도국일수록 극단적)되나 편중도가 점차 완화되고 있음을 규명 (Tier 1)
+- [The Anthropic Economic Index report: Uneven geographic and enterprise AI adoption](wiki/reference/labor_economics/appel-2025-uneven-geographic-and-enterprise-ai.md) — Anthropic Economic Index 3번째 판(V3). Claude 사용에 처음으로 지리적 분해(AUI)와 1P API 기업 데이터를 도입, AI 채택이 고소득 국가·주에 집중되며 기업 사용은 소비자 사용보다 훨씬 자동화 지향적(77% vs 약 50%)임을 실증 (Tier 1)
+- [The Anthropic Economic Index report: Economic Primitives](wiki/reference/labor_economics/appel-2026-economic-primitives.md) — Anthropic Economic Index 4번째 판(V4). 과업복잡성·숙련·용도·자율성·성공률 5개 경제원시지표를 도입, 성공률 반영시 직업별 AI노출이 달라지고 Claude가 다루는 과업 제거시 순탈숙련 효과가 나타나며 생산성 기여 추정치가 1.8%p→1.0~1.2%p로 하향됨을 제시 (Tier 1)
+- [The Anthropic Economic Index report: Learning curves](wiki/reference/labor_economics/massenkoff-2026-learning-curves.md) — Anthropic Economic Index 5번째 판(V5). Claude.ai 사용 다변화·과업가치 하락과 함께, 모델선택(Opus)이 고임금 과업에 쏠리고 6개월+ 고tenure 이용자의 과업성공률이 4~5%p 높음을 실증해 AI "학습곡선"의 증거로 제시 (Tier 1)
+- [Anthropic Economic Index report: Cadences](wiki/reference/labor_economics/massenkoff-2026-cadences.md) — Anthropic Economic Index 6번째 판(V6). 시간단위 표집으로 요일·시간대 사용리듬을 문서화하고 산출물(artifact) 분류·AI자율성 비교를 도입, 신규 설문(Economic Index Survey)으로 자동화적 이용자일수록 향후 임금·고용안정성에 더 낙관적임을 최초 보고 (Tier 1)
 
 ## indexes
 저자·주제 목차.
