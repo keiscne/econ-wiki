@@ -5,7 +5,7 @@ year: 2026
 category: labor_economics
 source: sources/massenkoff-2026-labor-market-impacts-of-ai.md
 source_tier: 1
-verified_date: 2026-06-27
+verified_date: 2026-07-29
 datasets_used: []
 tags: [ai-exposure, anthropic-economic-index, eloundou-beta, unemployment, difference-in-differences, young-workers, bls-projections]
 ---
@@ -23,7 +23,7 @@ tags: [ai-exposure, anthropic-economic-index, eloundou-beta, unemployment, diffe
 
 ## Methodology
 
-O*NET 과업 목록, Anthropic Economic Index의 Claude 사용 데이터(2025년 8·11월 보고서), Eloundou et al.(2023)의 과업별 이론노출 등급(β=0/0.5/1)을 결합한다. 이론상 노출 가능한 과업 중 업무관련 사용이 충분히 관측된 과업만 커버된 것으로 카운트하고, 완전자동화는 전체 가중치, 보완적 사용은 절반 가중치를 부여해 직업단위로 시간비중 가중평균한다. CPS 자료로 노출 상위 25% 직업과 노출 0% 직업의 실업률·신규취업률을 ChatGPT 출시 전후 이중차분으로 비교한다. 자세한 수치와 출처는 [[../../../sources/massenkoff-2026-labor-market-impacts-of-ai|sources 문서]] 참조.
+O*NET 과업 목록, Anthropic Economic Index의 Claude 사용 데이터(2025년 8·11월 보고서), Eloundou et al.(2023)의 과업별 이론노출 등급(β=0/0.5/1)을 결합한다. 이론상 노출 가능한 과업 중 업무관련 사용이 충분히 관측된(WorkUsage_t≥100) 과업만 커버된 것으로 카운트하고, 완전자동화는 전체 가중치(α=1), 보완적 사용은 절반 가중치(α=0.5)를 부여해 직업단위로 시간비중 가중평균(R_o)한다. CPS 자료로 노출 상위 25% 직업과 노출 0% 직업의 실업률·신규취업률을 ChatGPT 출시 전후 이중차분으로 비교하며, 처치 백분위 기준 변경과 노동부 실업보험(UI) 청구자 데이터로 강건성을 재확인한다. 자세한 수치와 출처는 [[../../../sources/massenkoff-2026-labor-market-impacts-of-ai|sources 문서]] 참조.
 
 ## Results
 
@@ -33,6 +33,7 @@ O*NET 과업 목록, Anthropic Economic Index의 Claude 사용 데이터(2025년
 - 실업률 이중차분: ChatGPT 출시 이후 누적 평균효과 +0.0020(s.e. 0.0019) — 0과 통계적으로 구분 안 됨(Figure 6).
 - 22~25세 청년 신규취업률 이중차분: 누적 평균효과 −14.3%(기준치 대비, s.e. 7.2) — 간신히 통계적으로 유의(Figure 7); 25세 초과 근로자에서는 이런 효과 없음.
 - 시나리오 분석: 노출 상위 10% 전원 해고 시 전체 실업률 4%→13%로 상승 추정; 대침체급 충격(실업률 2배) 발생 시 노출 상위 25% 그룹 실업률 3%→6%로 상승 — 이 정도는 현재 표본으로 탐지 가능하다고 명시.
+- 강건성 검토(부록): 22~25세 청년 실업률 DiD pooled post = −0.0023(s.e. 0.0058, 0과 구분 불가), 처치 백분위 기준을 50~95%까지 바꿔도 영향은 작고 비유의, 노동부 UI 청구자 데이터(주×분기, 4개 대분류 기준 상위 25% 커버리지 31% vs 하위 25% 1%) 재추정에서도 pooled post = +0.001%p(s.e. 0.002)로 CPS 결과와 정성적으로 일치.
 
 ## Related Papers
 
@@ -43,3 +44,4 @@ O*NET 과업 목록, Anthropic Economic Index의 Claude 사용 데이터(2025년
 - [[fan-2026-aggregate-gains-from-ai]] — 동일한 Anthropic Economic Index 실사용 데이터를 국가×직업 단위로 확장해 노동비용등가·AI집중지수를 구축한 병행 연구. 이론적 잠재력과 실제 사용 간 괴리가 핵심 발견이라는 점에서 본 보고서와 문제의식을 공유.
 - [[appel-2026-economic-primitives]] — 동일한 Anthropic Economic Index 데이터를 이용해 본 보고서의 "관측노출"과는 별개로 5개 경제원시지표(과업복잡성·숙련·자율성·성공률)를 도입한 병행 시리즈 보고서(V4).
 - [[handa-2025-which-economic-tasks-are]] — Anthropic Economic Index 최초 보고서(R1)로, 본 보고서가 사용하는 Clio 기반 O*NET 과업매핑 프레임워크의 원전.
+- [[../macroeconomics/tamkin-2025-estimating-ai-productivity-gains-from]] — 동일 저자(McCrory) 및 동일 데이터로 과업단위 시간절감·경제 전체 생산성효과를 추정한 병행 연구. 본 보고서가 사용하는 직업별 과업 시간비중(w_t) 데이터가 이 논문(Tamkin and McCrory 2025)의 산출물.

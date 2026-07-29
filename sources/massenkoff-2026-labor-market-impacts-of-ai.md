@@ -8,7 +8,7 @@ category: [labor_economics]
 source_tier: 1
 pdf_path: papers/local/massenkoff-2026-labor-market-impacts-of-ai.pdf
 pdf_filename: massenkoff-2026-labor-market-impacts-of-ai.pdf
-verified_date: 2026-06-27
+verified_date: 2026-07-29
 datasets_used: []
 ---
 
@@ -21,7 +21,8 @@ datasets_used: []
 - 저자: Maxim Massenkoff, Peter McCrory (소속 명시 없음; Anthropic 발행 연구보고서, 감사의 글에서 Anthropic 직원들에게 사사) (p.1).
 - 발행: Anthropic 연구보고서, 2026년 3월 5일 발행 (p.1, Bibtex citation, p.14).
 - DOI 없음. 게재 학술지 없음 — Anthropic 자체 발행 온라인 연구노트(URL: https://www.anthropic.com/research/labor-market-impacts, Bibtex citation, p.14).
-- 전체 17페이지(본문 14페이지 + 주석/참고문헌 3페이지)를 표지·핵심 결과 요약·본문·주석·참고문헌까지 전체 읽기로 검증함.
+- 전체 17페이지(본문 14페이지 + 주석/참고문헌 3페이지)를 표지·핵심 결과 요약·본문·주석·참고문헌까지 전체 읽기로 검증함(2026-06-27).
+- 부록(Appendix to "Labor market impacts of AI", 2026년 3월 발행, 전체 11페이지)을 별도 PDF로 추가 확보해 전체 읽기로 검증함(2026-07-29, pdf_path: papers/local/massenkoff-2026-labor-market-impacts-of-ai-appendix.pdf). 본문에서 "부록에 제시"라고만 언급했던 관측노출 측정치의 수학적 정의와 강건성 검토 결과가 이 부록에 담겨 있다.
 
 ## Key Contributions
 
@@ -34,11 +35,12 @@ datasets_used: []
 ## Methodology and Data
 
 - 노출 측정의 3가지 데이터 원천(p.4): (1) O*NET 데이터베이스(미국 약 800개 직업의 과업 목록), (2) Anthropic Economic Index의 Claude 사용 데이터(직전 4회 보고서 누적, 본문 분석에는 2025년 8월·11월 두 데이터셋 사용, 각주 5), (3) Eloundou et al.(2023)의 과업별 이론적 노출 등급 β(1=LLM 단독으로 2배 이상 속도향상 가능, 0.5=추가 도구/소프트웨어 필요, 0=불가능) (p.4-5, 각주 4).
-- Observed Exposure 산출 절차: 이론상 노출 가능한(β>0) 과업 중 Claude 트래픽에서 업무관련 사용이 충분히 관측된 과업만 "커버"된 것으로 카운트하고, 완전자동화(fully automated) 구현은 전체 가중치, 보완적(augmentative) 사용은 절반 가중치를 부여한 뒤, 각 과업이 차지하는 시간비중으로 직업 단위 가중평균함. 수학적 세부사항은 부록(Appendix, 온라인 링크, 각주 7)에 제시 — 본 PDF에는 부록 본문이 포함되어 있지 않음.
+- Observed Exposure 산출 절차(부록 "Defining exposure" 절, p.2-4): 과업 t의 가중 업무사용량 WorkUsage_t = ClaudeWorkUsage_t(Claude.ai에서 업무관련으로 분류된 사용, Appel et al. 2026의 use case primitive로 교육·개인용과 구분) + APIUsage_t(1P API 트래픽 전체, 업무 여부 구분 없이 카운트 — API 호출은 통상 프로덕션 워크플로 통합을 시사하기 때문). 과업은 WorkUsage_t ≥ 100(전체 트래픽의 0.0025%에 해당, O*NET 과업 시간비중 중앙값 0.0014%와 유사한 수준)이라는 엄격한 게이트를 통과해야 커버된 것으로 인정되며, 미달 과업은 노출 0으로 처리(부록 p.2, 각주 3). 과업단위 노출 r̃_t = 1{WorkUsage_t≥100} × 1{β_t≥0.5} × α_t, 여기서 β_t는 Eloundou et al.(2023)의 과업별 이론노출등급(0.5 이상이면 1로 상향), α_t = 1/2 + 1/2×AutomationShare_t(자동화 사용비중이 0이면 α=0.5, 완전자동화만 있으면 α=1)로 자동화 정도에 따라 커버리지를 가중(부록 p.3). 직업단위 측정치 R_o = Σ(w_t·r̃_t)/Σw_t, w_t는 과업 t에 쓰는 시간비중(Tamkin and McCrory 2025)(부록 p.4). O*NET 18,000개 과업문 중 동일·유사 과업은 IWA(332개) 공유 및 의미유사도 0.7 이상 기준으로 그룹화했으며, 이 방식이 본문의 단순 그룹화와 Spearman 상관계수 0.9로 대체로 일치함을 확인(부록 "Task granularity" 절, p.7-8).
+- 노출 측정치 비교(부록 "Comparing measures of occupational exposure" 절, p.8-9, Appendix Figure 4): 기준측정치(Baseline)와 Claude.ai 원시사용량(가중X) 간 Spearman ρ=0.81, Eloundou β(시간비중 가중)와는 ρ=0.70; 성공률(사용자 목표 달성 여부)을 곱한 측정치는 기준측정치와 ρ=1.00로 거의 완전히 일치해 성공률이 직업과 강하게 상관되지 않음을 시사; DWA 단위 집계는 ρ=0.71, IWA 단위 집계는 ρ=0.66로 기준측정치보다 낮음(부록 p.8-9).
 - O*NET-SOC 코드를 CPS의 occ1990 코드로 변환하기 위해 Eckhardt and Goldschlag(2025)가 제공한 크로스워크를 사용 (각주 8).
 - 실업률 분석: CPS 자료로 관측노출 상위 25%(top quartile) 직업 종사자와 노출 0%(하위 30%) 직업 종사자의 실업률을 2016년부터 추적하고, ChatGPT 출시(2022년 11월)를 기준으로 이중차분 추정 (Figure 6, p.11).
 - 청년 고용 분석: CPS의 패널 차원(동일 응답자의 월별 재인터뷰)을 활용해 22~25세 근로자가 전월에 없던 새 직업을 보고하는 비율(월별 신규취업률)을 고노출/비노출 직업별로 계산하고 이중차분 추정 (Figure 7, p.12-13).
-- 강건성 검토(부록에서 다룬다고 본문에 명시, 각주 9): (1) 처치(treatment) 정의에 사용하는 노출 백분위 기준을 중위수~95백분위까지 바꿔도 결과는 평탄하거나 음(노출그룹 실업률이 오히려 감소)으로 일관; (2) 22~25세 청년에 초점을 맞춘 분석; (3) CPS 서베이 응답이 아닌 노동부(Department of Labor)의 실업보험(UI) 청구자 데이터로도 재확인 — 두 경우 모두 본문에 "어느 확장에서도 노출된 직업에 대한 명확한 영향을 찾지 못했다"고 서술(원문 표현에 'ni'라는 명백한 오탈자가 있으나 문맥상 "In no extension do we find clear impacts"로 보임, 각주 9, p.16).
+- 강건성 검토 3종(부록, p.4-6): (1) 22~25세 청년 실업률(신규취업률이 아닌 실업률 자체) 이중차분 — Appendix Figure 1: 2022년 이전에는 노출 상위 25% 그룹의 실업률이 비노출 그룹보다 지속적으로 낮았고, ChatGPT 출시 이후에도 이 격차가 대체로 일정하게 유지됨. Pooled post DiD 추정치 = −0.0023(s.e. 0.0058)로 0과 구분 불가(부록 p.4, Appendix Figure 1); (2) 처치 정의 노출 백분위 기준을 50~95백분위(기준 p75)까지 바꿔가며 재추정 — Appendix Figure 2: 어느 기준을 써도 실업률 영향은 작고 비유의(pooled post ATT가 대체로 0.001~0.003 범위에서 신뢰구간이 0을 포함, 부록 p.5); (3) CPS 서베이가 아닌 노동부(Department of Labor) 실업보험(UI) 청구자 데이터(ETA 203 "Characteristics of the insured unemployed", major SOC군 단위, 주(state)×분기 집계)로 재확인 — 노출 상위 4개 대분류(Computer & Mathematical, Office & Administrative Support, Business & Financial, Sales)로 만든 상위 25%군 평균 커버리지 31% vs 하위 25%군 1%. Appendix Figure 3: 코로나19 팬데믹 기간을 제외하면 두 그룹 간 피보험실업률 격차가 대체로 일정하게 유지되었고, pooled post 추정치 = +0.001%p(s.e. 0.002)로 CPS 기반 본문 결과와 정성적으로 일치(부록 p.5-6).
 
 ## Key Results
 
@@ -75,3 +77,5 @@ datasets_used: []
 - **Eloundou β**: 과업별 이론적 노출 등급. 1=LLM 단독으로 충분, 0.5=추가 도구/소프트웨어 필요, 0=불가능 (p.5, 각주 4).
 - **자동화(automated) 대 보완적(augmentative) 사용**: 관측노출 산출 시, 완전자동화 구현은 전체 가중치를, 사람의 보완적 사용은 절반 가중치를 부여하는 구분 (p.6).
 - **이중차분(difference-in-differences) 프레임워크**: 노출 상위/하위 그룹 간 실업률·신규취업률 격차가 ChatGPT 출시(2022년 11월) 전후로 어떻게 변화했는지를 추정하는 분석틀 (Figure 6, 7, p.11-13).
+- **α_t (자동화 가중치)**: 과업 t의 관측노출 산출 시 자동화 사용비중(AutomationShare_t)에 따라 0.5(보완적 사용만 존재)~1.0(완전자동화만 존재) 사이 값을 부여하는 가중계수, α_t = 1/2 + 1/2×AutomationShare_t (부록 p.3).
+- **R_o (직업단위 관측노출)**: 직업 o에 속한 과업들의 과업단위 노출 r̃_t를 시간비중 w_t로 가중평균한 값, R_o = Σ(w_t·r̃_t)/Σw_t (부록 p.4).

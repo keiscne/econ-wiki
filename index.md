@@ -22,6 +22,7 @@
 - [Public Debt and Low Interest Rates](wiki/reference/macroeconomics/blanchard-2019-public-debt-and-low-interest.md) — 안전이자율이 성장률보다 낮은 상황(r<g)이 미국 역사의 규범이었음을 실증하고, 세대중첩모형으로 부채의 재정·후생 비용이 통상 가정보다 작을 수 있음을 이론·시뮬레이션으로 제시한 2019년 AEA 회장 강연 (Tier 1)
 - [Real Wage Rigidities and the New Keynesian Model](wiki/reference/macroeconomics/blanchard-2007-real-wage-rigidities-and-the.md) — 표준 뉴케인지언 모형의 "신의 일치"가 실질적 불완전성의 부재에서 비롯됨을 규명하고, 실질임금 경직성을 도입해 진짜 정책 트레이드오프와 인플레이션 관성을 동시에 설명 (Tier 1)
 - [AI의 거시경제 영향 분석](wiki/reference/macroeconomics/nam-2026-ai-macroeconomic-impact-analysis.md) — KECO 537개 직업 6,824개 단위과업의 5대 지표 기반 AI 자동화 가능성과 기업활동조사 패널IV 생산성효과(1인당매출 +20%)를 결합, 과업기반 Hulten 정리로 향후 10년 TFP 성장기여를 1.5~3.5%로 추정 (Tier 1)
+- [Estimating AI productivity gains from Claude conversations](wiki/reference/macroeconomics/tamkin-2025-estimating-ai-productivity-gains-from.md) — Claude 실사용 대화 10만 건에서 Claude 스스로 과업별 AI 유무 소요시간을 추정(평균 시간절감 80%), 과업기반 Hulten 정리로 집계해 향후 10년 미국 연간 노동생산성 증가율을 1.8%p(TFP 1.08%p) 높일 것으로 추정 (Tier 1)
 
 ### microeconomics
 (없음)
