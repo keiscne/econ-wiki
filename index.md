@@ -29,6 +29,7 @@
 
 ### international_economics
 - [국제 산업구조 변화에 따른 경제적 효과 분석 및 혁신성장 지표 연구](wiki/reference/international_economics/jeong-2024-international-industry-structure-change.md) — ADB 국제산업연관표에서 반도체 산업을 분리해 HEM·GEM 방식으로 국가별 반도체 생산중단 시나리오의 GDP 파급효과 정량화, 중국 반도체 추출 시 한국이 감소분의 18.5%(HEM)를 흡수 (Tier 1)
+- [What Countries Use AI, and What For? Intensity and Breadth of AI Adoption Across Over 100 Countries](wiki/reference/international_economics/fan-2026-what-countries-use-ai-and.md) — Anthropic Economic Index 80만여 대화(100개국 이상)로 AI 사용 강도(인구백만명당)와 확산폭(25개 요청군집 HHI)을 PPML·OLS로 분석, product space 응용 AI-diffusion space로 국가별 특화패턴 시각화, "강도가 확산폭에 선행" 규명 (Tier 1)
 
 ### applied_econometrics
 - [Tasks, Automation, and the Rise in U.S. Wage Inequality](wiki/reference/applied_econometrics/acemoglu-2022-tasks-automation-and-the-rise.md) — 과업변위(task displacement) 측정치로 1980~2016년 미국 임금구조 변화의 50~70%를 설명하고 일반균형 효과까지 정량화 (Tier 1)
