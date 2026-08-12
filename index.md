@@ -57,6 +57,8 @@
 - [최저임금제도가 노동소득분배율에 미치는 영향 분석](wiki/reference/applied_econometrics/hwang-2019-minimum-wage-labor-income-share.md) — 16개 광역자치단체 노동소득분배율 직접 측정(2000-2016), Kaitz지수(최저임금 영향력) 상승이 노동소득분배율을 유의하게 낮추며 비수도권에서만 유의함을 규명, 지역별 차등 최저임금제도 필요성 시사 (Tier 1)
 - [자본과 노동 간 대체탄력성의 추정: 노동소득분배에 대한 함의를 중심으로](wiki/reference/applied_econometrics/jeong-2015-elasticity-substitution-capital-labor-korea.md) — Asia KLEMS 산업패널(1980-2012)과 새 자영업 소득 보정법으로 대체탄력성 0.15~0.28(유의하게 1보다 작음)을 추정, 노동소득분배율 하락이 요소가격이 아닌 자본 편향적 기술진보(연 5.5%)에 기인함을 분해 실증 (Tier 1)
 - [CES 생산함수를 가정한 노동-자본 대체탄력성 추정: 국내 중소기업을 중심으로](wiki/reference/applied_econometrics/nam-2019-elasticity-substitution-labor-capital-smes.md) — NICE 평가정보 중소기업 재무패널(2011-2016)로 CES 대체탄력성 0.275를 추정, 소기업·업력이 짧은 기업·연구개발비 비중이 낮은 기업일수록 자본의 노동 대체 가능성이 높음을 실증(정보통신업 최저 0.158, 운수및창고업 최고 0.765) (Tier 1)
+- [기술변화가 숙련과 노동수요에 미치는 영향](wiki/reference/applied_econometrics/chang-2022-technology-change-skill-labor-demand.md) — 특허-O*NET 텍스트를 FastText로 연계한 직업별 기술노출도를 지역별고용조사 패널에 적용, 특허량이 실질임금(-0.044***)·고용(-0.056*)에 미치는 부(-)의 효과를 추정하고 사람인 IT 구인공고 NER 분석으로 숙련수요 변화를 병행 분석 (Tier 1)
+- [디지털 훈련의 숙련 수요 정합성 평가와 임금 효과 연구](wiki/reference/applied_econometrics/cheon-2025-digital-training-skill-alignment-wage.md) — KDT·KDC 훈련역량과 OJP 숙련 간 텍스트 정합성이 기본모형에서 임금을 1.9~3.5%(표준편차당) 높이나 직종·산업 통제 시 유의성이 약화됨을 실증 (Tier 1)
 
 ### korean_economy
 - [2024 인공지능산업 실태조사 보고서](wiki/reference/korean_economy/spri-2024-ai-industry-survey.md) — 국가승인통계(제127016호), 2,517개 AI 기업 전수조사로 2023년 AI 산업 매출 5.6조 원·종사자 51,211명·AI 도입률 6.4% 집계 (Tier 1)
@@ -102,6 +104,9 @@
 - [The Anthropic Economic Index report: Economic Primitives](wiki/reference/labor_economics/appel-2026-economic-primitives.md) — Anthropic Economic Index 4번째 판(V4). 과업복잡성·숙련·용도·자율성·성공률 5개 경제원시지표를 도입, 성공률 반영시 직업별 AI노출이 달라지고 Claude가 다루는 과업 제거시 순탈숙련 효과가 나타나며 생산성 기여 추정치가 1.8%p→1.0~1.2%p로 하향됨을 제시 (Tier 1)
 - [The Anthropic Economic Index report: Learning curves](wiki/reference/labor_economics/massenkoff-2026-learning-curves.md) — Anthropic Economic Index 5번째 판(V5). Claude.ai 사용 다변화·과업가치 하락과 함께, 모델선택(Opus)이 고임금 과업에 쏠리고 6개월+ 고tenure 이용자의 과업성공률이 4~5%p 높음을 실증해 AI "학습곡선"의 증거로 제시 (Tier 1)
 - [Anthropic Economic Index report: Cadences](wiki/reference/labor_economics/massenkoff-2026-cadences.md) — Anthropic Economic Index 6번째 판(V6). 시간단위 표집으로 요일·시간대 사용리듬을 문서화하고 산출물(artifact) 분류·AI자율성 비교를 도입, 신규 설문(Economic Index Survey)으로 자동화적 이용자일수록 향후 임금·고용안정성에 더 낙관적임을 최초 보고 (Tier 1)
+- [딥러닝기반 텍스트 분석을 통한 직업분류시스템 구축에 관한 연구](wiki/reference/labor_economics/chang-2022-deep-learning-job-classification-system.md) — 워크넷 OJPs 약 800만 건에 Bi-LSTM·KoBERT를 적용해 KECO 136개 직종 자동분류시스템을 구축, 매칭정확도 0.62~0.82를 달성하고 전문직에서 높은 정확도를 보임을 실증 (Tier 1)
+- [채용공고 정보를 활용한 정보통신업의 직무와 스킬 수요 분석](wiki/reference/labor_economics/kim-2025-ict-industry-job-skill-demand.md) — Jobkorea IT 채용공고를 기업유형·경력유형별 소셜네트워크 분석, JAVA·Linux가 핵심 스킬로 유지되되 경력자 사이에서 Python·AWS 수요가 부상하고 이들이 다른 스킬을 매개하는 역할을 수행함을 실증 (Tier 1)
+- [텍스트 분석을 통한 숙련 수요와 교과 역량 간의 매칭 분석: 데이터사이언스 전공을 중심으로](wiki/reference/labor_economics/cheon-2024-curriculum-skill-matching-data-science.md) — K-MOOC 데이터사이언스 교과 역량과 OJP IT 직업숙련 간 텍스트 유사도를 분석, '데이터보안'·'시장분석' 역량의 정합성이 높고 '통계모델링'은 낮음을 실증 (Tier 1)
 
 ## indexes
 저자·주제 목차.
