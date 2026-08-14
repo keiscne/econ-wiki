@@ -36,6 +36,7 @@ AI의 일반적 응용 10가지(이미지 인식, 언어 모델링, 음성 인�
 
 ## Related Papers
 
+- [[../../methods/lee-2024-generative-ai-labor-market-measurement]] — 본 논문의 mTurk 크라우드소싱 응용-능력 연계 방법론을 Webb(2020)·Eloundou et al.(2023)·Gmyrek et al.(2023)과 비교 정리한 방법론 노트.
 - [[acemoglu-2019-automation-and-new-tasks-how]] — 자동화의 전치효과·복원효과를 다루는 노동시장 노출 연구의 또 다른 축. 본 논문과 마찬가지로 직업·과업 단위에서 기술 노출을 측정하지만, 식별 전략과 결론(노동수요 둔화 vs 노출지수 구축)이 다름.
 - [[felten-2023-how-will-language-modelers-like-chatgpt]] — 본 논문의 AIOE 방법론을 언어모델링 응용에 특화해 재가중한 후속 연구.
 - [[acemoglu-2022-artificial-intelligence-and-jobs-evidence]] — 본 논문이 토대를 제공한 Felten, Raj, and Seamans(2018, 2019) AIOE 방법론을 사업장 단위 채용공고 분석의 세 가지 AI 노출지수 중 하나로 사용한 후속 연구.

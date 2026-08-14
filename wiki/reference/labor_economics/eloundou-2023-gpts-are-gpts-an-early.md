@@ -36,6 +36,7 @@ O*NET 27.2 데이터베이스(1,016개 직업, 19,265개 과업, 2,087개 DWA)�
 
 ## Related Papers
 
+- [[../../methods/lee-2024-generative-ai-labor-market-measurement]] — 본 논문의 LLM+인간 협업 노출 루브릭(E0~E2, α/β/ζ)을 Felten et al.(2021)·Webb(2020)·Gmyrek et al.(2023)과 비교 정리한 방법론 노트.
 - [[felten-2023-how-will-language-modelers-like-chatgpt]] — 본 논문과 직접 비교·인용되는 선행연구(AI Occupational Exposure 지수의 언어모델 특화 버전). 두 논문 모두 O*NET 기반 직업 단위 노출 측정이라는 동일한 전통에 속하며, 본 논문의 Table 8-9 비교 회귀분석에서 Felten et al.(2018)의 AIOE가 비교 대상으로 사용됨.
 - [[acemoglu-2019-automation-and-new-tasks-how]] — 과업 기반(task-based) 자동화 모형의 전치효과·복원효과 틀을 제시한 선행연구로, 본 논문이 문헌검토(2.2절)에서 인용.
 - [[../macroeconomics/acemoglu-2024-the-simple-macroeconomics-of-ai]] — 본 논문의 GPT-4 기반 과업 노출 지수(특히 노출 과업의 GDP 비중 19.9%, Eloundou et al. 2023 기준)를 핵심 입력 데이터로 사용해 AI의 거시경제(TFP·GDP) 효과를 추정한 후속 연구. Acemoglu(2024)는 본 논문을 "GPTs are GPTs"라는 제목으로 직접 인용한다.

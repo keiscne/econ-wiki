@@ -120,6 +120,7 @@
 ## methods
 연구방법론.
 - [산업별 과업내용 변화를 노동소득분배율의 잔차로 식별하는 전략 (Acemoglu & Restrepo 2019)](wiki/methods/acemoglu-2019-task-content-identification.md) — Acemoglu & Restrepo(2019)의 잔차 식별 전략을 원문 근거와 함께 정리
+- [생성형 AI의 노동시장 영향 측정 방법론 4계보 정리 (이학기 외, 2024)](wiki/methods/lee-2024-generative-ai-labor-market-measurement.md) — 인간전문가서베이(Felten 2021)·특허텍스트(Webb 2020)·LLM+인간협업(Eloundou 2023)·LLM단독(Gmyrek 2023) 4개 AI노출도 측정 방법론의 식별절차와 한계를 비교 정리
 
 ## claims
 아직 정리되지 않은 아이디어·주장.
