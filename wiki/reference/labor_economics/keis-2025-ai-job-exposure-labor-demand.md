@@ -35,6 +35,7 @@ O*NET 923개 직업의 과업 텍스트에 8개 오픈소스 LLM을 델파이 �
 
 ## Related Papers
 
+- [LLM을 통한 AI 직업 노출도 측정 연구](wiki/reference/labor_economics/son-2025-llm-based-ai-job-exposure-measurement.md) — 동일 저자진(손녕선·노희용)의 사실상 동일한 델파이-메타평가 산출물(KISDI 정책자료 25-12-03). AIE_S1 평균·상하위 직업 목록 등 수치가 거의 일치하며, 한국 응용 없이 O*NET 방법론과 결과 자체를 더 상세히 다룸.
 - [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](wiki/reference/labor_economics/eloundou-2023-gpts-are-gpts-an-early.md) — 본 연구가 벤치마킹 대상으로 삼은 GPT-4 단일모델 노출 루브릭 선행연구.
 - [Occupational, Industry, and Geographic Exposure to Artificial Intelligence: A Novel Dataset and Its Potential Uses](wiki/reference/labor_economics/felten-2021-occupational-industry-and-geographic-exposure.md) — 본 연구가 데이터 선택 근거로 인용한 O*NET 기반 AIOE 지수의 원류 연구.
 - [AI와 노동시장 변화](wiki/reference/labor_economics/han-2023-ai-and-labor-market-change.md) — Webb(2020) 특허기반 노출지수를 KSCO로 변환한 다른 방법론의 한국 AI 노출도 연구.
