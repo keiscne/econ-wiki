@@ -59,6 +59,7 @@
 - [CES 생산함수를 가정한 노동-자본 대체탄력성 추정: 국내 중소기업을 중심으로](wiki/reference/applied_econometrics/nam-2019-elasticity-substitution-labor-capital-smes.md) — NICE 평가정보 중소기업 재무패널(2011-2016)로 CES 대체탄력성 0.275를 추정, 소기업·업력이 짧은 기업·연구개발비 비중이 낮은 기업일수록 자본의 노동 대체 가능성이 높음을 실증(정보통신업 최저 0.158, 운수및창고업 최고 0.765) (Tier 1)
 - [기술변화가 숙련과 노동수요에 미치는 영향](wiki/reference/applied_econometrics/chang-2022-technology-change-skill-labor-demand.md) — 특허-O*NET 텍스트를 FastText로 연계한 직업별 기술노출도를 지역별고용조사 패널에 적용, 특허량이 실질임금(-0.044***)·고용(-0.056*)에 미치는 부(-)의 효과를 추정하고 사람인 IT 구인공고 NER 분석으로 숙련수요 변화를 병행 분석 (Tier 1)
 - [디지털 훈련의 숙련 수요 정합성 평가와 임금 효과 연구](wiki/reference/applied_econometrics/cheon-2025-digital-training-skill-alignment-wage.md) — KDT·KDC 훈련역량과 OJP 숙련 간 텍스트 정합성이 기본모형에서 임금을 1.9~3.5%(표준편차당) 높이나 직종·산업 통제 시 유의성이 약화됨을 실증 (Tier 1)
+- [직무 거리 기반 직업 이동과 산업별 직무 연속성 분석](wiki/reference/applied_econometrics/kiet-2026-task-distance-occupational-mobility.md) — O*NET 3차원 과업벡터 코사인 거리를 KLIPS 비자발적 이직자 개인내 1차차분모형에 적용, 직무거리 1단위 증가가 실질임금을 6.8% 감소시키고 제조업 출신(-16.3%)에 집중됨을 실증 (Tier 1)
 
 ### korean_economy
 - [2024 인공지능산업 실태조사 보고서](wiki/reference/korean_economy/spri-2024-ai-industry-survey.md) — 국가승인통계(제127016호), 2,517개 AI 기업 전수조사로 2023년 AI 산업 매출 5.6조 원·종사자 51,211명·AI 도입률 6.4% 집계 (Tier 1)

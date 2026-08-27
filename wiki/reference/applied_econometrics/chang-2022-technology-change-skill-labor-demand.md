@@ -41,3 +41,4 @@ tags: [특허, 기술노출도, OJPs, 숙련수요, FastText, 임금효과, 고�
 - [텍스트 분석을 통한 숙련 수요와 교과 역량 간의 매칭 분석](wiki/reference/labor_economics/cheon-2024-curriculum-skill-matching-data-science.md) — 동일한 OJP 숙련추출 방법론을 대학 교과 역량 매칭에 적용.
 - [채용공고 정보를 활용한 정보통신업의 직무와 스킬 수요 분석](wiki/reference/labor_economics/kim-2025-ict-industry-job-skill-demand.md) — IT 직종 숙련수요를 다른 방법론(SNA)으로 분석한 유사 주제 연구.
 - [산업별 인공지능 도입의 노동시장 영향과 정책과제](wiki/reference/applied_econometrics/kiet-2024-ai-labor-market-industry.md) — 기술변화의 국내 노동시장(고용) 효과를 다룬 유사 주제 연구.
+- [직무 거리 기반 직업 이동과 산업별 직무 연속성 분석](wiki/reference/applied_econometrics/kiet-2026-task-distance-occupational-mobility.md) — 동일하게 O*NET을 한국 직업분류에 연계하는 방법론을 사용하되, 특허 노출도 대신 이직 전후 직업 간 과업벡터 코사인 거리를 임금손실의 설명변수로 활용한 연구.

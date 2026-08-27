@@ -35,6 +35,7 @@ tags: [robots, automation, denmark, matched-employer-employee, event-study, dyna
 
 ## Related Papers
 
+- [[kiet-2026-task-distance-occupational-mobility]] — 개인 단위 패널자료로 기술충격·직업이동에 따른 임금손실을 식별한다는 점에서 본 논문과 방법론적으로 유사한 한국 KLIPS 기반 연구. 로봇 대체효과 대신 O*NET 기반 '직무 거리'를 임금손실의 설명변수로 사용.
 - [[../labor_economics/acemoglu-2011-skills-tasks-and-technologies-implications]] — 기계대체기술이 특정 과업구간을 대체하면 중숙련 상대임금이 항상 하락한다는 명제를 제시한 비교우위 리카도 모형 — 본 논문이 산업로봇이라는 구체적 기술로 실증하는 이론적 원형.
 - [[acemoglu-2022-tasks-automation-and-the-rise]] — 과업대체(task displacement)를 측정해 일반균형 임금구조 변화를 정량화한다는 점에서 본 논문의 로봇기술효과·일반균형 분석과 같은 계열의 작업.
 - [[../labor_economics/acemoglu-2019-automation-and-new-tasks-how]] — 자동화의 전치효과(displacement)와 신규과업의 복원효과(reinstatement) 진단틀을 제시하며, 본 논문이 로봇도입의 생산직 대체·기술직 확대를 해석하는 이론적 배경이 됨.

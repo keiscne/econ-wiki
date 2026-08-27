@@ -36,6 +36,7 @@ March/May-ORG CPS(1963–2009)와 Census/ACS(1960–2008) 자료로 임금·고�
 
 ## Related Papers
 
+- [[../applied_econometrics/kiet-2026-task-distance-occupational-mobility]] — 본 논문의 과업 묶음(bundle of tasks) 개념을 O*NET 3차원 과업벡터·코사인 거리로 조작화해, 한국 KLIPS 이직자의 '직무 거리'가 임금 손실에 미치는 효과를 실증한 후속 연구.
 - [[../macroeconomics/acemoglu-2018-the-race-between-man-and]] — 본 논문의 비교우위·과업기반 틀을 동일 저자(Acemoglu)가 자동화-신규과업 이분법으로 확장한 직접적 후속 연구. 두 논문을 잇는 종합은 [[../../subjects/acemoglu-task-based-automation-and-ai]] 참조.
 - [[acemoglu-2019-automation-and-new-tasks-how]] — 본 논문의 반복화(routinization) 가설을 산업 노동소득분배율 변화의 잔차 식별로 실증 진단.
 - [[../applied_econometrics/acemoglu-2022-tasks-automation-and-the-rise]] — 본 논문이 제시한 임계과업·상대임금 결과를 다집단·다산업 일반균형으로 확장해 1980–2016년 미국 임금구조 변화를 정량화.

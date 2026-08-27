@@ -33,6 +33,7 @@ tags: [automation, labor-demand, task-based-model, displacement-effect, reinstat
 
 ## Related Papers
 
+- [[../applied_econometrics/kiet-2026-task-distance-occupational-mobility]] — 본 논문의 직무 특수 인적자본·과업기반 논의를 배경으로, O*NET 과업벡터 코사인 거리를 '직무 거리'로 조작화해 한국 이직자의 임금손실을 실증한 후속 연구.
 - [[acemoglu-2011-skills-tasks-and-technologies-implications]] — 본 논문이 자본/노동 이분법으로 단순화한 저·중·고숙련 비교우위 리카도 모형의 원전.
 - [[../macroeconomics/acemoglu-2024-the-simple-macroeconomics-of-ai]] — 본 논문의 전치효과·복원효과 틀을 AI(생성형 AI)에 적용해 향후 10년 거시효과를 추정한 후속 연구.
 - [[../../subjects/acemoglu-task-based-automation-and-ai]] — 위 논문들을 종합한 합성 노트.
