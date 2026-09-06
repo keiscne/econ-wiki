@@ -110,6 +110,8 @@
 - [텍스트 분석을 통한 숙련 수요와 교과 역량 간의 매칭 분석: 데이터사이언스 전공을 중심으로](wiki/reference/labor_economics/cheon-2024-curriculum-skill-matching-data-science.md) — K-MOOC 데이터사이언스 교과 역량과 OJP IT 직업숙련 간 텍스트 유사도를 분석, '데이터보안'·'시장분석' 역량의 정합성이 높고 '통계모델링'은 낮음을 실증 (Tier 1)
 - [자동화 및 인공지능 기술 발전에 따른 고용 구조 변화 분석 — 제5장 인공지능 직업 노출도 측정 및 직업 수요 변화 논의](wiki/reference/labor_economics/keis-2025-ai-job-exposure-labor-demand.md) — 8개 오픈소스 LLM 델파이 패널+GPT-4o 진행촉진자로 O*NET 923개 직업 AI노출도를 측정, 한국 채용공고 패널 장기차분회귀에서 노출도 1점 상승이 공고증가율을 유의하게 낮춤(-2.168***)을 실증 (Tier 1, 보고서 8개 장 중 제5장만 수록)
 - [LLM을 통한 AI 직업 노출도 측정 연구](wiki/reference/labor_economics/son-2025-llm-based-ai-job-exposure-measurement.md) — 8개 오픈소스 LLM 강건성 검정 후 5개 모델 델파이 패널+GPT-4o 메타평가로 O*NET 923개 직업 AI노출도(AIE_S1 평균 0.402)를 산출, 가중평균·Eloundou et al.(2023) 결과와 교차검증 (Tier 1)
+- [청년고용 위축, AI 탓인가? 변화하는 경력 사다리와 대응 과제](wiki/reference/labor_economics/bok-2026-youth-employment-decline-ai-career-ladder.md) — 국민연금 가입자수와 Felten AIOE로 청년 일자리 감소의 94%가 AI 고노출업종에서 발생함을 확인, 자동화/증강 활용방식별 이질성과 학력별 실업률 격차·기존 청년근로자 유출 증가까지 분석범위를 확장해 한진수·오삼일(2025)을 연장 (Tier 1)
+- [What Work Does Generative AI Do?](wiki/reference/labor_economics/bick-2026-what-work-does-generative.md) — Real-Time Population Survey의 O*NET 과업수준 genAI 채택 데이터로 직업·과업별 채택지수를 최초 구축, 노출점수는 채택변이의 절반 이하만 설명하고 채택이 "광범위하지만 얕으며" 챗로그 기반 측정치는 일반활동 과대분류로 서베이와 상관관계가 낮음을 실증 (Tier 1)
 
 ## indexes
 저자·주제 목차.

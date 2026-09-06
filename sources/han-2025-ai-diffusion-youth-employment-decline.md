@@ -65,6 +65,7 @@ datasets_used:
 - [[chang-2026-ai-technology-diffusion-employment]] — 본 연구를 직접 보완 대상으로 삼아 고용보험DB 직종 소분류 단위로 AI 노출도를 정밀화한 후속 연구(장지연 2026).
 - [[noh-2025-ai-based-manufacturing-innovation-employment]] — 본 연구를 한국 제조업에 특화해 인용한 정책연구보고서(노세리 외 2025, 2장).
 - [[bok-2025-rapid-ai-diffusion-productivity-effects]] — 본 연구의 보조 AI노출지표(AI 활용률)와 경력별 시간절감률 재분석의 원자료.
+- [[bok-2026-youth-employment-decline-ai-career-ladder]] — 본 연구를 최신 자료로 연장하고, AI 활용방식(자동화/증강)·고용 유출입·학력별 실업률 분석으로 범위를 확장한 후속 연구.
 
 ## Glossary
 - **연공편향 기술변화(seniority-biased technological change)**: AI가 경력이 적은 청년층의 정형화·교과서적 지식업무를 상대적으로 쉽게 대체하는 반면, 경력기반 암묵적 지식(tacit knowledge)·사회적 기술이 필요한 업무에서는 보완적으로 작동해 시니어 고용은 늘고 청년 고용은 줄어드는 현상(p.10).

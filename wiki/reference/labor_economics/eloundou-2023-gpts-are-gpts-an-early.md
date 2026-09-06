@@ -48,3 +48,5 @@ O*NET 27.2 데이터베이스(1,016개 직업, 19,265개 과업, 2,087개 DWA)�
 - [[../macroeconomics/bok-2025-rapid-ai-diffusion-productivity-effects]] — 생성형 AI(언어모형)의 업무 범용성 논의에서 본 논문을 직접 인용.
 - [[fan-2026-aggregate-gains-from-ai]] — 본 논문의 과업시간단축 노출지수를 비교 대상으로 삼아, Anthropic Economic Index 실사용 데이터로 노동비용등가·AI집중지수를 새로 구축한 후속 연구.
 - [[handa-2025-which-economic-tasks-are]] — Anthropic Economic Index 최초 보고서. 본 논문의 예측(미국 근로자 80%가 과업 10%+ 영향)을 실사용 데이터(직업의 약 57%가 과업 10%+ 사용)와 대조.
+- [[bok-2026-youth-employment-decline-ai-career-ladder]] — 본 논문의 노출지수 접근 대신 Felten AIOE를 주 지표로 사용하지만, 본 논문을 AI 노출 측정의 대표적 선행 방법론으로 인용해 한국 청년고용 위축의 배경 논의에 활용.
+- [[bick-2026-what-work-does-generative]] — 본 논문의 α/β/ζ 노출점수를 미국 Real-Time Population Survey의 실제 genAI 채택률과 비교, ζ가 직업수준 채택변이의 약 50%(R²=0.496)만을 설명함을 실증.

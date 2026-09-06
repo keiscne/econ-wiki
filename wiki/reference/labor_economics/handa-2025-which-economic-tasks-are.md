@@ -43,3 +43,5 @@ Claude.ai Free·Pro 대화(엔터프라이즈·API 제외), 2024.12~2025.1 수�
 - [[massenkoff-2026-learning-curves]] — 모델선택·사용자 tenure에 따른 학습곡선을 분석한 5번째 판(V5).
 - [[massenkoff-2026-cadences]] — 시간단위 표집·산출물 분류·설문(Economic Index Survey)을 추가한 6번째 판(V6).
 - [[bick-2026-mind-the-gap-ai-adoption]] — 서베이 기반 실제 AI 채택률 측정 연구로, 본 연구의 대화기반 실사용 관측과 상호보완적 방법론.
+- [[bok-2026-youth-employment-decline-ai-career-ladder]] — 본 연구의 자동화/증강 구분과 유사한 관점에서 AI 활용방식별 한국 청년고용 영향의 이질성을 분석한 연구.
+- [[bick-2026-what-work-does-generative]] — 본 연구의 Claude 챗로그 기반 과업점유율을 미국 Real-Time Population Survey의 서베이 기반 채택률과 비교, 4개 챗/서베이 측정치 중 RPS와 가장 높은 상관(ρ=0.34)을 보이나 여전히 챗분류기의 일반활동 과대분류 문제를 지적당함.

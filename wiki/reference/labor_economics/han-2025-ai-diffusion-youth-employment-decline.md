@@ -38,3 +38,4 @@ tags: [연공편향, seniority-biased, 청년고용, 국민연금, AIOE, 삼중�
 - [[chang-2026-ai-technology-diffusion-employment]] (wiki/labor_economics/chang-2026-ai-technology-diffusion-employment.md) — 본 연구를 직접 보완 대상으로 삼아 고용보험DB 직종 소분류 단위로 정밀화한 후속 연구.
 - [[noh-2025-ai-based-manufacturing-innovation-employment]] (wiki/labor_economics/noh-2025-ai-based-manufacturing-innovation-employment.md) — 본 연구를 제조업에 특화해 인용한 정책연구보고서.
 - [[bok-2025-rapid-ai-diffusion-productivity-effects]] (wiki/macroeconomics/bok-2025-rapid-ai-diffusion-productivity-effects.md) — 본 연구의 보조 AI노출지표(AI 활용률)와 경력별 시간절감률 재분석의 원자료.
+- [[bok-2026-youth-employment-decline-ai-career-ladder]] (wiki/labor_economics/bok-2026-youth-employment-decline-ai-career-ladder.md) — 본 연구를 최신 자료로 연장하고, AI 활용방식(자동화/증강)·고용 유출입·학력별 실업률 분석으로 범위를 확장한 후속 연구.

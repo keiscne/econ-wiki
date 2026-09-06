@@ -48,3 +48,5 @@ AI의 일반적 응용 10가지(이미지 인식, 언어 모델링, 음성 인�
 - [[../applied_econometrics/kiet-2025-ai-occupational-employment-effect]] — 본 논문의 방법론을 19개 능력변수로 확장해 한국 고용보험DB 사업장 패널에 적용, 평균 고용효과(-2.36%)와 직종별 차별효과(사분위·35개 중분류)를 최초로 분리 추정.
 - [[fan-2026-aggregate-gains-from-ai]] — 본 논문류의 잠재적 노출지수 접근과 대비해, Anthropic Economic Index 실사용 데이터로 100개국 이상의 실제 AI 사용 분포(노동비용등가·AI집중지수)를 직접 관측한 연구.
 - [[handa-2025-which-economic-tasks-are]] — Anthropic Economic Index 최초 보고서로, 본 논문의 이론적 노출지수 접근과 대비되는 Claude.ai 실사용 데이터 기반 O*NET 과업매핑 프레임워크를 제시.
+- [[bok-2026-youth-employment-decline-ai-career-ladder]] — 본 논문의 AIOE를 주 노출지표로 직접 사용해 한국 청년고용 위축·실업률 격차·고용 유출입을 분석, 한진수·오삼일(2025)을 최신 자료로 연장한 후속 연구.
+- [[bick-2026-what-work-does-generative]] — 본 논문의 AIOE를 미국 Real-Time Population Survey의 실제 genAI 채택률과 비교, 6개 노출점수 중 직업수준에서 가장 높은 상관(ρ=0.727, R²=0.529)을 보임을 실증.
