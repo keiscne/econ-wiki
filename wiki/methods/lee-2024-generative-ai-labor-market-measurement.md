@@ -18,7 +18,7 @@ AI(특히 생성형 AI)가 직업에 미치는 영향을 측정한 선행연구�
 - **3단계 (직업수준 노출, AIOE)**: O*NET이 이미 제공하는 직업별 능력 보급도(prevalence, L_jk)와 중요도(importance, I_jk)로 능력수준 노출을 가중평균한다.
 - **식별의 성격**: 이 방법은 "AI가 노동을 대체/보완하는가"를 직접 묻지 않는다. 응용 프로그램-능력 관련성이라는 중간 다리를 통해 "직업이 AI에 노출될 가능성"만을 측정하도록 설계되어 있어, 인과추정이라기보다 서술적(descriptive) 지수에 가깝다.
 
-## 2. 특허텍스트 유사도 기반 — Webb(2020)의 동사-명사 조합 매칭
+## 2. 특허텍스트 유사도 기반 — [[../reference/labor_economics/webb-2020-impact-artificial-intelligence-labor|Webb(2020)]]의 동사-명사 조합 매칭
 
 - **특허 세트 구성**: Google Patents Public Data에서 title/abstract에 "neural network" 등 사전 정의 키워드가 포함된 특허만 추출.
 - **텍스트 단위 통일**: dependency parsing algorithm(Honnibal & Johnson, 2015)으로 특허 제목과 O*NET 964개 직업의 업무 설명 양쪽 모두에서 "동사-명사" 조합을 추출한다(예: "diagnose disease", "interpret test"). 이 통일된 단위가 특허와 직업 텍스트를 직접 비교 가능하게 만드는 장치.

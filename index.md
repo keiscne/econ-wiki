@@ -112,6 +112,7 @@
 - [LLM을 통한 AI 직업 노출도 측정 연구](wiki/reference/labor_economics/son-2025-llm-based-ai-job-exposure-measurement.md) — 8개 오픈소스 LLM 강건성 검정 후 5개 모델 델파이 패널+GPT-4o 메타평가로 O*NET 923개 직업 AI노출도(AIE_S1 평균 0.402)를 산출, 가중평균·Eloundou et al.(2023) 결과와 교차검증 (Tier 1)
 - [청년고용 위축, AI 탓인가? 변화하는 경력 사다리와 대응 과제](wiki/reference/labor_economics/bok-2026-youth-employment-decline-ai-career-ladder.md) — 국민연금 가입자수와 Felten AIOE로 청년 일자리 감소의 94%가 AI 고노출업종에서 발생함을 확인, 자동화/증강 활용방식별 이질성과 학력별 실업률 격차·기존 청년근로자 유출 증가까지 분석범위를 확장해 한진수·오삼일(2025)을 연장 (Tier 1)
 - [What Work Does Generative AI Do?](wiki/reference/labor_economics/bick-2026-what-work-does-generative.md) — Real-Time Population Survey의 O*NET 과업수준 genAI 채택 데이터로 직업·과업별 채택지수를 최초 구축, 노출점수는 채택변이의 절반 이하만 설명하고 채택이 "광범위하지만 얕으며" 챗로그 기반 측정치는 일반활동 과대분류로 서베이와 상관관계가 낮음을 실증 (Tier 1)
+- [The Impact of Artificial Intelligence on the Labor Market](wiki/reference/labor_economics/webb-2020-impact-artificial-intelligence-labor.md) — 특허텍스트-O*NET 동사명사 매칭으로 어떤 기술에도 적용 가능한 노출측정법을 개발, 소프트웨어·로봇 노출도가 각각 고용 7~11%/9~18%↓·임금 2~6%/8~14%↓와 연관됨을 확인한 뒤 AI는 반대로 고학력·고임금·고령층에 집중됨을 실증, 이 관계가 지속된다는 가정 하에 AI가 90:10 임금불평등은 완화하되 99:90은 확대할 것으로 추정 (Tier 1)
 
 ## indexes
 저자·주제 목차.

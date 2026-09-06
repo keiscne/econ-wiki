@@ -34,6 +34,7 @@ Webb(2020)의 특허기반 AI 노출지수를 한국표준직업분류로 변환
 > 표2·표3의 행별 계수-변수 대응은 텍스트 추출 과정에서 한 칸씩 밀려 일부 불확실하나, 모형(2) 계수가 본문 해석 수치(12%p/5%p, 7%p/2%p)와 정확히 일치해 교차검증함. 자세한 내용은 [[han-2023-ai-and-labor-market-change]] sources 문서 참조.
 
 ## Related Papers
+- [[webb-2020-impact-artificial-intelligence-labor]] — 본 연구가 KSCO로 변환해 한국 노동시장에 직접 적용하는 원 방법론(특허텍스트-O*NET 동사명사 조합 매칭 기반 노출지수).
 - [[han-2025-ai-diffusion-youth-employment-decline]] (wiki/labor_economics/han-2025-ai-diffusion-youth-employment-decline.md) — 같은 한국은행 조사국 고용분석팀 계열의 후속 연구로, 본 연구의 특허기반 Webb(2020) 노출지수 대신 Felten et al.(2021) AIOE를 사용해 연공편향적 청년고용 효과를 직접 식별.
 - [[bok-2025-rapid-ai-diffusion-productivity-effects]] (wiki/macroeconomics/bok-2025-rapid-ai-diffusion-productivity-effects.md) — 본 연구를 직접 인용하는 같은 한국은행 조사국 계열의 후속 연구.
 - [[kiet-2025-ai-occupational-employment-effect]] (wiki/applied_econometrics/kiet-2025-ai-occupational-employment-effect.md) — 본 연구와 마찬가지로 국내 고용보험 자료에 직업별 AI노출지수를 결합하나, Webb 특허기반 지수 대신 Felten AIOE를 19개 능력변수로 확장해 직종별 차별적 고용효과를 사업장 고정효과 모형으로 직접 추정.
