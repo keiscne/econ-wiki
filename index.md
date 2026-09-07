@@ -25,6 +25,7 @@
 - [Estimating AI productivity gains from Claude conversations](wiki/reference/macroeconomics/tamkin-2025-estimating-ai-productivity-gains-from.md) — Claude 실사용 대화 10만 건에서 Claude 스스로 과업별 AI 유무 소요시간을 추정(평균 시간절감 80%), 과업기반 Hulten 정리로 집계해 향후 10년 미국 연간 노동생산성 증가율을 1.8%p(TFP 1.08%p) 높일 것으로 추정 (Tier 1)
 - [The Past, Present and Future of European Productivity](wiki/reference/macroeconomics/bergeaud-2024-past-present-future-european.md) — 1890년 이후 장기 성장회계로 유로지역-미국 생산성 격차가 1995년 이후(2023년 20%p 초과) 벌어졌음을 규명, ICT 인과효과(IV, IT자본비중 0.01↑→생산성6%↑)·팬데믹 일시충격·"중간기술 함정" R&D 배분왜곡으로 원인을 분해하고 Acemoglu(2024) Hulten공식을 유럽에 적용해 AI의 10년 TFP 기여를 2.9%로 추정 (Tier 1)
 - [Macroeconomic productivity gains from Artificial Intelligence in G7 economies](wiki/reference/macroeconomics/oecd-2025-macroeconomic-productivity-gains-artificial-intelligence.md) — Acemoglu(2024) Hulten정리 프레임워크를 부문단위로 확장, 국가간 조화된 기업 AI채택률(2024년 일본·이탈리아 약2%~미국·캐나다 약6%)과 과거 GPT(전기·컴퓨터/인터넷·휴대전화) 확산속도를 결합해 G7 각국의 10년 연간노동생산성 증가를 추정, 지식집약서비스 비중이 높은 미국·영국은 0.4~1.3%p·이탈리아·일본은 0.2~0.8%p로 국가간 격차를 규명 (Tier 1)
+- [AI's Economic Impact: Transforming Jobs, Productivity, and Growth (World Development Report 2026, Chapter 4)](wiki/reference/macroeconomics/worldbank-2026-ai-economic-impact-transforming-jobs.md) — 세계은행 자체 기업서베이(7개국)와 Acemoglu(2024) Hulten정리 52개국 확장 추정으로, 개도국의 AI채택 격차(36배)가 노출도 격차(3배)보다 훨씬 크며 향후 10년 영향은 채택 확산 속도가 기술진보 속도보다 더 좌우함을 규명 (Tier 1)
 
 ### microeconomics
 (없음)
@@ -115,6 +116,12 @@
 - [청년고용 위축, AI 탓인가? 변화하는 경력 사다리와 대응 과제](wiki/reference/labor_economics/bok-2026-youth-employment-decline-ai-career-ladder.md) — 국민연금 가입자수와 Felten AIOE로 청년 일자리 감소의 94%가 AI 고노출업종에서 발생함을 확인, 자동화/증강 활용방식별 이질성과 학력별 실업률 격차·기존 청년근로자 유출 증가까지 분석범위를 확장해 한진수·오삼일(2025)을 연장 (Tier 1)
 - [What Work Does Generative AI Do?](wiki/reference/labor_economics/bick-2026-what-work-does-generative.md) — Real-Time Population Survey의 O*NET 과업수준 genAI 채택 데이터로 직업·과업별 채택지수를 최초 구축, 노출점수는 채택변이의 절반 이하만 설명하고 채택이 "광범위하지만 얕으며" 챗로그 기반 측정치는 일반활동 과대분류로 서베이와 상관관계가 낮음을 실증 (Tier 1)
 - [The Impact of Artificial Intelligence on the Labor Market](wiki/reference/labor_economics/webb-2020-impact-artificial-intelligence-labor.md) — 특허텍스트-O*NET 동사명사 매칭으로 어떤 기술에도 적용 가능한 노출측정법을 개발, 소프트웨어·로봇 노출도가 각각 고용 7~11%/9~18%↓·임금 2~6%/8~14%↓와 연관됨을 확인한 뒤 AI는 반대로 고학력·고임금·고령층에 집중됨을 실증, 이 관계가 지속된다는 가정 하에 AI가 90:10 임금불평등은 완화하되 99:90은 확대할 것으로 추정 (Tier 1)
+
+### public_economics
+- [AI's Social Impact: Improving Public Service Delivery (World Development Report 2026, Chapter 5)](wiki/reference/public_economics/worldbank-2026-ai-social-impact-improving-public.md) — 정부 AI 조달계약 610만여 건을 GPT-5로 분류하고 129개국 정부서베이를 결합, 프론트엔드(교육·보건)·백엔드(예측·감시·행정) 유형별 성공·실패 사례로 예측형 백엔드 AI가 개도국 정부에 가장 빠른 성과를 준다고 규명 (Tier 1)
+
+### political_economy
+- [AI's Political Impact: Reshaping Power Within and Across Countries (World Development Report 2026, Chapter 6)](wiki/reference/political_economy/worldbank-2026-ai-political-impact-reshaping-power.md) — 국가간·정부-기업간·기업-개인간·시민-국가간 4개 권력축을 분석, AI주권과 AI의존 양극단 모두 비용이 크며(파편화의 악순환) 공급자 다변화·국가연합을 통한 협상력 강화가 개도국에 더 현실적 경로임을 규명 (Tier 1)
 
 ## indexes
 저자·주제 목차.

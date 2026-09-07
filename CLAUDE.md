@@ -83,7 +83,9 @@ econ-wiki/
     │   ├── applied_econometrics/
     │   ├── korean_economy/
     │   ├── national_accounts/
-    │   └── labor_economics/
+    │   ├── labor_economics/
+    │   ├── public_economics/
+    │   └── political_economy/
     ├── indexes/                 # 저자·주제 목차
     ├── general/                 # 이론·개념 정리
     ├── methods/                 # 연구방법론(식별전략·추정량·검정 등)
@@ -126,6 +128,8 @@ econ-wiki/
 | `korean_economy` | 한국 경제 현안·정책·산업·지역 분석 |
 | `national_accounts` | 국민계정체계(SNA), GDP/GNI 추정, 산업연관표, 투입-산출분석 |
 | `labor_economics` | 노동시장, 임금, 고용/실업, 인적자본 |
+| `public_economics` | 정부 서비스 전달·행정, 공공부문 효율성, 규제, 공공재정(조세·재정지출 제외 항목은 macroeconomics와 협의) |
+| `political_economy` | 국가·기업·개인 간 권력구조, 지정학, 거버넌스, 제도가 경제적 결과에 미치는 영향 |
 
 > `applied_econometrics` vs `wiki/methods/` 구분: 새로운 추정량·검정을 제안/증명하는 논문이거나
 > 특정 논문의 식별전략 자체를 방법론 관점에서 해설하는 노트 → `wiki/methods/`.
@@ -352,6 +356,8 @@ grep 친화적인 한 줄 로그:
 - 웹 검색: Claude는 전면 금지. Tier 2 자료는 사용자가 수동으로 `papers/web/`에 추가.
 - 데이터셋 레지스트리: `datasets/` 폴더 별도 운영.
 - 기관자료 파일명: `{기관코드}-{연도}-{slug}`.
+- 2026-09-07: `reference/` 카테고리에 `public_economics`(정부 서비스 전달·행정), `political_economy`
+  (권력구조·지정학·거버넌스) 추가 — World Development Report 2026 5장·6장 분류를 위해 사용자 승인.
 
 향후 카테고리 추가, 기관코드 추가, 인용 형식 변경 등 구조에 영향을 주는 결정은
 먼저 사용자에게 묻고 진행합니다.
