@@ -40,3 +40,4 @@ Long Term Productivity Project(Bergeaud et al. 2016)로 Y = P×TFP×(K/L)^α×(N
 - [[felten-2021-occupational-industry-and-geographic-exposure]] — 본 논문이 유럽 27개국에 직접 적용하는 AIOE 노출지표의 원 논문.
 - [[webb-2020-impact-artificial-intelligence-labor]] — 본 논문이 AI 노출 측정의 대안적 선행 방법론(특허텍스트-직무기술 매칭)으로 인용.
 - [[korinek-2024-scenarios-for-the-transition-to]] — 본 논문의 10년 단기 정태 추정과 대비되는, 완전자동화(AGI) 극한까지 확장한 장기 동태모형.
+- [[oecd-2025-macroeconomic-productivity-gains-artificial-intelligence]] — 본 논문(ECB Sintra 포럼 2024 발표본)을 G7 국가별 AI 생산성 효과 비교의 선행연구로 직접 인용하는 OECD 후속 연구.

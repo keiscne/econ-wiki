@@ -51,3 +51,4 @@ O*NET 27.2 데이터베이스(1,016개 직업, 19,265개 과업, 2,087개 DWA)�
 - [[bok-2026-youth-employment-decline-ai-career-ladder]] — 본 논문의 노출지수 접근 대신 Felten AIOE를 주 지표로 사용하지만, 본 논문을 AI 노출 측정의 대표적 선행 방법론으로 인용해 한국 청년고용 위축의 배경 논의에 활용.
 - [[bick-2026-what-work-does-generative]] — 본 논문의 α/β/ζ 노출점수를 미국 Real-Time Population Survey의 실제 genAI 채택률과 비교, ζ가 직업수준 채택변이의 약 50%(R²=0.496)만을 설명함을 실증.
 - [[webb-2020-impact-artificial-intelligence-labor]] — 본 논문의 비교 회귀분석(Table 8-9)에서 5개 기존 노출측정치 중 하나로 사용된 특허텍스트 기반 노출지수의 원 논문.
+- [[../macroeconomics/oecd-2025-macroeconomic-productivity-gains-artificial-intelligence]] — 본 논문의 O*NET 과업수준 노출점수(기준선·확장능력)를 G7 7개국 부문별 노출도 추정의 원자료로 직접 사용.

@@ -48,3 +48,4 @@ Acemoglu & Restrepo의 과업 기반(task-based) 모형과 Hulten 정리를 이�
 - [[bok-2025-rapid-ai-diffusion-productivity-effects]] — 본 논문의 생산성 추정치(0.7%)를 비교 대상으로, 노동소득분배율(0.57) 산정 근거로 직접 인용.
 - [[nam-2026-ai-macroeconomic-impact-analysis]] — 본 논문의 과업기반 생산함수·Hulten 정리 접근을 한국 자료(KECO 537개 직업, 기업활동조사 패널 IV)에 적용해 10년 TFP 기여를 1.5~3.5%로 추정, 본 논문의 보수적 추정치(0.5~0.7%)를 비교 벤치마크로 직접 인용.
 - [[bergeaud-2024-past-present-future-european]] — 본 논문의 4대 요소 공식(노출 GDP비중×비용효율적 자동화비중×과업당 생산성향상×노동소득분배율)을 유럽 27개국에 재보정 적용, 유로지역 10년 TFP 기여를 2.9%(본 논문의 미국 추정 0.7%보다 큼)로 추정.
+- [[oecd-2025-macroeconomic-productivity-gains-artificial-intelligence]] — 본 논문의 국가단위 Hulten 정리 프레임워크를 부문 단위로 확장해 G7 7개국에 적용, 조화된 기업 AI채택률 실측치를 결합한 결과 본 논문의 매우 보수적인 미국 추정(0.1%p)보다 훨씬 높은 중심시나리오(0.99%p)를 도출.

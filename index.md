@@ -24,6 +24,7 @@
 - [AI의 거시경제 영향 분석](wiki/reference/macroeconomics/nam-2026-ai-macroeconomic-impact-analysis.md) — KECO 537개 직업 6,824개 단위과업의 5대 지표 기반 AI 자동화 가능성과 기업활동조사 패널IV 생산성효과(1인당매출 +20%)를 결합, 과업기반 Hulten 정리로 향후 10년 TFP 성장기여를 1.5~3.5%로 추정 (Tier 1)
 - [Estimating AI productivity gains from Claude conversations](wiki/reference/macroeconomics/tamkin-2025-estimating-ai-productivity-gains-from.md) — Claude 실사용 대화 10만 건에서 Claude 스스로 과업별 AI 유무 소요시간을 추정(평균 시간절감 80%), 과업기반 Hulten 정리로 집계해 향후 10년 미국 연간 노동생산성 증가율을 1.8%p(TFP 1.08%p) 높일 것으로 추정 (Tier 1)
 - [The Past, Present and Future of European Productivity](wiki/reference/macroeconomics/bergeaud-2024-past-present-future-european.md) — 1890년 이후 장기 성장회계로 유로지역-미국 생산성 격차가 1995년 이후(2023년 20%p 초과) 벌어졌음을 규명, ICT 인과효과(IV, IT자본비중 0.01↑→생산성6%↑)·팬데믹 일시충격·"중간기술 함정" R&D 배분왜곡으로 원인을 분해하고 Acemoglu(2024) Hulten공식을 유럽에 적용해 AI의 10년 TFP 기여를 2.9%로 추정 (Tier 1)
+- [Macroeconomic productivity gains from Artificial Intelligence in G7 economies](wiki/reference/macroeconomics/oecd-2025-macroeconomic-productivity-gains-artificial-intelligence.md) — Acemoglu(2024) Hulten정리 프레임워크를 부문단위로 확장, 국가간 조화된 기업 AI채택률(2024년 일본·이탈리아 약2%~미국·캐나다 약6%)과 과거 GPT(전기·컴퓨터/인터넷·휴대전화) 확산속도를 결합해 G7 각국의 10년 연간노동생산성 증가를 추정, 지식집약서비스 비중이 높은 미국·영국은 0.4~1.3%p·이탈리아·일본은 0.2~0.8%p로 국가간 격차를 규명 (Tier 1)
 
 ### microeconomics
 (없음)
