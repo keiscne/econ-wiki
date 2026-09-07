@@ -23,6 +23,7 @@
 - [Real Wage Rigidities and the New Keynesian Model](wiki/reference/macroeconomics/blanchard-2007-real-wage-rigidities-and-the.md) — 표준 뉴케인지언 모형의 "신의 일치"가 실질적 불완전성의 부재에서 비롯됨을 규명하고, 실질임금 경직성을 도입해 진짜 정책 트레이드오프와 인플레이션 관성을 동시에 설명 (Tier 1)
 - [AI의 거시경제 영향 분석](wiki/reference/macroeconomics/nam-2026-ai-macroeconomic-impact-analysis.md) — KECO 537개 직업 6,824개 단위과업의 5대 지표 기반 AI 자동화 가능성과 기업활동조사 패널IV 생산성효과(1인당매출 +20%)를 결합, 과업기반 Hulten 정리로 향후 10년 TFP 성장기여를 1.5~3.5%로 추정 (Tier 1)
 - [Estimating AI productivity gains from Claude conversations](wiki/reference/macroeconomics/tamkin-2025-estimating-ai-productivity-gains-from.md) — Claude 실사용 대화 10만 건에서 Claude 스스로 과업별 AI 유무 소요시간을 추정(평균 시간절감 80%), 과업기반 Hulten 정리로 집계해 향후 10년 미국 연간 노동생산성 증가율을 1.8%p(TFP 1.08%p) 높일 것으로 추정 (Tier 1)
+- [The Past, Present and Future of European Productivity](wiki/reference/macroeconomics/bergeaud-2024-past-present-future-european.md) — 1890년 이후 장기 성장회계로 유로지역-미국 생산성 격차가 1995년 이후(2023년 20%p 초과) 벌어졌음을 규명, ICT 인과효과(IV, IT자본비중 0.01↑→생산성6%↑)·팬데믹 일시충격·"중간기술 함정" R&D 배분왜곡으로 원인을 분해하고 Acemoglu(2024) Hulten공식을 유럽에 적용해 AI의 10년 TFP 기여를 2.9%로 추정 (Tier 1)
 
 ### microeconomics
 (없음)

@@ -36,3 +36,4 @@ AI를 200여 년에 걸친 자동화 과정의 최신 형태로 보고, Baumol�
 - [[korinek-2024-scenarios-for-the-transition-to]] — 본 논문의 business-as-usual 시나리오(일정 비율 자동화, Aghion et al. 2019로 인용)를 직접 토대로 삼아 완전자동화(AGI) 극한에서의 임금 동학을 분석한 후속 연구.
 - [[../../subjects/acemoglu-task-based-automation-and-ai]] — 과업기반 자동화·AI 거시효과를 종합한 합성 노트.
 - [[../labor_economics/appel-2025-uneven-geographic-and-enterprise-ai]] — AI 채택이 이미 부유한 지역·부문에 집중되면 성장 수렴이 아닌 발산이 나타날 위험을 논하며, 20세기 초 기술혁신이 성장수렴이 아닌 발산을 가져왔다는 본 논문 계열(Jones, Jones and Aghion 2017)의 논지를 각주에서 직접 인용.
+- [[bergeaud-2024-past-present-future-european]] — 본 논문을 AI가 아이디어 생산 자체를 자동화할 경우의 장기 성장 채널 논의에서 직접 인용하는 유럽 생산성 서베이 논문.

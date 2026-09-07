@@ -37,7 +37,7 @@ tags: [AGI, automation, task-based-model, compute, wages, balanced-growth-path, 
 - **임금극대화 자동화속도**: λg=(1−σ)·(A−ρ−δ)/η에서 장기 임금성장률이 (A−ρ−δ)/η로 극대화되며, 이 속도로 AGI 시나리오를 늦추면 14년차까지는 원래 경로와 거의 일치하나 이후 지수적 성장을 유지하는 반면 출력 손실은 장기적으로 잠재 출력의 거의 100%에 달할 수 있음.
 
 ## Related Papers
-
+- [[bergeaud-2024-past-present-future-european]] — 본 논문의 완전자동화(AGI) 극한 장기 동태모형을, 자신의 10년 단기 정태 추정(Acemoglu 2024 Hulten 정리 기반)과 대비되는 장기 시나리오로 인용.
 - [[acemoglu-2018-the-race-between-man-and]] — 본 논문이 직접 토대로 삼는 과업기반 자동화·신규과업 모형(자본/노동 배분 임계값, 균형성장경로 안정성 조건).
 - [[acemoglu-2024-the-simple-macroeconomics-of-ai]] — 동일하게 과업 단위 비용절감을 통해 AI의 거시효과를 추정하나, Hulten 정리를 이용한 단기(10년) 정태적 추정인 반면 본 논문은 완전자동화 극한에서의 장기 동태경로를 분석.
 - [[aghion-2017-artificial-intelligence-and-economic-growth]] — Baumol 비용질병과 자동화를 결합한 균형성장·특이점 분석으로, 본 논문의 business-as-usual 시나리오(일정 비율 자동화) 가정의 직접적 토대.
