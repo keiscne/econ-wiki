@@ -35,7 +35,8 @@ World Bank Enterprise Survey on AI Adoption(India 1,355개·Jordan 358개·Kenya
 
 ## Related Papers
 - [[acemoglu-2024-the-simple-macroeconomics-of-ai]] — 본 장의 TFP 추정(그림 4.6)이 직접 확장·적용하는 국가단위 Hulten 정리 프레임워크의 원 논문.
-- [[oecd-2025-macroeconomic-productivity-gains-artificial-intelligence]] — 본 장이 그림 4.6에서 비교 대상으로 인용하는 부문단위 확장 추정치(Filippucci et al. 2025/2026).
+- [[oecd-2025-macroeconomic-productivity-gains-artificial-intelligence]] — 본 장이 그림 4.6에서 비교 대상으로 인용하는 부문단위 확장 추정치(Filippucci et al. 2025).
+- [[filippucci-2025-aggregate-productivity-gains-from-artificial]] — 본 장이 그림 4.6·표 4.1(주29)에서 비교 대상으로 인용하는 Filippucci et al.(2026) AEA Papers and Proceedings 논문의 발표 슬라이드본. 다부문 GE모형으로 Baumol효과가 총이득을 최대 50%까지 상쇄할 수 있음을 보이는 자매 연구.
 - [[bergeaud-2024-past-present-future-european]] — 본 장이 그림 4.6에서 비교 대상으로 인용하는 유럽 생산성 추정치.
 - [[felten-2023-how-will-language-modelers-like-chatgpt]] — 본 장 Box 4.2가 AI노출 측정법 3계보 중 하나로 소개하는 O*NET 능력기반 노출지수의 원 논문.
 - [[eloundou-2023-gpts-are-gpts-an-early]] — 본 장 Box 4.2가 소개하는 인간·GPT-4 평가기반 노출지수의 원 논문.

@@ -26,6 +26,8 @@
 - [The Past, Present and Future of European Productivity](wiki/reference/macroeconomics/bergeaud-2024-past-present-future-european.md) — 1890년 이후 장기 성장회계로 유로지역-미국 생산성 격차가 1995년 이후(2023년 20%p 초과) 벌어졌음을 규명, ICT 인과효과(IV, IT자본비중 0.01↑→생산성6%↑)·팬데믹 일시충격·"중간기술 함정" R&D 배분왜곡으로 원인을 분해하고 Acemoglu(2024) Hulten공식을 유럽에 적용해 AI의 10년 TFP 기여를 2.9%로 추정 (Tier 1)
 - [Macroeconomic productivity gains from Artificial Intelligence in G7 economies](wiki/reference/macroeconomics/oecd-2025-macroeconomic-productivity-gains-artificial-intelligence.md) — Acemoglu(2024) Hulten정리 프레임워크를 부문단위로 확장, 국가간 조화된 기업 AI채택률(2024년 일본·이탈리아 약2%~미국·캐나다 약6%)과 과거 GPT(전기·컴퓨터/인터넷·휴대전화) 확산속도를 결합해 G7 각국의 10년 연간노동생산성 증가를 추정, 지식집약서비스 비중이 높은 미국·영국은 0.4~1.3%p·이탈리아·일본은 0.2~0.8%p로 국가간 격차를 규명 (Tier 1)
 - [AI's Economic Impact: Transforming Jobs, Productivity, and Growth (World Development Report 2026, Chapter 4)](wiki/reference/macroeconomics/worldbank-2026-ai-economic-impact-transforming-jobs.md) — 세계은행 자체 기업서베이(7개국)와 Acemoglu(2024) Hulten정리 52개국 확장 추정으로, 개도국의 AI채택 격차(36배)가 노출도 격차(3배)보다 훨씬 크며 향후 10년 영향은 채택 확산 속도가 기술진보 속도보다 더 좌우함을 규명 (Tier 1)
+- [Aggregate Productivity Gains from Artificial Intelligence: A Sectoral Perspective](wiki/reference/macroeconomics/filippucci-2025-aggregate-productivity-gains-from-artificial.md) — 과업기반+Hulten정리로 AI발 10년 연간TFP증가율을 0.3~0.9%p로 추정하고, 다부문 일반균형모형으로 부문간 이질적 이득이 Baumol효과를 통해 총생산성증가를 극단적 시나리오에서 최대 50%까지 상쇄할 수 있음을 규명 (Tier 1)
+- [AI-Augmented Capital-Skill Complementarity](wiki/reference/macroeconomics/luduvice-2026-ai-augmented-capital-skill-complementarity.md) — Epoch AI 가속기 헤도닉가격지수(2013~2024년 97%↓)로 AI자본스톡을 구축하고 GMM으로 5요소 생산함수를 추정, AI는 고숙련-장비 복합재와 보완관계(σλ≈0.89, 비중 2.4%)이며 AI이용비중 확대(위축)와 가격하락(확장) 두 충격이 동시발생시 초가산적으로 상호강화됨을 규명 (Tier 1)
 
 ### microeconomics
 (없음)
@@ -116,6 +118,8 @@
 - [청년고용 위축, AI 탓인가? 변화하는 경력 사다리와 대응 과제](wiki/reference/labor_economics/bok-2026-youth-employment-decline-ai-career-ladder.md) — 국민연금 가입자수와 Felten AIOE로 청년 일자리 감소의 94%가 AI 고노출업종에서 발생함을 확인, 자동화/증강 활용방식별 이질성과 학력별 실업률 격차·기존 청년근로자 유출 증가까지 분석범위를 확장해 한진수·오삼일(2025)을 연장 (Tier 1)
 - [What Work Does Generative AI Do?](wiki/reference/labor_economics/bick-2026-what-work-does-generative.md) — Real-Time Population Survey의 O*NET 과업수준 genAI 채택 데이터로 직업·과업별 채택지수를 최초 구축, 노출점수는 채택변이의 절반 이하만 설명하고 채택이 "광범위하지만 얕으며" 챗로그 기반 측정치는 일반활동 과대분류로 서베이와 상관관계가 낮음을 실증 (Tier 1)
 - [The Impact of Artificial Intelligence on the Labor Market](wiki/reference/labor_economics/webb-2020-impact-artificial-intelligence-labor.md) — 특허텍스트-O*NET 동사명사 매칭으로 어떤 기술에도 적용 가능한 노출측정법을 개발, 소프트웨어·로봇 노출도가 각각 고용 7~11%/9~18%↓·임금 2~6%/8~14%↓와 연관됨을 확인한 뒤 AI는 반대로 고학력·고임금·고령층에 집중됨을 실증, 이 관계가 지속된다는 가정 하에 AI가 90:10 임금불평등은 완화하되 99:90은 확대할 것으로 추정 (Tier 1)
+- [AI 노출과 AI 적용 — 기술적 잠재력과 경제적 실현의 차이 분석](wiki/reference/labor_economics/cheon-2025-ai-exposure-vs-ai-adoption.md) — 한국 AI대표기업 51개·스타트업 339개 서비스텍스트를 LLM으로 매칭한 AI Firm Exposure(AIFE, "AI 적용도")를 신규 구축, 기존 AI노출지수(AIOE)와의 상관이 0.35에 불과함을 보여 기술적 가능성-경제적 실현 간 괴리를 실증, 임금계층별로는 AIOE가 고임금층에 AIFE는 중간임금 사무·서비스직에 집중되는 대조적 패턴을 발견 (Tier 1)
+- [Workers' Perspectives on Artificial Intelligence: Productivity Gains and Job-loss Fears](wiki/reference/labor_economics/bracha-2026-workers-perspectives-on-artificial.md) — 뉴욕연준 SCE 특별모듈(2024·2025년 12월, 약1,300명)로 AI관련 실직우려가 5%→10%로 증가했음을 발견, 생산성향상을 전혀/매우크게 느낀 근로자는 안전하다 느끼나 중립적으로 느낀 근로자가 가장 불안한 험프형 관계와 생산성향상 체감이 임금인상요구 가능성을 4배 이상 높이는 관계를 규명 (Tier 1)
 
 ### public_economics
 - [AI's Social Impact: Improving Public Service Delivery (World Development Report 2026, Chapter 5)](wiki/reference/public_economics/worldbank-2026-ai-social-impact-improving-public.md) — 정부 AI 조달계약 610만여 건을 GPT-5로 분류하고 129개국 정부서베이를 결합, 프론트엔드(교육·보건)·백엔드(예측·감시·행정) 유형별 성공·실패 사례로 예측형 백엔드 AI가 개도국 정부에 가장 빠른 성과를 준다고 규명 (Tier 1)
@@ -144,6 +148,7 @@
 주제별 정리. 여러 문서를 종합한 합성 노트가 여기 포함됩니다.
 - [과업기반(task-based) 자동화 모형의 계보: 비교우위 원형(2011)에서 정태이론(2018)·실증진단(2019)·임금불평등 일반균형(2022)·AI 거시전망(2024)까지](wiki/subjects/acemoglu-task-based-automation-and-ai.md) — 2011년 비교우위 리카도 모형(원형), 2018년 자동화-신규과업 이론모형, 2019년 전치/복원효과 실증진단, 2022년 임금불평등 일반균형, 2024년 AI 거시전망을 하나의 계보로 연결
 - [한국 경제 실증연구 데이터 카탈로그: 조사단위·공표여부·핵심변수](wiki/subjects/korean-empirical-data-catalog.md) — 한국 관련 논문 45편의 Methodology 절에서 데이터 출처를 추출해 거시·산업·지역·기업/사업체·개인/근로자·자체조사 단위별로 재구성, 공표여부(공식·공개/행정자료/민간DB/자체조사/정보불충분)와 활용가능 변수를 표로 정리, 미등록 데이터셋 레지스트리 공백도 식별
+- [AI 관련 연구의 시간적 흐름: 주제·중심변수의 변화 (1999-2026)](wiki/subjects/ai-research-timeline-topics-and-variables.md) — AI·자동화 관련 논문 약 70편을 발행연도순으로 재배열, 컴퓨터생산성역설→과업기반이론→노출지수측정→한국실증이식→Hulten정리 TFP기여도추정→기업/청년고용 미시실증→실사용데이터(Anthropic Economic Index)→노출-적용 괴리·AI자본화·정치경제로 이어지는 8단계 중심변수 이동을 종합
 
 ## projects
 추진 프로젝트별 정리.
