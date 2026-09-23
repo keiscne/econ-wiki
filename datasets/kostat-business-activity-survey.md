@@ -18,3 +18,4 @@ notes: "상시근로자 50인 이상 또는 자본금 3억 원 이상 기업 대
 ## 인용한 위키 페이지
 - [[kim-2025-ai-adoption-firm-performance]] (wiki/reference/applied_econometrics/kim-2025-ai-adoption-firm-performance.md)
 - [[bok-2026-ai-adoption-productivity-effects]] (wiki/reference/macroeconomics/bok-2026-ai-adoption-productivity-effects.md) — 기업 AI 활용률 9.6%(2024년 기준)를 근로자 AI 활용률(51.8%, 가계조사)과 비교하는 각주 인용
+- [[bok-2026-ai-regional-labor-market-disparity]] (wiki/reference/labor_economics/bok-2026-ai-regional-labor-market-disparity.md) — 2024년 조사로 지역별 AI 활용기업 비율 비교(그림 2)

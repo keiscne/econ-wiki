@@ -17,3 +17,4 @@ notes: "종사자 1인 이상 사업체 대상. 총고용인원(현원)·채용�
 
 ## 인용한 위키 페이지
 - [[kiet-2024-ai-labor-market-industry]] (wiki/reference/applied_econometrics/kiet-2024-ai-labor-market-industry.md)
+- [[bok-2026-ai-regional-labor-market-disparity]] (wiki/reference/labor_economics/bok-2026-ai-regional-labor-market-disparity.md) — 2024~2025년 AI 유형별 노출 수준별 인력부족률(=부족인원/(부족인원+현원)×100)의 수도권·비수도권 비교

@@ -49,3 +49,4 @@ tags: [AIOE, KNOW, 재직자조사, 고용보험DB, ILO, Gmyrek, 생성형AI노�
 - [[han-2023-ai-and-labor-market-change]] — Webb(2020) 지수의 KSCO 적용 국내 선행연구.
 - [[kim-2026-generative-ai-korean-labor-market]] — 같은 호에 실린 Claude 사용 기반 관찰 노출도 × 지역별 고용조사 분석(김수현·이정아).
 - [[keis-2025-ai-job-exposure-labor-demand]] — 같은 기관(한국고용정보원)의 다중 LLM 델파이 기반 노출도 연구.
+- [[bok-2026-ai-regional-labor-market-disparity]] — ILO(Gmyrek et al. 2025) 생성형 AI 노출도에 Pizzinelli et al.(2023) 보완성 조정을 적용하고 에이전틱·피지컬 노출도까지 산출해 지역 격차를 분석한 한국은행 연구.

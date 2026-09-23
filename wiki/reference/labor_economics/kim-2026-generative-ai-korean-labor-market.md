@@ -51,3 +51,4 @@ tags: [관찰노출도, Observed Exposure, Anthropic Economic Index, Claude, 지
 - [[han-2023-ai-and-labor-market-change]] — Webb(2020) 지수의 KSCO 적용 국내 선행연구.
 - [[han-2025-ai-diffusion-youth-employment-decline]], [[chang-2026-ai-technology-diffusion-employment]] — 원문이 연령별 결과를 비교한 연공편향 관련 국내 연구.
 - [[yoon-2026-employment-admin-db-ai-exposure]] — 같은 호에 실린 고용행정DB 기반 직업별 AI 노출도 분석(윤정혜).
+- [[bok-2026-ai-regional-labor-market-disparity]] — 같은 지역별고용조사로 AI 유형별 노출도와 취업자수 변화를 수도권·비수도권으로 나눠 분석한 한국은행 연구. 20대 고노출 일자리가 두 지역 모두 감소했다는 결과를 보고.
