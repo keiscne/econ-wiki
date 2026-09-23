@@ -41,3 +41,4 @@ Felten et al.(2019)의 AI응용기술-능력 연계표를 한국고용정보원 
 - [[kiet-2025-ai-occupational-employment-effect]] (wiki/applied_econometrics/kiet-2025-ai-occupational-employment-effect.md) — 본 논문의 15개 능력변수 AIOE 매칭을 19개로 확장하고, 고용보험 사업장 패널에 사분위·35개 직종별 차별적 고용효과 분석을 추가한 후속 연구.
 - [[lee-2025-ai-adoption-determinants-performance]] (wiki/applied_econometrics/lee-2025-ai-adoption-determinants-performance.md) — 본 논문의 AIOE 기반 간접측정과 대비되는 사업체 설문 기반 직접측정(AI 도입 여부) 접근으로 다시점 DID를 통해 고용효과를 재확인.
 - [[chang-2024-ai-development-employment-effects]] (wiki/labor_economics/chang-2024-ai-development-employment-effects.md) — 본 논문의 공동저자(전병유)가 참여한 후속 종합보고서, GPT Exposure·보완성/사회성 조정 AIOE를 추가하고 기업 도입률·생산성·내부노동시장까지 분석범위를 확장.
+- [[yoon-2026-employment-admin-db-ai-exposure]] (wiki/labor_economics/yoon-2026-employment-admin-db-ai-exposure.md) — 본 논문의 KNOW 연계 방법론을 2025년 재직자조사로 갱신(연계 능력 15개→18개)하고 ILO 생성형 AI 노출 단계로 보완해 고용보험DB에 적용한 후속 분석(윤정혜, 『고용이슈』 2026 여름호).
