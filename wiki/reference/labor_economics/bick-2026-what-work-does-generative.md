@@ -35,3 +35,5 @@ RPS(2020년 이후 운영, 2024.8월부터 분기시행) 4개 웨이브(2025.8, 
 - [[eloundou-2023-gpts-are-gpts-an-early]] — 본 연구가 비교하는 6개 노출점수 중 하나(α/β/ζ)이자 방법론적 원류.
 - [[felten-2021-occupational-industry-and-geographic-exposure]] — 본 연구에서 실제 채택률과 가장 강한 상관(직업수준 ρ=0.727)을 보인 AIOE 원 논문.
 - [[handa-2025-which-economic-tasks-are]] — 본 연구가 직접 비교하는 Anthropic 챗로그 기반 과업점유율의 원 데이터, 4개 측정치 중 RPS와 가장 높은 상관(0.34)을 보임.
+- [[chatterji-2025-how-people-use-chatgpt]] — 본 연구가 RPS와 비교하는 OpenAI ChatGPT 챗로그 기반 연구(Chatterji et al. 2025).
+- [[tomlinson-2025-working-with-ai-measuring-the]] — 본 연구가 RPS와 비교하는 Microsoft Copilot 챗로그 기반 작업활동 연구(Tomlinson et al. 2025).

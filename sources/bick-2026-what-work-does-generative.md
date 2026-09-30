@@ -64,6 +64,8 @@ Real-Time Population Survey(RPS)의 신규 과업수준(O*NET DWA) genAI 채택 
 - [[eloundou-2023-gpts-are-gpts-an-early]] — 본 연구가 실제 채택률과 비교하는 6개 노출점수 중 가장 강한 상관(ζ 기준 ρ=0.704)을 보이는 이론적 노출지수 원 논문.
 - [[felten-2021-occupational-industry-and-geographic-exposure]] — 본 연구가 실제 채택률과 비교하는 노출점수 중 가장 강한 상관(직업수준 ρ=0.727)을 보이는 AIOE 원 논문.
 - [[handa-2025-which-economic-tasks-are]] — 본 연구가 직접 비교하는 Anthropic 챗로그 기반 과업점유율의 원 데이터.
+- [[chatterji-2025-how-people-use-chatgpt]] — 본 연구가 RPS와 비교하는 OpenAI ChatGPT 챗로그 기반 연구(Chatterji et al. 2025).
+- [[tomlinson-2025-working-with-ai-measuring-the]] — 본 연구가 RPS와 비교하는 Microsoft Copilot 챗로그 기반 작업활동 연구(Tomlinson et al. 2025).
 
 ## Glossary
 - **채택률(Adoption rate, a_t)**: 특정 과업을 수행하는 근로자 중 해당 과업에 genAI를 사용한다고 응답한 비율.

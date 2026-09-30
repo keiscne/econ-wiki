@@ -58,6 +58,8 @@ Anthropic Economic Index의 최초 보고서(R1, 2024년 12월~2025년 1월 Clau
 - [[eloundou-2023-gpts-are-gpts-an-early]] — 언어모형 자체를 이용해 과업수준 노출을 추정한 선행연구로, 본 연구가 방법론적으로 따르면서도(언어모형 기반 세밀한 추정) 실측 채택률은 예측치보다 낮음을 대조.
 - [[massenkoff-2026-labor-market-impacts-of-ai]] — Anthropic Economic Index의 후속 웨이브 데이터와 Eloundou et al.(2023) 이론적 노출등급을 결합해 "관측노출(observed exposure)" 지수로 발전시킨 후속 연구.
 - [[fan-2026-aggregate-gains-from-ai]] — Anthropic Economic Index를 국가×직업 단위로 확장해 노동비용등가·AI집중지수를 구축한 후속 IMF 연구, 본 연구의 O*NET 과업매핑 방법론을 국제적으로 확장.
+- [[tomlinson-2025-working-with-ai-measuring-the]] — 본 연구를 가장 유사한 선행연구로 명시하고, 대화를 직업특수 과업 1개가 아닌 직업 공통 IWA 전부에 분류해 사용자 목표/AI 행위별 직업 AI 적용가능성 점수로 확장한 Microsoft Copilot 연구.
+- [[chatterji-2025-how-people-use-chatgpt]] — ChatGPT 메시지 중 프로그래밍 비중(4.2%)이 본 연구의 Claude 업무관련 대화(33%)보다 훨씬 낮음을 대비한 OpenAI 연구.
 - [[bick-2026-mind-the-gap-ai-adoption]] — 서베이 기반 실제 AI 채택률 측정 연구로, 본 연구의 대화기반 실사용 관측과 상호보완적인 방법론적 방향성을 공유.
 
 ## Glossary
