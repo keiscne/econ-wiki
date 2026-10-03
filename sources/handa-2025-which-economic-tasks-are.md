@@ -61,6 +61,7 @@ Anthropic Economic Index의 최초 보고서(R1, 2024년 12월~2025년 1월 Clau
 - [[tomlinson-2025-working-with-ai-measuring-the]] — 본 연구를 가장 유사한 선행연구로 명시하고, 대화를 직업특수 과업 1개가 아닌 직업 공통 IWA 전부에 분류해 사용자 목표/AI 행위별 직업 AI 적용가능성 점수로 확장한 Microsoft Copilot 연구.
 - [[chatterji-2025-how-people-use-chatgpt]] — ChatGPT 메시지 중 프로그래밍 비중(4.2%)이 본 연구의 Claude 업무관련 대화(33%)보다 훨씬 낮음을 대비한 OpenAI 연구.
 - [[bick-2026-mind-the-gap-ai-adoption]] — 서베이 기반 실제 AI 채택률 측정 연구로, 본 연구의 대화기반 실사용 관측과 상호보완적인 방법론적 방향성을 공유.
+- [[rinz-2026-the-recent-evolution-of-ai]] — 본 연구의 사용기반 노출(Anthropic AEI)을 LLM 노출 PC1 구성 지표로 사용한 구인공고·CPS 연구.
 
 ## Glossary
 - **Clio**: Anthropic이 개발한 프라이버시 보존 분석 시스템(Tamkin et al. 2024). Claude 자체를 이용해 대규모 대화 데이터에서 집계된 통찰을 추출하며, 개별 사용자 활동이 노출되지 않도록 하는 프라이버시 통제를 내장.

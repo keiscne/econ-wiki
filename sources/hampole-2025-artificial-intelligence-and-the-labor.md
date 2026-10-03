@@ -59,6 +59,9 @@ Revelio Labs의 이력서·채용공고 데이터에 LLM 기반 텍스트 임베
 - Felten, Raj, and Seamans(2018)의 직종단위 AI 노출 측정 — [[felten-2021-occupational-industry-and-geographic-exposure]]가 다루는 AIOE와 같은 연구계열. 본 논문은 직종-내 이질성을 포착하지 못한다는 점을 지적하며 발전시키는 선행 노출지수 중 하나로 인용 (p.13).
 - Babina, Fedyk, He, and Hodson(2024) — 이력서 기반 AI 도입 측정의 선행연구. 본 논문은 AI 응용을 구체적 과업에 매핑한다는 점에서 차별화됨 (p.13).
 
+- [[rinz-2026-the-recent-evolution-of-ai]] — 총노동수요가 유지되었다는 선행연구로 본 논문을 인용한 구인공고·CPS 연구.
+- [[blumenfeld-2026-the-macroeconomic-effect-of-ai]] — 본 논문의 노출측정과 대체·생산성 상쇄 결과를 인용한 자산가격 기반 AI 거시효과 연구.
+
 ## Glossary
 
 - **AI 통합자(AI integrator)**: 이력서에 자신의 직무를 기업의 AI 응용 개발·도입으로 명시한 근로자 (p.7).

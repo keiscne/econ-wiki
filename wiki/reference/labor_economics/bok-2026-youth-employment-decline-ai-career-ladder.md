@@ -36,3 +36,4 @@ tags: [연공편향, seniority-biased, 청년고용, 국민연금, AIOE, 삼중�
 - [[eloundou-2023-gpts-are-gpts-an-early]] — AI 노출도 측정의 대표적 선행 방법론.
 - [[felten-2021-occupational-industry-and-geographic-exposure]] — 본 연구의 주 AI노출지표(AIOE) 원 출처.
 - [[handa-2025-which-economic-tasks-are]] — 자동화/증강 활용방식 구분과 유사한 관점을 제공하는 Anthropic Economic Index 계열 연구.
+- [[fairlie-2026-the-early-impacts-of-ai]] — 미국 CPS로 2026년 여름 최근 대졸자 실업의 유의한 증가를 찾지 못한 연구로, 한국 결과와 대비되는 관련 연구(상호 인용 없음).

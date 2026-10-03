@@ -49,3 +49,5 @@ Acemoglu & Restrepo의 과업 기반(task-based) 모형과 Hulten 정리를 이�
 - [[nam-2026-ai-macroeconomic-impact-analysis]] — 본 논문의 과업기반 생산함수·Hulten 정리 접근을 한국 자료(KECO 537개 직업, 기업활동조사 패널 IV)에 적용해 10년 TFP 기여를 1.5~3.5%로 추정, 본 논문의 보수적 추정치(0.5~0.7%)를 비교 벤치마크로 직접 인용.
 - [[bergeaud-2024-past-present-future-european]] — 본 논문의 4대 요소 공식(노출 GDP비중×비용효율적 자동화비중×과업당 생산성향상×노동소득분배율)을 유럽 27개국에 재보정 적용, 유로지역 10년 TFP 기여를 2.9%(본 논문의 미국 추정 0.7%보다 큼)로 추정.
 - [[oecd-2025-macroeconomic-productivity-gains-artificial-intelligence]] — 본 논문의 국가단위 Hulten 정리 프레임워크를 부문 단위로 확장해 G7 7개국에 적용, 조화된 기업 AI채택률 실측치를 결합한 결과 본 논문의 매우 보수적인 미국 추정(0.1%p)보다 훨씬 높은 중심시나리오(0.99%p)를 도출.
+- [[tebrake-2026-generative-ai-and-the-limits]] — 본 논문(게재판 Acemoglu 2025)의 10년 TFP 0.66% 이하 전망을 미시 과업수준 향상과의 괴리 근거로 인용하고, 그 괴리의 일부를 국민계정 측정 문제로 설명한 IMF 연구.
+- [[blumenfeld-2026-the-macroeconomic-effect-of-ai]] — 본 논문의 10년 TFP 0.53~0.66%를 비교 기준으로 삼아, 자산가격으로 SWE 경로만의 TFP 수준 효과를 3.61%로 추정한 연구.

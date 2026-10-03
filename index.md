@@ -28,6 +28,7 @@
 - [AI's Economic Impact: Transforming Jobs, Productivity, and Growth (World Development Report 2026, Chapter 4)](wiki/reference/macroeconomics/worldbank-2026-ai-economic-impact-transforming-jobs.md) — 세계은행 자체 기업서베이(7개국)와 Acemoglu(2024) Hulten정리 52개국 확장 추정으로, 개도국의 AI채택 격차(36배)가 노출도 격차(3배)보다 훨씬 크며 향후 10년 영향은 채택 확산 속도가 기술진보 속도보다 더 좌우함을 규명 (Tier 1)
 - [Aggregate Productivity Gains from Artificial Intelligence: A Sectoral Perspective](wiki/reference/macroeconomics/filippucci-2025-aggregate-productivity-gains-from-artificial.md) — 과업기반+Hulten정리로 AI발 10년 연간TFP증가율을 0.3~0.9%p로 추정하고, 다부문 일반균형모형으로 부문간 이질적 이득이 Baumol효과를 통해 총생산성증가를 극단적 시나리오에서 최대 50%까지 상쇄할 수 있음을 규명 (Tier 1)
 - [AI-Augmented Capital-Skill Complementarity](wiki/reference/macroeconomics/luduvice-2026-ai-augmented-capital-skill-complementarity.md) — Epoch AI 가속기 헤도닉가격지수(2013~2024년 97%↓)로 AI자본스톡을 구축하고 GMM으로 5요소 생산함수를 추정, AI는 고숙련-장비 복합재와 보완관계(σλ≈0.89, 비중 2.4%)이며 AI이용비중 확대(위축)와 가격하락(확장) 두 충격이 동시발생시 초가산적으로 상호강화됨을 규명 (Tier 1)
+- [The Macroeconomic Effect of AI: Sizing the Software Engineering Channel](wiki/reference/macroeconomics/blumenfeld-2026-the-macroeconomic-effect-of-ai.md) — NBER WP 35793. AI 주가지수 베타의 SWE 급여비중 기울기(1.24)를 모형으로 역산해 2022.11~2025.12 AI 뉴스가 SWE 생산성 영구 32.6%·GDP 수준 3.61%(혁신 경로 포함 6.48%) 상승에 해당하며 2026년 중반까지 2배 이상 커졌다고 추정 (Tier 1)
 
 ### microeconomics
 (없음)
@@ -75,6 +76,7 @@
 ### national_accounts
 - [한국 은행산업의 부가가치와 생산성](wiki/reference/national_accounts/kim-2015-value-added-productivity-korean-banking.md) — 분배측면 부가가치로 은행산업 총요소생산성(KH 지표)을 1991~2013년 최초 추정, 2013년 생산성이 1991년 수준(1.70)에 정체되고 부실채권 비용처리가 변동의 핵심 요인임을 규명 (Tier 1)
 - [2024년 산업별 생산성 계정 구축 및 성장기여 분석 (1981-2023)](wiki/reference/national_accounts/jeong-2024-industry-productivity-accounts-growth.md) — 70개 산업·19개 자산(지식기반 무형자산 포함) KISDI 생산성 계정 구축, 총부가가치 증가율이 2000년대 5.14%→2020년대 2.42%로 하락하고 제조업 TFP 악화가 핵심 원인임을 규명 (Tier 1)
+- [Generative AI and the Limits of Productivity Measurement in the System of National Accounts](wiki/reference/national_accounts/tebrake-2026-generative-ai-and-the-limits.md) — IMF WP/26/201. 비시장 산출의 sum-of-costs 평가와 서비스 가격의 불충분한 품질조정이 AI 노출 부문과 겹쳐 AI 생산성 이득이 체계적으로 과소측정된다고 주장, 2025 SNA의 rK 포함은 자본심화만 포착함을 수치예시로 보이고 산출기반 지표·품질조정·디플레이터 MFP 조정을 제안 (Tier 1)
 
 ### labor_economics
 - [Skills, Tasks and Technologies: Implications for Employment and Earnings](wiki/reference/labor_economics/acemoglu-2011-skills-tasks-and-technologies-implications.md) — 정통모형의 한계를 지적하고 비교우위에 따라 저·중·고숙련 노동이 연속체 과업에 내생적으로 배분되는 3-숙련 리카도 모형을 제시, 자동화·오프쇼어링·기술방향성을 통합 분석 (Tier 1)
@@ -126,6 +128,8 @@
 - [고용행정DB로 본 직업별 AI 노출도와 고용 현황](wiki/reference/labor_economics/yoon-2026-employment-admin-db-ai-exposure.md) — 『고용이슈』 2026 여름호. Felten AIOE를 KNOW 2025 재직자조사 18개 능력에 연계해 KECO2025 415개 직업 노출도를 산출하고 ILO 생성형 AI 단계로 보완한 4단계 분류를 고용보험DB에 적용, 2025년 가입자의 19.1%가 고노출군이며 최근 가입자 감소는 AI보다 청년 인구 감소 등 노동공급 요인이 더 크다고 분석 (Tier 1)
 - [생성형 인공지능이 국내 노동시장에 미치는 영향](wiki/reference/labor_economics/kim-2026-generative-ai-korean-labor-market.md) — 『고용이슈』 2026 여름호. Massenkoff·McCrory(2026)의 Claude 사용 기반 관찰 노출도를 KSCO 세분류 490개에 연계하고 지역별 고용조사(2021~2025 하반기)와 결합, 전체 고노출 취업자 감소는 없으나(2025 지수 102.5 vs 무노출 100.5) 30세 미만은 고노출 감소 폭이 더 큼(86.6 vs 92.5, 출시 이전부터 진행된 추세) (Tier 1)
 - [AI와 지역 노동시장 - 지역간 격차 확대 위험과 새로운 기회](wiki/reference/labor_economics/bok-2026-ai-regional-labor-market-disparity.md) — BOK 이슈노트 2026-25호. 생성형·에이전틱·피지컬 AI 유형별 직업·지역 노출도를 국내 최초로 산출, 생성형·에이전틱 노출도는 수도권, 피지컬은 비수도권에서 높고 2023년 이후 생성형 고노출 일자리 증가(24.7만 명)의 80.8%가 수도권이며 수도권만 노출도-고용증가 관계가 유의(β 0.063*), 20대는 두 지역 모두 고노출 일자리 감소 (Tier 1)
+- [The Early Impacts of AI on Employment among Recent College Graduates](wiki/reference/labor_economics/fairlie-2026-the-early-impacts-of-ai.md) — NBER WP 35796. CPS로 22~25세 최근 대졸자 실업을 분석, 2026년 여름 실업률 7.3%(확장 sidelined 실업 10.4%)가 2022~25년 범위 안이고 추세·이벤트스터디·중년 대졸자/청년 비대졸자 대비 이중차분 모두 비유의, AI 노출 상호작용은 비유의·원격근무 상호작용은 양으로 유의 (Tier 1)
+- [The Recent Evolution of AI-Related Labor Demand](wiki/reference/labor_economics/rinz-2026-the-recent-evolution-of-ai.md) — 클리블랜드 연준 WP 26-24. Lightcast 구인공고와 CPS로 LLM 노출 1SD당 AI 언급률 약 3.1%p 상승·게시임금 3.2% 상승·채용/이직 3~5% 증가를 보이나 재직자 임금 약 0.9% 하락·공고당 실업자 약 9% 증가로 노출 직업의 노동시장 긴장도 하락을 제시 (Tier 1)
 
 ### public_economics
 - [AI's Social Impact: Improving Public Service Delivery (World Development Report 2026, Chapter 5)](wiki/reference/public_economics/worldbank-2026-ai-social-impact-improving-public.md) — 정부 AI 조달계약 610만여 건을 GPT-5로 분류하고 129개국 정부서베이를 결합, 프론트엔드(교육·보건)·백엔드(예측·감시·행정) 유형별 성공·실패 사례로 예측형 백엔드 AI가 개도국 정부에 가장 빠른 성과를 준다고 규명 (Tier 1)

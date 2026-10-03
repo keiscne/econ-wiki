@@ -69,6 +69,7 @@ datasets_used: []
 - [[acemoglu-2022-artificial-intelligence-and-jobs-evidence]] — 채용공고 데이터를 이용한 AI 노출-고용 연구의 비교 대상으로 본문에 인용됨 (p.10).
 - [[hampole-2025-artificial-intelligence-and-the-labor]] — 평균노출과 노출 집중도(concentration)를 구분하는 모형이 본 보고서의 처치 정의 논의에서 직접 인용·참고됨 (p.10, 각주 2).
 - [[appel-2026-economic-primitives]] — 동일한 Anthropic Economic Index 데이터를 이용해 본 보고서의 "관측노출"과는 별개로 5개 경제원시지표(과업복잡성·숙련·자율성·성공률)를 도입한 병행 시리즈 보고서(V4).
+- [[fairlie-2026-the-early-impacts-of-ai]] — 본 보고서의 이론-관측 격차(컴퓨터·수학 94% vs 33%)를 AI 사용 시점 근거로 인용하고 관측노출을 최근 대졸자 실업 분석에 사용, 2026년 여름 유의한 실업 증가를 찾지 못함.
 
 ## Glossary
 

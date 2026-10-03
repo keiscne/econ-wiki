@@ -69,6 +69,8 @@ Felten, Raj, Seamans(2018, 2021)가 개발한 AI Occupational Exposure(AIOE) 지
 - Goldfarb, Taska, and Teodoridis (2020) — 산업별 AI 도입 수준의 이질성(IT·금융은 높고, 헬스케어·건설은 낮음)을 보인 선행연구 (p.2).
 - Agrawal, Gans, and Goldfarb (2022) "ChatGPT and How AI Disrupts Industries", *Harvard Business Review*; Zarifhonarvar (2023) — ChatGPT의 경제적 영향에 관한 신생 문헌 (p.3).
 
+- [[rinz-2026-the-recent-evolution-of-ai]] — 본 LM-AIOE를 LLM 노출 PC1 구성 지표로 사용.
+
 ## Glossary
 
 - **AI Occupational Exposure (AIOE)**: Felten et al.(2018, 2021)이 개발한, 각 직업이 AI에 얼마나 "노출"되어 있는지를 측정하는 지수. 대체·보완 여부에는 불가지론적 (p.3).

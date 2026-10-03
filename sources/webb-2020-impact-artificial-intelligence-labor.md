@@ -60,6 +60,7 @@ datasets_used: []
 - [[eloundou-2023-gpts-are-gpts-an-early]] — 본 논문의 특허텍스트 기반 노출측정치를 5개 기존 노출측정치 중 하나로 비교 회귀분석에 사용한 후속 연구.
 - [[felten-2021-occupational-industry-and-geographic-exposure]] — 본 논문과 유사한 시기에 별도 방법론(mTurk 응용-능력 연계)으로 직업별 AI 노출지수를 구축한 병행 연구.
 - [[han-2023-ai-and-labor-market-change]] — 본 논문의 특허기반 노출지수를 KSCO(한국표준직업분류)로 변환해 한국 노동시장에 직접 적용한 후속 연구.
+- [[rinz-2026-the-recent-evolution-of-ai]] — 본 특허기반 AI 노출을 비LLM 비교지표로 사용, LLM 지표와 거의 무상관이며 구인공고 AI 언급과의 관계가 약함을 보고.
 
 ## Glossary
 - **노출(Exposure)**: 특정 기술을 설명하는 특허 제목의 텍스트와 직업의 과업기술 텍스트 간 동사-명사 조합의 중복 정도를 측정한 지표. 값이 높을수록 해당 기술의 특허활동이 그 직업의 과업을 겨냥하고 있음을 의미.

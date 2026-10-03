@@ -72,6 +72,9 @@ GPT-4 분류와 인간 평가를 결합한 새로운 노출(exposure) 루브릭�
 - Noy and Zhang (2023); Peng, Kalliamvakou, Cihon, and Demirer (2023) — 생성형 AI의 실증 생산성 효과(GitHub Copilot 등), 본 논문이 인용하나 직접 분석하지는 않음.
 - Goldfarb, Taska, and Teodoridis (2023) — 머신러닝의 일반목적기술 여부를 채용공고로 분석; 본 논문과 유사한 연구 질문을 다른 데이터로 검증.
 
+- [[rinz-2026-the-recent-evolution-of-ai]] — 본 노출지표를 포함한 LLM 노출 PC1으로 구인공고 AI 언급·게시임금·노동흐름을 분석한 클리블랜드 연준 연구.
+- [[fairlie-2026-the-early-impacts-of-ai]] — 본 노출지표(GPT-4 코딩)를 최근 대졸자 2026년 여름 실업과의 상호작용에 사용, 비유의한 양의 계수를 보고.
+
 ## Glossary
 
 - **노출(Exposure)**: LLM 또는 LLM 기반 시스템에 접근했을 때, 동등한 품질을 유지하면서 특정 작업활동(DWA)이나 과업을 완료하는 데 필요한 시간을 50% 이상 줄일 수 있는지를 나타내는 척도 (p.6-7).

@@ -58,6 +58,9 @@ Burning Glass의 미국 온라인 채용공고 거의 전수 데이터(2010~2018
 - Felten, Raj, and Seamans(2018, 2019)의 AI occupational impact 지수 — [[felten-2021-occupational-industry-and-geographic-exposure]]가 다루는 AIOE와 같은 연구계열(EFF 응용×O*NET 52개 능력×mTurk 크라우드소싱 방법론이 일치)이며, 본 논문이 사용하는 3개 노출지수 중 가장 안정적인 측정으로 채택됨 (Section III.B, p.S306-307).
 - Babina, Fedyk, He, and Hodson(2020) — 기업단위 관측된 AI 투자와 고용·매출의 관계를 분석한 가장 밀접한 선행연구. 본 논문은 직무구조 기반 노출 측정을 사용한다는 점에서 차별화되며, 이 차이가 고용 결과의 차이를 설명할 수 있다고 논의 (p.S297).
 
+- [[blumenfeld-2026-the-macroeconomic-effect-of-ai]] — 공저자 Hazell이 참여한 후속 연구로, 본 논문의 NAICS 51·54 제외 방식을 차용해 자산가격으로 SWE 경로 AI 거시효과를 추정.
+- [[rinz-2026-the-recent-evolution-of-ai]] — 본 논문을 총노동수요 유지 선행연구로 인용하고 2026Q2까지 구인공고·CPS로 노출 직업의 노동수요를 재검토.
+
 ## Glossary
 
 - **AI 노출(exposure to AI)**: 사업장이 2010~12년 기준 수행하던 과업 중, AI 발전으로 새롭게 알고리즘이 수행 가능해진 과업이 차지하는 비중(고용가중) (식 4, p.S299).

@@ -65,6 +65,8 @@ datasets_used: []
 - Humlum and Vestergaard(2025a) "Large Language Models, Small Labor Market Effects": 덴마크 자료로 AI 노출 직종의 고용·소득에 의미있는 영향이 없음을 보인 선행연구 — 본 논문의 고용 무관련성 결과와 일치.
 - Massenkoff and McCrory(2026)([[massenkoff-2026-labor-market-impacts-of-ai]]): 관측된 AI 노출(observed exposure)과 실제 사용 데이터를 결합한 측정치 — 본 논문과 마찬가지로 노동시장 영향 측정에 있어 자기보고·관측 기반 자료의 결합을 시도.
 
+- [[tebrake-2026-generative-ai-and-the-limits]] — 본 논문의 산업별 AI 채택과 노동생산성 증가의 양의 관계를 인용한 국민계정 측정 연구.
+
 ## Glossary
 
 - **AI 도입률(AI adoption rate)**: 본 논문에서 근로자 기준은 "생성형 AI를 업무에 사용하는지" 여부, 기업 기준은 EU-ICT-Firm의 8개(또는 BTOS의 1–18개) AI 기술 카테고리 중 하나 이상을 사용하는지 여부로 측정.

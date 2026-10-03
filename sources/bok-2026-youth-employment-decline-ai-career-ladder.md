@@ -54,6 +54,7 @@ datasets_used: []
 - [[eloundou-2023-gpts-are-gpts-an-early]] — AI 노출도 측정의 대표적 선행 방법론(GPT 기반 노출 등급).
 - [[felten-2021-occupational-industry-and-geographic-exposure]] — 본 연구의 주 AI노출지표(AIOE)의 원 출처.
 - [[handa-2025-which-economic-tasks-are]] — 자동화/증강 활용방식 구분과 유사한 관점을 제공하는 Anthropic Economic Index 계열 연구.
+- [[fairlie-2026-the-early-impacts-of-ai]] — 미국 CPS로 2026년 여름 최근 대졸자 실업의 유의한 증가를 찾지 못한 연구로, 한국 결과와 대비되는 관련 연구(상호 인용 없음).
 
 ## Glossary
 - **연공편향 기술변화(seniority-biased technological change)**: AI가 경력이 적은 청년층의 업무를 상대적으로 쉽게 대체하는 반면 경력기반 업무에서는 보완적으로 작동해 시니어 고용은 늘고 청년 고용은 줄어드는 현상.

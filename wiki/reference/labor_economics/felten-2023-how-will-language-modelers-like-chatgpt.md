@@ -37,3 +37,4 @@ Felten, Raj, Seamans(2018, 2021)가 개발한 AI Occupational Exposure(AIOE) 지
 - [[felten-2021-occupational-industry-and-geographic-exposure]] — 본 논문이 직접 확장하는 AIOE/AIIE 데이터셋의 원전. 동일 저자(Felten, Raj, Seamans)가 원본 AIOE의 가중치를 언어모델링 응용에만 집중시켜 재계산한 것이 본 논문이다.
 - [[eloundou-2023-gpts-are-gpts-an-early]] — 비교 대상으로 본 논문의 AIOE를 인용하는 GPT-4 기반 노출측정 연구. 본 논문과 같은 시기(2023년)에 LLM의 직업별 노동시장 영향을 측정한 독립 연구.
 - [[acemoglu-2019-automation-and-new-tasks-how]] — 자동화 기술이 노동시장에 미치는 영향을 직업/과업 단위로 진단한다는 점에서 본 논문과 같은 노동시장 노출 측정 전통에 속함. 단, Acemoglu(2019)는 전치효과·복원효과의 거시적 식별을 다루고, 본 논문은 직업·산업 단위의 횡단면 노출 지수 구축에 초점을 둠.
+- [[rinz-2026-the-recent-evolution-of-ai]] — 본 LM-AIOE를 LLM 노출 PC1 구성 지표로 사용.

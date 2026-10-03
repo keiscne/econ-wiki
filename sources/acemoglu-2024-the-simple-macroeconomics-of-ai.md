@@ -72,6 +72,8 @@ AI(특히 생성형 AI)의 거시경제적 효과를 과업 기반(task-based) �
 - Bursztyn, Handel, Jimenez, and Roth (2023) — 소셜미디어의 복지효과 추정.
 - Goldman Sachs(2023), McKinsey Global Institute(2023) — 본 논문이 비판적으로 검토하는 대형 거시효과 전망.
 - [[acemoglu-2019-automation-and-new-tasks-how]] — 본 논문이 직접 차용하는 전치효과(displacement)·복원효과(reinstatement) 틀의 원전.
+- [[tebrake-2026-generative-ai-and-the-limits]] — 본 논문(게재판 Acemoglu 2025)의 10년 TFP 0.66% 이하 전망을 미시 과업수준 향상과의 괴리 근거로 인용하고, 그 괴리의 일부를 국민계정 측정 문제로 설명한 IMF 연구.
+- [[blumenfeld-2026-the-macroeconomic-effect-of-ai]] — 본 논문의 10년 TFP 0.53~0.66%를 비교 기준으로 삼아, 자산가격으로 SWE 경로만의 TFP 수준 효과를 3.61%로 추정한 연구.
 
 ## Glossary
 

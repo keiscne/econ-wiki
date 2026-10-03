@@ -39,3 +39,5 @@ Burning Glass의 사업장 단위 채용공고 데이터(2010~2018, AI 공급산
 - [[../applied_econometrics/humlum-2019-robot-adoption-and-labor-market]] — 기업단위 마이크로데이터로 기술도입의 채용·고용 반응을 추정한다는 점에서 본 논문과 같은 종류의 사업장 단위 식별전략을 로봇도입에 적용한 연구.
 - [[massenkoff-2026-labor-market-impacts-of-ai]] — 본 논문을 채용공고 기반 AI-고용 연구의 비교 대상으로 직접 인용하며, Claude 실사용 데이터 기반의 새로운 노출측정치로 같은 질문을 재검토.
 - [[bick-2026-mind-the-gap-ai-adoption]] — 산업×국가 패널회귀로 AI 도입률과 고용변화의 관계를 미국·유럽 양쪽에서 검토해 본 논문과 마찬가지로 통계적으로 유의한 고용효과를 발견하지 못함(측정 단위는 사업장 대신 산업 수준).
+- [[blumenfeld-2026-the-macroeconomic-effect-of-ai]] — 공저자 Hazell이 참여한 후속 연구로, 본 논문의 NAICS 51·54 제외 방식을 차용해 자산가격으로 SWE 경로 AI 거시효과를 추정.
+- [[rinz-2026-the-recent-evolution-of-ai]] — 본 논문을 총노동수요 유지 선행연구로 인용하고 2026Q2까지 구인공고·CPS로 노출 직업의 노동수요를 재검토.

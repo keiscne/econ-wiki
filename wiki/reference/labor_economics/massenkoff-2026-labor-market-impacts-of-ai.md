@@ -46,3 +46,4 @@ O*NET 과업 목록, Anthropic Economic Index의 Claude 사용 데이터(2025년
 - [[handa-2025-which-economic-tasks-are]] — Anthropic Economic Index 최초 보고서(R1)로, 본 보고서가 사용하는 Clio 기반 O*NET 과업매핑 프레임워크의 원전.
 - [[../macroeconomics/tamkin-2025-estimating-ai-productivity-gains-from]] — 동일 저자(McCrory) 및 동일 데이터로 과업단위 시간절감·경제 전체 생산성효과를 추정한 병행 연구. 본 보고서가 사용하는 직업별 과업 시간비중(w_t) 데이터가 이 논문(Tamkin and McCrory 2025)의 산출물.
 - [[kim-2026-generative-ai-korean-labor-market]] — 본 보고서의 관찰 노출도를 SOC→ISCO→KSCO 세분류 490개로 연계해 한국 지역별 고용조사(2021~2025)에 적용한 국내 응용 연구(김수현·이정아, 『고용이슈』 2026 여름호). 고노출 집단 정의(상위 25%·무노출 0)를 그대로 따름.
+- [[fairlie-2026-the-early-impacts-of-ai]] — 본 보고서의 이론-관측 격차(컴퓨터·수학 94% vs 33%)를 AI 사용 시점 근거로 인용하고 관측노출을 최근 대졸자 실업 분석에 사용, 2026년 여름 유의한 실업 증가를 찾지 못함.
