@@ -72,6 +72,7 @@
 - [주요 산업별 인공지능(AI) 도입 현황 및 시사점](wiki/reference/korean_economy/kim-2021-ai-adoption-status-major-industries.md) — KISDI가 5대 산업 368개 기업을 면대면 조사, AI 도입률 14.7%(EU 약 42% 대비 저조)·도입기업 87.0% 긍정적 성과 보고 (Tier 1)
 - [국내 기업의 인공지능 활용과 정책과제](wiki/reference/korean_economy/kiet-2024-ai-adoption-firms-policy.md) — 기업활동조사(2017-2022) TWFE로 AI 생산성 효과 비유의, 560개 기업 실태조사로 도입 장애요인(기술인력 부족 41.6%, 자금부족 37.3%) 및 4축 정책 프레임워크 제시 (Tier 1)
 - [국내 기업의 인공지능(AI) 도입 및 특징: 사업보고서(2010년~2024년)를 활용한 분석](wiki/reference/korean_economy/seo-2025-ai-adoption-characteristics-business-reports.md) — DART 사업보고서 38,522건 텍스트마이닝으로 AI 도입률이 2010년 13.5%→2024년 53.7%로 상승(AI기업이 비AI기업 수 역전)함을 실증, 두 그룹 간 사업내용 언어적 차이도 규명 (Tier 1)
+- [지역별 AI 준비도(AI Readiness)를 중심으로 한 지역 균형 발전 전략 연구](wiki/reference/korean_economy/lee-2025-regional-ai-readiness-balanced-development.md) — KISDI Premium Report 25-12. 인재·혁신·도입 11개 지표로 시군구 AI 준비도를 국내 최초 산출(서울 강남구 1.00 최고)하고 AI 활용산업 입지계수와 결합, 정보통신·전문서비스 특화 지역은 준비도가 높으나 첨단 제조·금융·의료 특화 지역은 낮아 비교우위 기반 세분화된 지역 AX 정책을 제안 (Tier 1)
 
 ### national_accounts
 - [한국 은행산업의 부가가치와 생산성](wiki/reference/national_accounts/kim-2015-value-added-productivity-korean-banking.md) — 분배측면 부가가치로 은행산업 총요소생산성(KH 지표)을 1991~2013년 최초 추정, 2013년 생산성이 1991년 수준(1.70)에 정체되고 부실채권 비용처리가 변동의 핵심 요인임을 규명 (Tier 1)
@@ -130,6 +131,7 @@
 - [AI와 지역 노동시장 - 지역간 격차 확대 위험과 새로운 기회](wiki/reference/labor_economics/bok-2026-ai-regional-labor-market-disparity.md) — BOK 이슈노트 2026-25호. 생성형·에이전틱·피지컬 AI 유형별 직업·지역 노출도를 국내 최초로 산출, 생성형·에이전틱 노출도는 수도권, 피지컬은 비수도권에서 높고 2023년 이후 생성형 고노출 일자리 증가(24.7만 명)의 80.8%가 수도권이며 수도권만 노출도-고용증가 관계가 유의(β 0.063*), 20대는 두 지역 모두 고노출 일자리 감소 (Tier 1)
 - [The Early Impacts of AI on Employment among Recent College Graduates](wiki/reference/labor_economics/fairlie-2026-the-early-impacts-of-ai.md) — NBER WP 35796. CPS로 22~25세 최근 대졸자 실업을 분석, 2026년 여름 실업률 7.3%(확장 sidelined 실업 10.4%)가 2022~25년 범위 안이고 추세·이벤트스터디·중년 대졸자/청년 비대졸자 대비 이중차분 모두 비유의, AI 노출 상호작용은 비유의·원격근무 상호작용은 양으로 유의 (Tier 1)
 - [The Recent Evolution of AI-Related Labor Demand](wiki/reference/labor_economics/rinz-2026-the-recent-evolution-of-ai.md) — 클리블랜드 연준 WP 26-24. Lightcast 구인공고와 CPS로 LLM 노출 1SD당 AI 언급률 약 3.1%p 상승·게시임금 3.2% 상승·채용/이직 3~5% 증가를 보이나 재직자 임금 약 0.9% 하락·공고당 실업자 약 9% 증가로 노출 직업의 노동시장 긴장도 하락을 제시 (Tier 1)
+- [산업별 노동생산성의 수렴속도와 고용전략](wiki/reference/labor_economics/chang-2018-industry-labor-productivity-convergence-employment.md) — 한국노동연구원 연구보고서 2018-12. 산업별 총노동투입시간(1986~2017)을 최초 작성해 시간당 노동생산성을 계산, 선진국 평균과의 격차가 63%p(1995)→45%p(2016)로 줄었으나 감소속도가 연 1.0%로 둔화하고 2010년 이후 제조업·금융보험 등에서 격차가 확대됨을 보이며 Diewert 변이할당으로 산업구조 변화 기여 축소를 실증 (Tier 1)
 
 ### public_economics
 - [AI's Social Impact: Improving Public Service Delivery (World Development Report 2026, Chapter 5)](wiki/reference/public_economics/worldbank-2026-ai-social-impact-improving-public.md) — 정부 AI 조달계약 610만여 건을 GPT-5로 분류하고 129개국 정부서베이를 결합, 프론트엔드(교육·보건)·백엔드(예측·감시·행정) 유형별 성공·실패 사례로 예측형 백엔드 AI가 개도국 정부에 가장 빠른 성과를 준다고 규명 (Tier 1)

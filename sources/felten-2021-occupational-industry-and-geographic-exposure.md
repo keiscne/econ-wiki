@@ -74,6 +74,8 @@ AI의 일반적 응용(이미지 인식, 언어 모델링 등 10개 EFF 분류)�
 - Goldfarb, A., Taska, B., and Teodoridis, F. (2019) "Could Machine Learning be a General-Purpose Technology?" — AIOE를 의료산업의 범용기술 여부 검증에 활용 (p.26).
 - Fossen, F. M., and Sorgner, A. (2019) — AIOE를 활용해 AI가 성장지향적 창업 기회에 미치는 영향을 연구 (p.26).
 
+- [[lee-2025-regional-ai-readiness-balanced-development]] — 본 연구의 산업별 AI 노출도 상위 25% 산업을 AI 활용산업으로 정의해 시군구 AI 준비도와 지역별 비교우위(입지계수)를 결합 분석한 KISDI 보고서.
+
 ## Glossary
 
 - **AI Occupational Exposure (AIOE)**: O*NET 6자리 SOC 직업 단위로 측정한 AI 노출지수. 평균 0, 표준편차 1로 표준화 (p.9, p.11).

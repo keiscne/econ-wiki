@@ -69,6 +69,7 @@ datasets_used: []
 ## Related Work
 - [[bick-2026-mind-the-gap-ai-adoption]] — 미국·유럽 AI 도입률 국제 비교 연구 (비교 맥락)
 - [[kim-2025-ai-adoption-firm-performance]] — 국내 기업활동조사 패널로 AI 도입의 기업 성과 효과를 추정한 실증 연구
+- [[lee-2025-regional-ai-readiness-balanced-development]] — 인공지능산업 실태조사의 산업분류를 AI 공급산업 종사자 수(AI 준비도 인재 지표) 산정에 사용한 KISDI 보고서.
 
 ## Glossary
 - **SPRI(소프트웨어정책연구소)**: 과기정통부 산하 AI·소프트웨어 정책 전문 연구기관.

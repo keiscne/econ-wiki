@@ -52,3 +52,4 @@ AI의 일반적 응용 10가지(이미지 인식, 언어 모델링, 음성 인�
 - [[bick-2026-what-work-does-generative]] — 본 논문의 AIOE를 미국 Real-Time Population Survey의 실제 genAI 채택률과 비교, 6개 노출점수 중 직업수준에서 가장 높은 상관(ρ=0.727, R²=0.529)을 보임을 실증.
 - [[webb-2020-impact-artificial-intelligence-labor]] — 유사 시기에 별도 방법론(특허텍스트-O*NET 매칭)으로 직업별 기술노출 지수를 구축한 병행 연구.
 - [[../macroeconomics/oecd-2025-macroeconomic-productivity-gains-artificial-intelligence]] — 본 논문의 AIOE를 Eloundou et al.(2024) 노출도와 직업수준에서 비교(상관계수 0.88, 그림 A.1)해 두 측정치의 강한 정합성을 확인하는 후속 연구.
+- [[lee-2025-regional-ai-readiness-balanced-development]] — 본 연구의 산업별 AI 노출도 상위 25% 산업을 AI 활용산업으로 정의해 시군구 AI 준비도와 지역별 비교우위(입지계수)를 결합 분석한 KISDI 보고서.

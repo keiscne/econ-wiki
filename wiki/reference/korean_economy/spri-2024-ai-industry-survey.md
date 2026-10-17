@@ -49,3 +49,4 @@ tags: [AI산업, 실태조사, AI도입률, AI인력, AI수출, 한국]
 - [[kim-2025-ai-adoption-firm-performance]] (wiki/applied_econometrics/kim-2025-ai-adoption-firm-performance.md) — 기업활동조사 패널로 AI 도입의 기업 성과 인과효과를 추정한 연구
 - [[bick-2026-mind-the-gap-ai-adoption]] (wiki/labor_economics/bick-2026-mind-the-gap-ai-adoption.md) — 미국·유럽 AI 도입률 국제 비교 (비교 맥락)
 - [[kim-2021-ai-adoption-status-major-industries]] (wiki/korean_economy/kim-2021-ai-adoption-status-major-industries.md) — 동일 장르의 선행 국가단위 AI 도입 실태조사(2021년, KISDI 5대 산업 368개사 표본조사)
+- [[lee-2025-regional-ai-readiness-balanced-development]] — 인공지능산업 실태조사의 산업분류를 AI 공급산업 종사자 수(AI 준비도 인재 지표) 산정에 사용한 KISDI 보고서.

@@ -83,6 +83,7 @@ datasets_used: []
 - [[han-2023-ai-and-labor-market-change]] — 본 연구가 직접 인용하는 같은 한국은행 조사국 계열의 선행연구(한지우·오삼일 2023).
 - [[bok-2026-ai-adoption-productivity-effects]] — 본 연구의 표본설계와 방법론을 계승해 "초기 3년" 시점으로 후속 분석한 같은 저자팀(서동현·오삼일)의 후속편(2026-12호).
 - [[han-2025-ai-diffusion-youth-employment-decline]] — 본 연구의 가계조사 데이터(경력별 시간절감률 등)를 보조지표로 재분석에 활용한 같은 조사국 계열의 후속 연구.
+- [[lee-2025-regional-ai-readiness-balanced-development]] — 본 연구의 생성형 AI 생산성 효과(국내 약 1%, 미국 약 1.1%)와 AI 노출도-활용률 양(+)의 상관을 인용한 KISDI 지역 AI 준비도 보고서.
 
 ## Glossary
 - **잠재적 생산성 증가효과(potential productivity gain)**: 절약된 시간이 전부 생산활동에 재투입된다는 가정 하에 생산함수 접근법으로 환산한 이론적 생산성 증가율.

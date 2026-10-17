@@ -21,3 +21,4 @@ notes: "시도 단위 고용·임금 통계. aum-2019 논문에서 광역시·�
 - [[cheon-2022-ai-employment-wage-effects]] (wiki/reference/labor_economics/cheon-2022-ai-employment-wage-effects.md) — 저임금노동비율·인구증가율 통제변수를 지역×직업중분류 수준에서 결합(원문은 "지역고용조사"로 약칭)
 - [[kim-2026-generative-ai-korean-labor-market]] (wiki/reference/labor_economics/kim-2026-generative-ai-korean-labor-market.md) — 각 연도 하반기(2021~2025) 자료의 한국표준직업분류 8차 세분류로 관찰 노출도 연계, 노출 집단별 취업자 수·임금 분석(원문은 "국가데이터처 지역별 고용조사"로 표기)
 - [[bok-2026-ai-regional-labor-market-disparity]] (wiki/reference/labor_economics/bok-2026-ai-regional-labor-market-disparity.md) — 17개 시도 직업별 취업자수로 AI 유형별 지역 노출도를 산출하고, 15개 지역×49개 직업중분류 반기 패널(2017~2025, 2020~21 제외)로 노출도-취업자수·임금 증가율 관계를 추정
+- [[lee-2025-regional-ai-readiness-balanced-development]] (wiki/reference/korean_economy/lee-2025-regional-ai-readiness-balanced-development.md) — 2023년 자료로 시군구별 AI 관련 전공(정보통신기술·수학·통계학) 학사·석박사 보유자 수를 산출해 AI 준비도 인재 지표로 사용
