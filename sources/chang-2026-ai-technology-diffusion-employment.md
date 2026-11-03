@@ -64,6 +64,7 @@ datasets_used: []
 - [[eloundou-2023-gpts-are-gpts-an-early]] — 본 논문의 AI 노출도 측정(GPT-4 활용 전문가 패널 시뮬레이션)이 이론적으로 기반한 선행연구.
 - [[han-2025-ai-diffusion-youth-employment-decline]] — 본 논문이 직접 보완 대상으로 삼은 핵심 선행연구(국민연금 자료의 산업 중분류 한계를 고용보험DB 직종 소분류로 보완).
 - [[cheon-2022-ai-employment-wage-effects]] — 동일 저자(장지연)가 4년 앞서 Felten 방식 AIOE를 고용보험DB에 연계해 분석한 선행연구. 본 논문은 AI노출도 측정방법을 GPT-4 델파이 패널로 교체해 더 정교화.
+- [[ok-2026-ai-exposure-measurement-korean-labor-market]] — 국내 직업정보·GPT-4 기반 노출도 선행연구로 본 연구를 인용한 노출지수 비교 연구.
 
 ## Glossary
 - **자동화(automation) / 증강(augmentation)**: AI가 인간의 노동을 대체하는지(자동화) 또는 인간의 역량을 보완·강화하는지(증강)를 구분하는 개념(p.50, 56). Gmyrek et al.(2023) 방법론으로 직종을 분류.

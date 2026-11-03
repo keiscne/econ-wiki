@@ -38,3 +38,4 @@ Google Patents Public Data의 특허 제목과 O*NET 964개 직업의 과업기�
 - [[bick-2026-what-work-does-generative]] — 본 논문의 노출점수를 포함한 6개 exposure score를 미국 Real-Time Population Survey의 실제 genAI 채택률과 비교한 후속 연구.
 - [[../../methods/lee-2024-generative-ai-labor-market-measurement]] — 본 논문의 특허텍스트 유사도 방법론을 Felten et al.(2021)·Eloundou et al.(2023)·Gmyrek et al.(2023)과 나란히 비교 정리한 방법론 노트.
 - [[rinz-2026-the-recent-evolution-of-ai]] — 본 특허기반 AI 노출을 비LLM 비교지표로 사용, LLM 지표와 거의 무상관이며 구인공고 AI 언급과의 관계가 약함을 보고.
+- [[ok-2026-ai-exposure-measurement-korean-labor-market]] — 특허 기반 노출도의 대표 연구로 본 연구를 인용한 한국 노출지수 비교 연구.

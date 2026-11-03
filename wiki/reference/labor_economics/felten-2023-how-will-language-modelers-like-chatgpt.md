@@ -38,3 +38,4 @@ Felten, Raj, Seamans(2018, 2021)가 개발한 AI Occupational Exposure(AIOE) 지
 - [[eloundou-2023-gpts-are-gpts-an-early]] — 비교 대상으로 본 논문의 AIOE를 인용하는 GPT-4 기반 노출측정 연구. 본 논문과 같은 시기(2023년)에 LLM의 직업별 노동시장 영향을 측정한 독립 연구.
 - [[acemoglu-2019-automation-and-new-tasks-how]] — 자동화 기술이 노동시장에 미치는 영향을 직업/과업 단위로 진단한다는 점에서 본 논문과 같은 노동시장 노출 측정 전통에 속함. 단, Acemoglu(2019)는 전치효과·복원효과의 거시적 식별을 다루고, 본 논문은 직업·산업 단위의 횡단면 노출 지수 구축에 초점을 둠.
 - [[rinz-2026-the-recent-evolution-of-ai]] — 본 LM-AIOE를 LLM 노출 PC1 구성 지표로 사용.
+- [[ok-2026-ai-exposure-measurement-korean-labor-market]] — 본 연구의 LM AIOE를 한국 직업·산업에 적용해 OECD 역량 격차 지수와 비교, 직업 수준 Pearson −0.450의 음의 상관과 평균 순위 차이 67.7위를 보인 국내 연구.

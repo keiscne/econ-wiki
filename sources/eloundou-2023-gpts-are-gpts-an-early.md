@@ -74,6 +74,7 @@ GPT-4 분류와 인간 평가를 결합한 새로운 노출(exposure) 루브릭�
 
 - [[rinz-2026-the-recent-evolution-of-ai]] — 본 노출지표를 포함한 LLM 노출 PC1으로 구인공고 AI 언급·게시임금·노동흐름을 분석한 클리블랜드 연준 연구.
 - [[fairlie-2026-the-early-impacts-of-ai]] — 본 노출지표(GPT-4 코딩)를 최근 대졸자 2026년 여름 실업과의 상호작용에 사용, 비유의한 양의 계수를 보고.
+- [[ok-2026-ai-exposure-measurement-korean-labor-market]] — AIOE 활용 선행연구로 본 연구를 인용하며 Felten·OECD 노출지수를 한국 직업·산업에서 비교한 연구.
 
 ## Glossary
 

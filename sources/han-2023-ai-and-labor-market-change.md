@@ -57,6 +57,7 @@ Webb(2020)의 특허기반 AI 노출지수를 한국표준직업분류로 변환
 - [[han-2025-ai-diffusion-youth-employment-decline]] — 같은 한국은행 조사국 고용분석팀 계열의 후속 연구로, 본 연구의 특허기반 Webb(2020) 노출지수 대신 Felten et al.(2021) AIOE를 사용해 연공편향적 청년고용 효과를 직접 식별.
 - [[bok-2025-rapid-ai-diffusion-productivity-effects]] — 본 연구를 직접 인용하는 같은 한국은행 조사국 계열의 후속 연구(서동현 외 2025, BOK 이슈노트 제2025-22호).
 - [[lee-2025-regional-ai-readiness-balanced-development]] — AI 노출도가 AI 활용률·영향 수준을 가늠하는 유효한 지표라는 근거로 본 연구를 인용한 KISDI 보고서.
+- [[ok-2026-ai-exposure-measurement-korean-labor-market]] — 본 연구를 Webb 특허 기반 한국 AIOE 선행연구로 인용하며 Felten·OECD 노출지수를 비교한 연구.
 
 ## Glossary
 - **AI 노출지수(Webb 2020)**: 직무내용설명서와 AI 특허제목의 동사-명사 조합 중복도로 측정한 업무단위 대체가능성 지수를 직업단위로 집계한 지표.

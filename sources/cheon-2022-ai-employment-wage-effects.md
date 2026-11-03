@@ -61,6 +61,7 @@ Felten et al.(2019)의 AI응용기술-능력 연계표를 한국고용정보원 
 ## Related Work
 - [[chang-2026-ai-technology-diffusion-employment]] — 동일 공동저자(장지연)가 약 4년 뒤 더 정교한 AI노출도 측정(GPT-4 델파이 패널, 한국숙련사전)으로 전 산업을 재분석한 후속 연구. 본 논문의 Felten 방식 AIOE-고용보험DB 연계 틀을 계승·발전.
 - [[noh-2025-ai-based-manufacturing-innovation-employment]] — 동일 공동저자(장지연)가 참여한 제조업 특화 후속 정책연구보고서(2장).
+- [[ok-2026-ai-exposure-measurement-korean-labor-market]] — 본 연구를 Felten 방식 한국 AIOE 선행연구로 인용하며 Felten·OECD 노출지수를 비교한 연구.
 
 ## Glossary
 - **AIOE(Artificial Intelligence Occupational Exposure)**: AI응용기술과 직업이 필요로 하는 능력(abilities) 간의 연계표에 기초해 산출한 직업별 AI 노출도 지표(Felten et al. 2018, 2019).

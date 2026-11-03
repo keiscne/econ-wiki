@@ -54,3 +54,4 @@ O*NET 27.2 데이터베이스(1,016개 직업, 19,265개 과업, 2,087개 DWA)�
 - [[../macroeconomics/oecd-2025-macroeconomic-productivity-gains-artificial-intelligence]] — 본 논문의 O*NET 과업수준 노출점수(기준선·확장능력)를 G7 7개국 부문별 노출도 추정의 원자료로 직접 사용.
 - [[rinz-2026-the-recent-evolution-of-ai]] — 본 노출지표를 포함한 LLM 노출 PC1으로 구인공고 AI 언급·게시임금·노동흐름을 분석한 클리블랜드 연준 연구.
 - [[fairlie-2026-the-early-impacts-of-ai]] — 본 노출지표(GPT-4 코딩)를 최근 대졸자 2026년 여름 실업과의 상호작용에 사용, 비유의한 양의 계수를 보고.
+- [[ok-2026-ai-exposure-measurement-korean-labor-market]] — AIOE 활용 선행연구로 본 연구를 인용하며 Felten·OECD 노출지수를 한국 직업·산업에서 비교한 연구.

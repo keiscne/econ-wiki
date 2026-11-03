@@ -70,6 +70,7 @@ Felten, Raj, Seamans(2018, 2021)가 개발한 AI Occupational Exposure(AIOE) 지
 - Agrawal, Gans, and Goldfarb (2022) "ChatGPT and How AI Disrupts Industries", *Harvard Business Review*; Zarifhonarvar (2023) — ChatGPT의 경제적 영향에 관한 신생 문헌 (p.3).
 
 - [[rinz-2026-the-recent-evolution-of-ai]] — 본 LM-AIOE를 LLM 노출 PC1 구성 지표로 사용.
+- [[ok-2026-ai-exposure-measurement-korean-labor-market]] — 본 연구의 LM AIOE를 한국 직업·산업에 적용해 OECD 역량 격차 지수와 비교, 직업 수준 Pearson −0.450의 음의 상관과 평균 순위 차이 67.7위를 보인 국내 연구.
 
 ## Glossary
 

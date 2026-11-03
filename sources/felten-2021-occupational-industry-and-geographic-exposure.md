@@ -75,6 +75,7 @@ AI의 일반적 응용(이미지 인식, 언어 모델링 등 10개 EFF 분류)�
 - Fossen, F. M., and Sorgner, A. (2019) — AIOE를 활용해 AI가 성장지향적 창업 기회에 미치는 영향을 연구 (p.26).
 
 - [[lee-2025-regional-ai-readiness-balanced-development]] — 본 연구의 산업별 AI 노출도 상위 25% 산업을 AI 활용산업으로 정의해 시군구 AI 준비도와 지역별 비교우위(입지계수)를 결합 분석한 KISDI 보고서.
+- [[ok-2026-ai-exposure-measurement-korean-labor-market]] — 본 연구의 AIOE(Broad Index)를 한국 직업·산업에 적용해 LM·OECD 지수와 비교, LM과는 거의 일치(0.987)하나 OECD 역량 격차 지수와는 크게 다름을 보인 국내 연구.
 
 ## Glossary
 

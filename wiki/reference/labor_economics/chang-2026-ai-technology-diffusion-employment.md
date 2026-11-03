@@ -43,3 +43,4 @@ tags: [AI노출도, 고용보험DB, 한국숙련사전, 자동화, 증강, 청�
 - [[cheon-2022-ai-employment-wage-effects]] (wiki/labor_economics/cheon-2022-ai-employment-wage-effects.md) — 동일 저자(장지연)가 4년 앞서 Felten 방식 AIOE를 고용보험DB에 연계해 분석한 선행연구.
 - [[chang-2026-skill-network-ai-era]] (wiki/labor_economics/chang-2026-skill-network-ai-era.md) — 동일 제1저자(장지연)의 후속 기사, 고용효과 대신 숙련 네트워크 구조(확산도·중심성·전이가능성) 자체에 초점을 맞춘 병행 연구.
 - [[chang-2024-ai-development-employment-effects]] (wiki/labor_economics/chang-2024-ai-development-employment-effects.md) — 동일 제1저자(장지연)의 2024년 선행 연구보고서, 본 논문의 AIOE·고용보험DB 결합 접근의 방법론적 토대가 된 종합 연구(AI노출도·도입률·생산성·내부노동시장까지 포괄).
+- [[ok-2026-ai-exposure-measurement-korean-labor-market]] — 국내 직업정보·GPT-4 기반 노출도 선행연구로 본 연구를 인용한 노출지수 비교 연구.

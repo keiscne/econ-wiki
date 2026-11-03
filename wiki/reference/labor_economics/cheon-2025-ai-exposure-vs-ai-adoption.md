@@ -37,3 +37,4 @@ AIOE는 Felten et al.(2018, 2021)의 AI응용기술-직업능력 연계 점수�
 - [[felten-2021-occupational-industry-and-geographic-exposure]] — 본 연구가 재사용하는 한국형 AIOE 지표의 원 방법론.
 - [[felten-2023-occupational-heterogeneity-in-exposure-to]] — 본 연구 참고문헌에 "Felten et al.(2023a)"로 명시적으로 인용된 논문(SSRN 4414065).
 - [[webb-2020-impact-artificial-intelligence-labor]] — 본 연구의 상관분석에서 비교 지표로 사용한 로봇노출지표(webb_robot)의 원 논문.
+- [[ok-2026-ai-exposure-measurement-korean-labor-market]] — 기술적 노출과 실제 활용의 차이를 보인 선행연구로 본 연구를 인용하며 노출지수 간 측정체계 차이를 비교한 연구.

@@ -59,6 +59,7 @@ datasets_used: []
 - [[felten-2021-occupational-industry-and-geographic-exposure]] — 본 연구가 재사용하는 한국형 AIOE 지표의 원 방법론(AI 응용기술-직업능력 연계).
 - [[felten-2023-occupational-heterogeneity-in-exposure-to]] — 본 연구 참고문헌에 "Felten, E.W., Raj, M., Seamans, R.(2023a)"로 명시적으로 인용된 논문(SSRN 4414065).
 - [[webb-2020-impact-artificial-intelligence-labor]] — 본 연구의 <표 3> 상관분석에서 비교 지표로 사용한 로봇노출지표(webb_robot)의 원 논문.
+- [[ok-2026-ai-exposure-measurement-korean-labor-market]] — 기술적 노출과 실제 활용의 차이를 보인 선행연구로 본 연구를 인용하며 노출지수 간 측정체계 차이를 비교한 연구.
 
 ## Glossary
 - **AI Occupational Exposure by GPT(AIOE_by_GPT)**: 대규모 언어모델(GPT-4)에 직접 프롬프트를 입력해 각 세부업무활동이 향후 10년 내 AI로 대체·재구조화될 가능성을 평가하도록 한 노출지수. AIOE와 달리 최근 생성형 AI 발전을 반영.
