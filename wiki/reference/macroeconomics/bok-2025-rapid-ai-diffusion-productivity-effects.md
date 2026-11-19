@@ -47,3 +47,4 @@ tags: [가계조사, AI활용률, 생산성, 물리적AI, 평준화효과, AI기
 - [[nam-2026-ai-macroeconomic-impact-analysis]] (wiki/macroeconomics/nam-2026-ai-macroeconomic-impact-analysis.md) — 본 연구를 AI 생산성 효과의 선행연구로 비교 인용하며, KDI의 과업기반 거시 TFP 시뮬레이션(10년 1.5~3.5%)에 결합.
 - [[../labor_economics/bok-2026-youth-employment-decline-ai-career-ladder]] (wiki/labor_economics/bok-2026-youth-employment-decline-ai-career-ladder.md) — 본 연구를 한국 AI 활용률·생산성 효과의 원자료 성격 선행연구로 인용하는 청년고용 위축 후속 연구.
 - [[lee-2025-regional-ai-readiness-balanced-development]] — 본 연구의 생성형 AI 생산성 효과(국내 약 1%, 미국 약 1.1%)와 AI 노출도-활용률 양(+)의 상관을 인용한 KISDI 지역 AI 준비도 보고서.
+- [[bok-2026-ai-diffusion-productivity-wider-shallower]] — 같은 팀의 2026년 후속 조사(BOK 이슈노트 2026-29호, 16,342명). 본 노트의 방법으로 산출한 잠재적 산출 효과가 약 1.0%에서 약 2.6%로 상승.

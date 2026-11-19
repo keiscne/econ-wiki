@@ -20,3 +20,4 @@ notes: "상시근로자 50인 이상 또는 자본금 3억 원 이상 기업 대
 - [[bok-2026-ai-adoption-productivity-effects]] (wiki/reference/macroeconomics/bok-2026-ai-adoption-productivity-effects.md) — 기업 AI 활용률 9.6%(2024년 기준)를 근로자 AI 활용률(51.8%, 가계조사)과 비교하는 각주 인용
 - [[bok-2026-ai-regional-labor-market-disparity]] (wiki/reference/labor_economics/bok-2026-ai-regional-labor-market-disparity.md) — 2024년 조사로 지역별 AI 활용기업 비율 비교(그림 2)
 - [[lee-2025-regional-ai-readiness-balanced-development]] (wiki/reference/korean_economy/lee-2025-regional-ai-readiness-balanced-development.md) — 2023년 자료로 시군구별 클라우드 활용 기업 비율·AI 활용 기업 비율을 산출해 AI 준비도 도입 지표로 사용
+- [[bok-2026-gyeongnam-ai-index-labor-demand]] (wiki/reference/labor_economics/bok-2026-gyeongnam-ai-index-labor-demand.md) — 광역 시도 AI 준비도의 AI 스타트업 수·스타트업 대상 투자액·클라우드 활용 기업 비율·AI 활용 기업 비율 지표 출처(조사 연도는 원문에 명시되지 않음)

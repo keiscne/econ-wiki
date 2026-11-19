@@ -48,3 +48,5 @@ tags: [AI생산성, 생산성단절, 가계조사, 한국은행, J-curve, Solow�
 - [[triplett-1999-the-solow-productivity-paradox-what]] — 본 논문이 태그로 명시한 "Solow역설"의 원류가 되는 고전적 리뷰 논문. 컴퓨터-생산성 역설의 후보 설명들이 본 논문의 "잠재적-실현된 생산성 단절" 구조와 구조적으로 유사.
 - [[wiki/reference/applied_econometrics/capello-2022-the-modern-solow-paradox]] — 2010년대 EU 지역 자동화·디지털화에서도 유사한 "부문 단위 이득 vs. 총량 단위 역설" 불일치를 확인한 현대판 연구.
 - [[nam-2026-ai-macroeconomic-impact-analysis]] — 본 논문의 기업생산성 실증분석을 국내 선행연구로 인용하며, 기업활동조사 패널 IV로 추정한 AI 활용의 1인당매출 상승효과(20%)를 거시 TFP 시뮬레이션의 기초모수로 사용.
+- [[bok-2026-ai-diffusion-productivity-wider-shallower]] — 같은 팀의 2026년 후속 조사. 본 노트의 2025년 시간절감-처리량 상관(0.00)을 인용하고 2026년 값 0.08, 품질 상관 0.09를 제시.
+- [[bok-2026-gyeongnam-ai-index-labor-demand]] — 본 노트를 생성형 AI 시간절감-생산 단절 선행연구로 인용한 한국은행 경남본부 보고서.

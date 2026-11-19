@@ -33,3 +33,4 @@ KISDI Premium Report 25-12(2025.11.28). 인재·혁신활동·도입 3축 11개 
 - [[han-2023-ai-and-labor-market-change]] — AI 노출도의 유효성 근거로 인용.
 - [[spri-2024-ai-industry-survey]] — AI 공급산업 분류 기준인 인공지능산업 실태조사.
 - [[bok-2026-ai-regional-labor-market-disparity]] — AI 유형별 지역 노출도·수도권 집중 연구(상호 인용 없음).
+- [[bok-2026-gyeongnam-ai-index-labor-demand]] — 본 보고서의 AI 준비도를 광역 시도 단위로 재산출(고용보험 DB 지표 추가, 대학·특허·데이터센터 지표 제외)해 경남 12위를 제시한 한국은행 경남본부 보고서.

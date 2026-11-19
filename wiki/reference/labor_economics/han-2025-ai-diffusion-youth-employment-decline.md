@@ -40,3 +40,4 @@ tags: [연공편향, seniority-biased, 청년고용, 국민연금, AIOE, 삼중�
 - [[bok-2025-rapid-ai-diffusion-productivity-effects]] (wiki/macroeconomics/bok-2025-rapid-ai-diffusion-productivity-effects.md) — 본 연구의 보조 AI노출지표(AI 활용률)와 경력별 시간절감률 재분석의 원자료.
 - [[bok-2026-youth-employment-decline-ai-career-ladder]] (wiki/labor_economics/bok-2026-youth-employment-decline-ai-career-ladder.md) — 본 연구를 최신 자료로 연장하고, AI 활용방식(자동화/증강)·고용 유출입·학력별 실업률 분석으로 범위를 확장한 후속 연구.
 - [[bok-2026-ai-regional-labor-market-disparity]] — 본 연구를 20대 AI 고노출 일자리 감소의 근거로 인용한 한국은행 지역경제조사팀의 AI 유형별(생성형·에이전틱·피지컬) 지역 노동시장 분석(BOK 이슈노트 2026-25호).
+- [[bok-2026-gyeongnam-ai-index-labor-demand]] — 같은 연공편향 틀로 지역별고용조사 SDiD를 적용해 고노출 직업 청년 고용 비중 −1.27%p·청년 임금 −3.6%를 보인 한국은행 경남본부 보고서(본 연구를 직접 인용하지 않음).
